@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d5f678985ea0d54a",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf502dcc2700c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "035af578adf9c36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lynn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef8a6b8ae95de5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El (Elizabeth).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a38e60b44ea14b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "2a91c2fa6452963d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marlic Inok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2297611a316bec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0355013986fd8da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4602f9e54eca4fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b39222ac2f828ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52392289bb766e67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74eb1200ad32ec01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba22e764eb789e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc677f44b3df9a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3d40f3f400749f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "El (Elizabeth).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c58d31751dbd196d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "El (Elizabeth).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fec4be2d7b1f400",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e2c8b4acfe4a7be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "El (Elizabeth).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24a38e60b44ea14b",
+  "lastOpenFiles": [
+    "Marlic Inok.md",
+    "El (Elizabeth).md",
+    "ASSets/El/Marlic/a6c0f4d94cc055a63e2cea098abdba28.jpg",
+    "Untitled.md",
+    "ASSets/El/Head/23820545406722605.webp",
+    "ASSets/El/Marlic/cb68e2c4892820a0e7b10ab6da29b540.jpg",
+    "ASSets/El/Head",
+    "ASSets/El/Clothes",
+    "ASSets/El/Marlic",
+    "ASSets/El",
+    "ASSets/Lynn",
+    "Canv.canvas",
+    "Lynn.md",
+    "ASSets/Lynn/Clothes/Hero screenshot(4).png",
+    "ASSets/Lynn/Clothes",
+    "ASSets/Lynn/Body/fd4c35f3049382721cbfee2d8f0e0efa.jpg",
+    "ASSets/Lynn/Porcelain/c3b0c0737c48fcbff256c630c2ca2dc1.jpg",
+    "ASSets/Lynn/Porcelain/fd8dd71f902380f90a6c599a1d4b32a8.jpg",
+    "ASSets/Lynn/Porcelain/7e932ce855fdcdbe3fa10024b1d39b2b.jpg",
+    "ASSets/Lynn/Placem/cb435e4be0ffdc83fe5ea818b2284a8b.jpg",
+    "ASSets/Lynn/Placem/491cd2f1c651caee3d405c1f44b3aff8.jpg",
+    "ASSets/Lynn/Placem",
+    "ASSets/Lynn/Porcelain",
+    "ASSets/Lynn/Main frame",
+    "ASSets/Lynn/Hands"
+  ]
+}

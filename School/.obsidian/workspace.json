@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "d12f1d89be6df941",
+    "type": "split",
+    "children": [
+      {
+        "id": "20727b6911ba06bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7f435b4e33f4332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Hodiny/1. Hodina -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96023d4f7e120c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/A/Advanced persistent threat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51b96c29ca318a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/A/Advanced Encryption Standard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dea02c75d4ba56ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/C/CCMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb4535ea29a1a247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/C/CRAMM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "029316d56e6f0036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Hodiny/1. Hodina -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5906b53839e85f6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "f2d17cf264f7c7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/C/CCMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f352ba786352210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/C/CCMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "697b477dd996cc3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3534ce32e73d38c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77212ba2c9123c19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "815174dc7f25c409",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43741f67705ef300",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fc46d78c2b16377c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6ce01a86d24dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdbdeddde79a3a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KB/Hodiny/1. Hodina -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3738fbc0b0e5b7a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KB/Hodiny/1. Hodina -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5183e3b2c96730a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25334f524b37ee45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KB/Hodiny/1. Hodina -.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5906b53839e85f6f",
+  "lastOpenFiles": [
+    "Dictionary/C/CCMP.md",
+    "KB/Hodiny/1. Hodina -.md",
+    "Dictionary/A/Advanced Encryption Standard.md",
+    "Dictionary/C/Command and control attack.md",
+    "Dictionary/B/BYOD.md",
+    "Dictionary/B/Botnet.md",
+    "Dictionary/A/Audit.md",
+    "Dictionary/A/Asymmetric cryptography.md",
+    "Dictionary/A/Application programming interface.md",
+    "Dictionary/A/Advanced persistent threat.md",
+    "Dictionary/W/WAN.md",
+    "Dictionary/C/CRAMM.md",
+    "Dictionary/C/Control Bits (Flags).md",
+    "Dictionary/B/block size.md",
+    "Dictionary/F/Firewall.md",
+    "Dictionary/E/ENISA.md",
+    "Dictionary/D/DCE.md",
+    "Dictionary/A/Address space.md",
+    "69.md",
+    "Dictionary/G/GNU-GPL.md",
+    "Dictionary/F/Freeware.md",
+    "firewall.md",
+    "Dictionary/F/FTP.md",
+    "Dictionary/D/Doxingware.md",
+    "Dictionary/D/Domain.md",
+    "Dictionary/D/DNS server.md",
+    "Dictionary/1-n",
+    "Untitled.canvas",
+    "KB/Hodiny",
+    "Dictionary/Z",
+    "Dictionary/Y",
+    "Dictionary/X",
+    "Dictionary/W",
+    "Dictionary/V",
+    "Dictionary/U",
+    "Dictionary/T",
+    "Dictionary/S",
+    "Sources/ce972adabe0f7c0a29829ced113db2bebca4204e.jpg",
+    "Sources/ce972adabe0f7c0a29829ced113db2bebca4204e.svg",
+    "Sources/AES_(Rijndael)_Round_Function.png"
+  ]
+}

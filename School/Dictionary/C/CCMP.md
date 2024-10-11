@@ -1,0 +1,4 @@
+**CCMP** (**Counter Cipher Mode with Block Chaining Message Authentication Code Protocol**, **CCM mode Protocol**) je v [kryptografii](https://cs.wikipedia.org/wiki/Kryptografie "Kryptografie") název šifrovacího [protokolu](https://cs.wikipedia.org/wiki/Protokol_(informatika) "Protokol (informatika)") pro bezdrátové sítě, které používají standardy novely [[IEEE 802.11i]]. Nahrazuje prolomený protokol [WEP](https://cs.wikipedia.org/wiki/Wired_Equivalent_Privacy "Wired Equivalent Privacy") a méně bezpečný protokol [[TKIP]]. CCMP je založen na režimu čítače s CBC-MAC ([[CCM]]) v [[AES]] standardu.
+
+
+#WIP

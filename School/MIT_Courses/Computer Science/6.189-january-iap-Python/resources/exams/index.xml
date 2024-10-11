@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exam_sol.py</title>
+      <link>/resources/exam_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/exam_sol/data.json</guid>
+      <description>This resource is a supporting file for exam.</description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>The purpose of the test is to give you an idea of the kind of comfort with programming that we&amp;rsquo;d like you to get to very quickly in 6.01. If you do fine on this test, you should have no difficulty with the programming aspects of 6.01 on start-up. See how far you can get with this in 1–2 hours.
+Sample Python exam (PDF)
+Solutions (PY) (Courtesy of Kat Kononov and Sarina Canelake.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_exam.pdf</title>
+      <link>/resources/mit6_189iap11_exam/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_exam/data.json</guid>
+      <description>This resource contains information related to programming problems.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1 @@
+In modern [cryptography](https://en.wikipedia.org/wiki/Cryptography "Cryptography"), [[symmetric key]] [ciphers](https://en.wikipedia.org/wiki/Cipher "Cipher") are generally divided into [[stream ciphers]] and [[block ciphers]]. Block ciphers operate on a fixed length string of [[bits]]. The length of this bit string is the **block size**.

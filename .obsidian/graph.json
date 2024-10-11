@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "sun",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:School/Dictionary  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762823
+      }
+    },
+    {
+      "query": "path:School/HackTheBox  ",
+      "color": {
+        "a": 1,
+        "rgb": 65484
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.09392927902847352,
+  "close": false
+}

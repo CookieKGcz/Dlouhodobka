@@ -1,0 +1,2 @@
+![[Pasted image 20240518221932.png]]
+ALBATROSS

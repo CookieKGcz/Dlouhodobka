@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>check_for_vowels.py</title>
+      <link>/resources/check_for_vowels/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/check_for_vowels/data.json</guid>
+      <description>This resource is a supporting file for defining functions.</description>
+    </item>
+    
+    <item>
+      <title>comprehension_examples.py</title>
+      <link>/resources/comprehension_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/comprehension_examples/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+    <item>
+      <title>conditional_examples.py</title>
+      <link>/resources/conditional_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/conditional_examples/data.json</guid>
+      <description>This resource is a supporting file for conditionals and loops.</description>
+    </item>
+    
+    <item>
+      <title>functions.py</title>
+      <link>/resources/functions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/functions/data.json</guid>
+      <description>This resource is a supporting file for defining functions.</description>
+    </item>
+    
+    <item>
+      <title>height_example.py</title>
+      <link>/resources/height_example/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/height_example/data.json</guid>
+      <description>This resource is a supporting file for conditionals and loops.</description>
+    </item>
+    
+    <item>
+      <title>inheritance_examples.py</title>
+      <link>/resources/inheritance_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/inheritance_examples/data.json</guid>
+      <description>This resource is a supporting file for inheritance.</description>
+    </item>
+    
+    <item>
+      <title>lecture3.py</title>
+      <link>/resources/lecture3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture3/data.json</guid>
+      <description>This resource is a supporting file for defining functions.</description>
+    </item>
+    
+    <item>
+      <title>Lectures</title>
+      <link>/pages/lectures/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lectures/data.json</guid>
+      <description>LEC # TOPICS HANDOUTS AND EXAMPLES 1 Introduction Getting started (PDF)
+raw_input_example.py (PY)
+2 Conditionals, loops How to comment code properly (PDF)
+height_example.py (PY)
+conditional_examples.py (PY)
+loop_examples.py (PY)
+3 Defining functions lecture3.py (PY)
+functions.py (PY)
+check_for_vowels.py (PY)
+4 Strings, lists, list comprehensions string_examples.py (PY)
+list_examples.py (PY)
+comprehension_examples.py (PY)
+Additional Material
+Two examples of a rock-paper-scissors program:
+rps_example1.py (PY)
+rps_example2.py (PY)
+How to use while-else loops (suggestion: don&amp;rsquo;t use them at all, but if you do be aware they work differently than you might think):</description>
+    </item>
+    
+    <item>
+      <title>list_examples.py</title>
+      <link>/resources/list_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/list_examples/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+    <item>
+      <title>loop_examples.py</title>
+      <link>/resources/loop_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/loop_examples/data.json</guid>
+      <description>This resource is a supporting file for conditionals and loops.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_comment.pdf</title>
+      <link>/resources/mit6_189iap11_comment/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_comment/data.json</guid>
+      <description>This resource contains information related to comments.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_mistakes.pdf</title>
+      <link>/resources/mit6_189iap11_mistakes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_mistakes/data.json</guid>
+      <description>This resource contains information related to mistakes.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_rec_notes.pdf</title>
+      <link>/resources/mit6_189iap11_rec_notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_rec_notes/data.json</guid>
+      <description>This resource contains information related to recursion notes.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_rec_problems.pdf</title>
+      <link>/resources/mit6_189iap11_rec_problems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_rec_problems/data.json</guid>
+      <description>This resource contains information related to recursion exercises.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_start.pdf</title>
+      <link>/resources/mit6_189iap11_start/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_start/data.json</guid>
+      <description>This resource contains information related to python.</description>
+    </item>
+    
+    <item>
+      <title>point.py</title>
+      <link>/resources/point/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/point/data.json</guid>
+      <description>This resource is a supporting file for classes.</description>
+    </item>
+    
+    <item>
+      <title>raw_input_example.py</title>
+      <link>/resources/raw_input_example/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/raw_input_example/data.json</guid>
+      <description>This resource is a supporting file for introduction.</description>
+    </item>
+    
+    <item>
+      <title>rec_ex.py</title>
+      <link>/resources/rec_ex/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec_ex/data.json</guid>
+      <description>This resource is a supporting file for recursion.</description>
+    </item>
+    
+    <item>
+      <title>recursion.py</title>
+      <link>/resources/recursion/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recursion/data.json</guid>
+      <description>This resource is a supporting file for recursion.</description>
+    </item>
+    
+    <item>
+      <title>rps_example1.py</title>
+      <link>/resources/rps_example1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rps_example1/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+    <item>
+      <title>rps_example2.py</title>
+      <link>/resources/rps_example2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rps_example2/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+    <item>
+      <title>string_examples.py</title>
+      <link>/resources/string_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/string_examples/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+    <item>
+      <title>tuple_examples.py</title>
+      <link>/resources/tuple_examples/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/tuple_examples/data.json</guid>
+      <description>This resource is a supporting file for tuples, dictionaries, and common python mistakes.</description>
+    </item>
+    
+    <item>
+      <title>wheel.py</title>
+      <link>/resources/wheel/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/wheel/data.json</guid>
+      <description>This resource is a supporting file for classes.</description>
+    </item>
+    
+    <item>
+      <title>while_else.py</title>
+      <link>/resources/while_else/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/while_else/data.json</guid>
+      <description>This resource is a supporting file for strings, lists, and list comprehensions.</description>
+    </item>
+    
+  </channel>
+</rss>

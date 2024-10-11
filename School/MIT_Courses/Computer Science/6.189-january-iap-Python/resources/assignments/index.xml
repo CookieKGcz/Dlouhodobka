@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, available here. You should download and install version 2.6.x, not 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
+ASSN # ASSIGNMENTS SUPPORTING FILES Homework 1 Handout (PDF)
+Written exercises (PDF)
+Code template (PY) Homework 2 Handout (PDF)
+Written exercises (PDF)</description>
+    </item>
+    
+    <item>
+      <title>game_of_life_template.py</title>
+      <link>/resources/game_of_life_template/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/game_of_life_template/data.json</guid>
+      <description>This resource is a supporting file for game of life.</description>
+    </item>
+    
+    <item>
+      <title>graphics.py</title>
+      <link>/resources/graphics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/graphics/data.json</guid>
+      <description>This resource is a supporting file for graphics.</description>
+    </item>
+    
+    <item>
+      <title>hangman_lib_demo.py</title>
+      <link>/resources/hangman_lib_demo/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hangman_lib_demo/data.json</guid>
+      <description>This resource is a supporting file for hangman.</description>
+    </item>
+    
+    <item>
+      <title>hangman_lib.py</title>
+      <link>/resources/hangman_lib/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hangman_lib/data.json</guid>
+      <description>This resource is a supporting file for hangman.</description>
+    </item>
+    
+    <item>
+      <title>hangman_template.py</title>
+      <link>/resources/hangman_template/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hangman_template/data.json</guid>
+      <description>This resource is a supporting file for hangman.</description>
+    </item>
+    
+    <item>
+      <title>hw1.py</title>
+      <link>/resources/hw1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw1/data.json</guid>
+      <description>This resource is a supporting file for code template.</description>
+    </item>
+    
+    <item>
+      <title>hw2.py</title>
+      <link>/resources/hw2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw2/data.json</guid>
+      <description>This resource is a supporting file for code template.</description>
+    </item>
+    
+    <item>
+      <title>hw3.py</title>
+      <link>/resources/hw3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw3/data.json</guid>
+      <description>This resource is a supporting file for code template.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_final_proj.pdf</title>
+      <link>/resources/mit6_189iap11_final_proj/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_final_proj/data.json</guid>
+      <description>This resource contains information related to game play.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_graphics.pdf</title>
+      <link>/resources/mit6_189iap11_graphics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_graphics/data.json</guid>
+      <description>This resource contains information related to graphics module reference.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw1_written.pdf</title>
+      <link>/resources/mit6_189iap11_hw1_written/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw1_written/data.json</guid>
+      <description>This resource contains information related to boolean operators.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw1.pdf</title>
+      <link>/resources/mit6_189iap11_hw1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw1/data.json</guid>
+      <description>This resource contains information related to installing python.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw2_written.pdf</title>
+      <link>/resources/mit6_189iap11_hw2_written/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw2_written/data.json</guid>
+      <description>This resource contains information related to string operations.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw2.pdf</title>
+      <link>/resources/mit6_189iap11_hw2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw2/data.json</guid>
+      <description>This resource contains information related to math module.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw3_written.pdf</title>
+      <link>/resources/mit6_189iap11_hw3_written/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw3_written/data.json</guid>
+      <description>This resource contains information related to mutability.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw3.pdf</title>
+      <link>/resources/mit6_189iap11_hw3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw3/data.json</guid>
+      <description>This resource contains information related to collision detection of balls.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw4_written.pdf</title>
+      <link>/resources/mit6_189iap11_hw4_written/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw4_written/data.json</guid>
+      <description>This resource contains information related to inheritance.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_hw4.pdf</title>
+      <link>/resources/mit6_189iap11_hw4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_hw4/data.json</guid>
+      <description>This resource contains information related to inventing the wheel.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_project1.pdf</title>
+      <link>/resources/mit6_189iap11_project1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_project1/data.json</guid>
+      <description>This resource contains information related to the game of hangman.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_189IAP11_project2.pdf</title>
+      <link>/resources/mit6_189iap11_project2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_189iap11_project2/data.json</guid>
+      <description>This resource contains information related to animation.</description>
+    </item>
+    
+    <item>
+      <title>nims.py</title>
+      <link>/resources/nims/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/nims/data.json</guid>
+      <description>This resource is a supporting file for nims.</description>
+    </item>
+    
+    <item>
+      <title>rgb.txt</title>
+      <link>/resources/rgb/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rgb/data.json</guid>
+      <description>This resource is a supporting file for color strings.</description>
+    </item>
+    
+    <item>
+      <title>strings_and_lists.py</title>
+      <link>/resources/strings_and_lists/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/strings_and_lists/data.json</guid>
+      <description>This resource is a supporting file for strings and lists.</description>
+    </item>
+    
+    <item>
+      <title>tetris_template.py</title>
+      <link>/resources/tetris_template/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/tetris_template/data.json</guid>
+      <description>This resource is a supporting file for tetris.</description>
+    </item>
+    
+    <item>
+      <title>wheel.py</title>
+      <link>/resources/wheel-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/wheel-1/data.json</guid>
+      <description>This resource is a supporting file for wheel.</description>
+    </item>
+    
+    <item>
+      <title>words.txt</title>
+      <link>/resources/words/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/words/data.json</guid>
+      <description>This resource is a supporting file for words.</description>
+    </item>
+    
+  </channel>
+</rss>

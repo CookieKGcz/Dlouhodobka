@@ -1,0 +1,6 @@
+
+{
+  "title":"Lectures",
+  "content":" LEC # TOPICS HANDOUTS AND EXAMPLES 1 Introduction Getting started (PDF)\nraw_input_example.py (PY)\n2 Conditionals, loops How to comment code properly (PDF)\nheight_example.py (PY)\nconditional_examples.py (PY)\nloop_examples.py (PY)\n3 Defining functions lecture3.py (PY)\nfunctions.py (PY)\ncheck_for_vowels.py (PY)\n4 Strings, lists, list comprehensions string_examples.py (PY)\nlist_examples.py (PY)\ncomprehension_examples.py (PY)\nAdditional Material\nTwo examples of a rock-paper-scissors program:\nrps_example1.py (PY)\nrps_example2.py (PY)\nHow to use while-else loops (suggestion: don\u0026rsquo;t use them at all, but if you do be aware they work differently than you might think):\nwhile_else.py (PY)\nOptional lecture Recursion Recursion notes (PDF)\nRecursion examples (PY)\nOptional problems (PDF)\nSolutions to optional problems (PY)\n5 Tuples, dictionaries, common Python mistakes tuple_examples.py (PY)\nRemember that the keys of a dictionary must be immutable objects, but the values of a dictionary can be either immutable or mutable objects.\nCommon Python mistakes and misconceptions (PDF)\n6 Classes point.py (PY) 7 More about classes wheel.py (PY) 8 Inheritance inheritance_examples.py (PY) "}
+
+
