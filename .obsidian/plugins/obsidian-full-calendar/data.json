@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#e49595",
+      "directory": "Calendar-RL/prace"
+    },
+    {
+      "type": "local",
+      "color": "#7c93cb",
+      "directory": "Calendar-RL/skola"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

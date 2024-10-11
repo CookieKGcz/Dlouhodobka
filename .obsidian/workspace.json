@@ -4,41 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "f69501661c30ddbe",
-        "type": "tabs",
-        "dimension": 45.19230769230769,
+        "id": "c181c7f72e63bc91",
+        "type": "split",
+        "dimension": 38.522081329252295,
         "children": [
           {
-            "id": "4d36f914c1833524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-                "mode": "source",
-                "source": false
+            "id": "f69501661c30ddbe",
+            "type": "tabs",
+            "dimension": 70.97701149425288,
+            "children": [
+              {
+                "id": "4d36f914c1833524",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "50b098c4edf04c9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~~Dlouhodobka~~/Osnova.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "50b098c4edf04c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
-                "mode": "source",
-                "source": false
+            "id": "c5bbd85a2c74bb9e",
+            "type": "tabs",
+            "dimension": 29.022988505747126,
+            "children": [
+              {
+                "id": "491bc6ebcd15479b",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "84312897b477170e",
         "type": "tabs",
-        "dimension": 54.807692307692314,
+        "dimension": 61.4779186707477,
         "children": [
           {
             "id": "efbd4956809eb786",
@@ -65,6 +88,14 @@
         "id": "4cf9bc73076faa70",
         "type": "tabs",
         "children": [
+          {
+            "id": "741fb2f72831cc10",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "8865cc117ce8ec8a",
             "type": "leaf",
@@ -98,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,11 +194,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,15 +210,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "50b098c4edf04c9a",
   "lastOpenFiles": [
+    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+    "School/~~Dlouhodobka~~/Xxxx.md",
+    "School/~~Dlouhodobka~~/~syncthing~Xxxx.md.tmp",
+    "~syncthing~.stwritetest.tmp",
+    "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/g",
+    "Android/data/com.naver.linewebtoon/episode_download/66/93/~syncthing~11.jpg.tmp",
+    "Android/data/com.naver.linewebtoon/episode_download/66/77/~syncthing~29.jpg.tmp",
+    "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/~syncthing~g.tmp",
+    "Android/data/com.PigeonGames.Phigros/files/Unity/ef4b5cd4-ae59-4658-a5d3-bf3946853b65/Analytics/ArchivedEvents/170335698200002.5d97c6a2/~syncthing~c.tmp",
+    "Android/data/com.nekki.shadowfight/no_backup/vungle_cache/clever_cache/assets/meta/~syncthing~FuDCt_BYwDnDv6jjRLJh6_-ntNBp1-DvQSRZQ3TYNs4=.vng_meta.tmp",
+    "Android/data/com.naver.linewebtoon/episode_download/66/79/~syncthing~21.jpg.tmp",
+    "Android/data/com.naver.linewebtoon/episode_download/1726/77/~syncthing~55.jpg.tmp",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.294/premium/test2_img_5.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/pdf-B2i4StTu.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/csai_faq_background-C0NT1di2.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_overseas_8-BzByk0B_.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_8-DySt3JHg.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/ic_vipcenter_rights_lv6-BEX0-6UP.png",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_ios_5-BNaYKrSc.png",
+    "Android/data/org.videolan.vlc/files/medialib/thumbnails/8.jpg",
+    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.294/premium/static/banner_ios_5-BNaYKrSc.png",
+    "Android/data/com.discord/files/Pictures/Discord/20210927_141248.jpg",
+    "Calendar-RL/prace/2024-10-11 test2.md",
+    "Calendar-RL/prace/2024-10-10 test.md",
+    "Calendar-RL/skola/2024-10-11 dlouhodobka.md",
+    "School/~~Dlouhodobka~~/Osnova.md",
+    "2024-10-13 a.md",
+    "Calendar-RL/2024-10-13 bb.md",
     "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
     "School/~~Dlouhodobka~~/asdsads.md",
-    "School/~~Dlouhodobka~~/Osnova.md",
-    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/Dictionary/W/WAN.md",
     "School/Dictionary/W/WLAN.md",
     "School/Dictionary/W/whatweb.md",
@@ -202,32 +262,6 @@
     "School/Dictionary/G/GNU-GPL.md",
     "School/Dictionary/F/FTP.md",
     "School/Dictionary/F/Freeware.md",
-    "School/Dictionary/F/Firewall.md",
-    "School/Dictionary/F/Ffuf.md",
-    "School/Dictionary/E/EyeWitness.md",
-    "School/Dictionary/E/EternalBlue.md",
-    "School/Dictionary/E/ENISA.md",
-    "School/Dictionary/1-n/3DES.md",
-    "School/~~Dlouhodobka~~/DOCX",
-    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.docx",
-    "School/~~Dlouhodobka~~/DOCX/Attachments/Attachment 1.png",
-    "School/~~Dlouhodobka~~/DOCX/Attachments/Attachment.png",
-    "School/~~Dlouhodobka~~/DOCX/Attachments",
-    "School/~~Dlouhodobka~~",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005181144.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005180126.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005180035.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005175710.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005174430.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005174353.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005174141.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241005174117.png",
-    "School/~KB~/PICOCTF/Cryptography3 1.docx",
-    "School/~KB~/PICOCTF/Attachments",
-    "School/~KB~/PICOCTF",
-    "School/HackTheBox/Modules/Linux_fundamentals/Untitled",
-    "School/HackTheBox/Modules/Linux_fundamentals/Intro",
-    "CRA/MAPY_Notes",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
