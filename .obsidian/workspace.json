@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
+                "file": "School/~~Dlouhodobka~~/asdsads.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
+                "file": "School/~~Dlouhodobka~~/asdsads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
+                "file": "School/~~Dlouhodobka~~/asdsads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md"
+                "file": "School/~~Dlouhodobka~~/asdsads.md"
               }
             }
           }
@@ -183,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,8 +194,9 @@
   },
   "active": "1dd329559efb72c1",
   "lastOpenFiles": [
-    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/~~Dlouhodobka~~/Osnova.md",
+    "School/~~Dlouhodobka~~/asdsads.md",
+    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/Dictionary/W/WAN.md",
     "School/Dictionary/W/WLAN.md",
     "School/Dictionary/W/whatweb.md",
@@ -218,7 +220,6 @@
     "School/Dictionary/E/ENISA.md",
     "School/Dictionary/1-n/3DES.md",
     "School/Dictionary/A/Address space.md",
-    "School/Dictionary/A/Advanced Encryption Standard.md",
     "School/~~Dlouhodobka~~/DOCX",
     "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.docx",
     "School/~~Dlouhodobka~~/DOCX/Attachments/Attachment 1.png",
