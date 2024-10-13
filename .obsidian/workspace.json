@@ -6,7 +6,6 @@
       {
         "id": "c181c7f72e63bc91",
         "type": "split",
-        "dimension": 38.522081329252295,
         "children": [
           {
             "id": "f69501661c30ddbe",
@@ -36,9 +35,33 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "efbd4956809eb786",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "25febccf73321fed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "c5bbd85a2c74bb9e",
@@ -57,25 +80,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "84312897b477170e",
-        "type": "tabs",
-        "dimension": 61.4779186707477,
-        "children": [
-          {
-            "id": "efbd4956809eb786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md",
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Osnova.md"
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md"
               }
             }
           }
@@ -214,9 +218,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "50b098c4edf04c9a",
+  "active": "25febccf73321fed",
   "lastOpenFiles": [
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20240928184831.png",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231705.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231630.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231626.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231515.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231511.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231507.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231503.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231244.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231234.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231218.png",
+    "School/MikroTik/2 Zákldní konfig.md",
+    "School/MikroTik/1 WinBox s neighbors a vymazání.md",
+    "School/MikroTik/Attachments",
+    "School/~~Dlouhodobka~~/Osnova.md",
     "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+    "School/MikroTik",
     "School/~~Dlouhodobka~~/Xxxx.md",
     "School/~~Dlouhodobka~~/~syncthing~Xxxx.md.tmp",
     "~syncthing~.stwritetest.tmp",
@@ -226,22 +247,9 @@
     "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/~syncthing~g.tmp",
     "Android/data/com.PigeonGames.Phigros/files/Unity/ef4b5cd4-ae59-4658-a5d3-bf3946853b65/Analytics/ArchivedEvents/170335698200002.5d97c6a2/~syncthing~c.tmp",
     "Android/data/com.nekki.shadowfight/no_backup/vungle_cache/clever_cache/assets/meta/~syncthing~FuDCt_BYwDnDv6jjRLJh6_-ntNBp1-DvQSRZQ3TYNs4=.vng_meta.tmp",
-    "Android/data/com.naver.linewebtoon/episode_download/66/79/~syncthing~21.jpg.tmp",
-    "Android/data/com.naver.linewebtoon/episode_download/1726/77/~syncthing~55.jpg.tmp",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.294/premium/test2_img_5.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/pdf-B2i4StTu.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/csai_faq_background-C0NT1di2.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_overseas_8-BzByk0B_.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_8-DySt3JHg.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/ic_vipcenter_rights_lv6-BEX0-6UP.png",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.296/premium/static/banner_ios_5-BNaYKrSc.png",
-    "Android/data/org.videolan.vlc/files/medialib/thumbnails/8.jpg",
-    "Android/data/com.intsig.camscanner/files/sdk-weboffline/work/premium/1.0.294/premium/static/banner_ios_5-BNaYKrSc.png",
-    "Android/data/com.discord/files/Pictures/Discord/20210927_141248.jpg",
     "Calendar-RL/prace/2024-10-11 test2.md",
     "Calendar-RL/prace/2024-10-10 test.md",
     "Calendar-RL/skola/2024-10-11 dlouhodobka.md",
-    "School/~~Dlouhodobka~~/Osnova.md",
     "2024-10-13 a.md",
     "Calendar-RL/2024-10-13 bb.md",
     "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
@@ -258,10 +266,6 @@
     "School/Dictionary/N/NBAD.md",
     "School/Dictionary/M/Maximum segment size.md",
     "School/Dictionary/K/key size.md",
-    "School/Dictionary/H/HackTricks.md",
-    "School/Dictionary/G/GNU-GPL.md",
-    "School/Dictionary/F/FTP.md",
-    "School/Dictionary/F/Freeware.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",

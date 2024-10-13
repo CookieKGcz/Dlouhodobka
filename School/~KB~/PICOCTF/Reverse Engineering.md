@@ -85,7 +85,7 @@ tím pádem se to musí rovnat a jde tedy použít 59 XOR 85 = password[1]
 
 
 ## WinAntiDbg0x100
-
+### Ve x64dbg
 Ze začátku nám bylo řečeno že program nám bude bránit ve debuggování takže prostě začnem debuggovat
 ![[Pasted image 20240928180102.png]]
 (ve VS nejde (nebo aspoň nevím jakl) debuggovat .exe, takže jsem si stáhl random opensource debugger)
@@ -109,8 +109,15 @@ po pár kroků vpřed máme flagu
 ![[Pasted image 20240928181659.png]]
 00921634 | A1 08549200              | mov eax,dword ptr ds:[925408]           | 00925408:&"picoCTF{d3bug_f0r_th3_Win_0x100_cc0ff664}"
 
-
+### V IDA
+Postup
+vyhledáme se searchem string "debugg"
+tam si naklikneme na graf který obsahuje IsDebuggPresent
+Dáme brakepoint na začátek a F8 postupujeme dál
+U rozdvojky (jumpu) buď přepíšeme EAX, nebo setneme EIP tam kam chceme jít
+![[Pasted image 20241012225344.png]]
 ## WinAntiDbg0x200
+### Ve x64dbg
 ze začátku nejde najít začátek ale po pár skipech už můžeme najít
 ![[Pasted image 20240928184831.png]]
 ![[Pasted image 20240928184856.png]]
@@ -118,7 +125,46 @@ ze začátku nejde najít začátek ale po pár skipech už můžeme najít
 stačilo znovu jen skipnout přes isdebuggerpresent
 ![[Pasted image 20240928185946.png]]
 0019185F | 8B0D A0501900            | mov ecx,dword ptr ds:[1950A0]           | 001950A0:&"picoCTF{0x200_debug_f0r_Win_c6db2768}"
+### V IDA
+Zase s search „debugg“
+![[Pasted image 20241012230920.png]]
+Najdeme kus kde nám to kontroluje pro debugg s IsDebuggPresent
 
+Dáme breakpoint
+![[Pasted image 20241012231001.png]]
+Spandne to dříve takže dáme další breakpoint na začátku grafu
+
+Zasekne se nám to tady
+
+**Vyřešení s SET EIP**
+![[Pasted image 20241012231015.png]]
+Setneme EIP doprava
+![[Pasted image 20241012231030.png]]
+
+Znova setneme doprava protože by to šlo doleva (IsDebugPresent by to detekoval)
+![[Pasted image 20241012231055.png]]
+
+flag
+![[Pasted image 20241012231124.png]]
+
+**Vyřešení s přepisováním**
+![[Pasted image 20241012231151.png]]
+Jumb if NOT zero
+
+![[Pasted image 20241012231201.png]]
+Přepsali jsme EAX na 1
+![[Pasted image 20241012231211.png]]
+Pozor musíme na testu, né na jumpu
+![[Pasted image 20241012231218.png]]
+Správně nám to skočí doprava
+
+Zde nám to zase půjde nesprávně
+![[Pasted image 20241012231234.png]]
+Máme Jz = Jump if zero
+Přepíšeme EAX na 0
+
+![[Pasted image 20241012231244.png]]
+A máme flagu.
 ## WinAntiDbg0x300 ==WIP==
 vyzkoušet pak na vm
 
@@ -213,6 +259,24 @@ asm1:
 - The function always modifies the argument by either adding or subtracting 18, based on the conditions.
 
 For `asm1` equal to `0x6fa` (1786 in decimal), the result of the calculation is **1768** 0x6e8
+
+## Bit-O-Asm-1
+![[Pasted image 20241012231503.png]]
+![[Pasted image 20241012231507.png]]
+![[Pasted image 20241012231511.png]]
+![[Pasted image 20241012231515.png]]
+Podle mého se jen přiřadí 0x30 do eax
+
+Což je 48 v decimal
+
+Ano, picoCTF{48}
+## Bit-O-Asm-2
+![[Pasted image 20241012231626.png]]
+![[Pasted image 20241012231630.png]]
+Podle mě eax se rovná DWORD PTR \[rbp-ox4]
+
+Tak když se DWORD … rovná 0x9fe1a tak eax se rovná taky 0x9fe1a
+![[Pasted image 20241012231705.png]]
 
 ## Packer
 Dostali jsme Binary file. První ověříme, co je to vůbec za file s „file“
