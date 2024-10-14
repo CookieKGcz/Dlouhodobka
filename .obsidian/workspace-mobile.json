@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/~~Dlouhodobka~~/Xxxx.md",
+                "file": "School/HS/test - OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/~~Dlouhodobka~~/Xxxx.md",
+            "file": "School/HS/test - OSPF.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "School/~~Dlouhodobka~~/Xxxx.md",
+            "file": "School/HS/test - OSPF.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "School/~~Dlouhodobka~~/Xxxx.md"
+            "file": "School/HS/test - OSPF.md"
           }
         }
       },
@@ -144,6 +144,8 @@
   "active": "6f9c8715d61dad9b",
   "lastOpenFiles": [
     "School/~~Dlouhodobka~~/Osnova.md",
+    "School/HS/test - OSPF.md",
+    "School/MikroTik/2 Zákldní konfig.md",
     "School/~~Dlouhodobka~~/Xxxx.md"
   ]
 }

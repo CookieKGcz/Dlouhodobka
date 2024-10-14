@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/~~Dlouhodobka~~/Osnova.md",
+                    "file": "School/HS/test - OSPF.md",
                     "mode": "source",
                     "source": false
                   }
@@ -61,7 +61,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "c5bbd85a2c74bb9e",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                "file": "School/HS/test - OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                "file": "School/HS/test - OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md"
+                "file": "School/HS/test - OSPF.md"
               }
             }
           }
@@ -218,10 +218,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "25febccf73321fed",
+  "active": "50b098c4edf04c9a",
   "lastOpenFiles": [
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20240928184831.png",
+    "School/~~Dlouhodobka~~/Osnova.md",
+    "School/HS/test - OSPF.md",
+    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20240928184831.png",
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231705.png",
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231630.png",
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231626.png",
@@ -231,12 +234,9 @@
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231503.png",
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231244.png",
     "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231234.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231218.png",
     "School/MikroTik/2 Zákldní konfig.md",
     "School/MikroTik/1 WinBox s neighbors a vymazání.md",
     "School/MikroTik/Attachments",
-    "School/~~Dlouhodobka~~/Osnova.md",
-    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/MikroTik",
     "School/~~Dlouhodobka~~/Xxxx.md",
     "School/~~Dlouhodobka~~/~syncthing~Xxxx.md.tmp",
