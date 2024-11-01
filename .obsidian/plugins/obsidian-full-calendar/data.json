@@ -9,6 +9,11 @@
       "type": "local",
       "color": "#7c93cb",
       "directory": "Calendar-RL/skola"
+    },
+    {
+      "type": "local",
+      "color": "#1c4d82",
+      "directory": "Calendar-RL/skola-du"
     }
   ],
   "defaultCalendar": 0,
