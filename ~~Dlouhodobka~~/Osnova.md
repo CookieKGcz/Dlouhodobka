@@ -42,26 +42,35 @@ písemná zpráva (protokol) má tyto povinné části:
 ## Osnova - teoretická část
 - vysvětlení principu
 - přehled útoků
-	- Volume-Based Attacks
+	- **Volume-Based (volumetric) Attacks**
 		- UDP floods
+			- Reply with an ICMP Destination Unreachable packet
 		- ICMP floods
-	- Protocol Attacks
+			- ICMP echo-request packets
+	- **Protocol Attacks**
 		- SYN flood
+			- Never sends ACKs
 		- Ping of Death
-	- Application Layer Attacks
-		- HTTP flood
+			- Packet larger than the maximum allowable size
+	- **Application Layer Attacks** (DDoS)
+		- HTTP flood 
+			- HTTP GET
+			- HTTP POST
 		- BGP hijacking
-		- Slowloris (nástroj)
-	- Reflective Attacks
-		- DNS reflective
-		- NTP reflective
-		- TCP ?
-	- Resource Exhaustion
+			- reroute Internet traffic - falsely announcing ownership of groups of IP addresses
+		- Slowloris (taky nástroj)
+			- operates by utilizing partial HTTP requests - keeping connections open
+	- **Reflective Attacks**
+		- DNS reflection
+		- NTP reflection
+			- UDP packets with spoofed IP to NTP server > "monlist" command (large response) 
+	- **Resource Exhaustion**
 		- Local Area Network Denial
-	- DDoS
+	- **DDoS** how exactly
 		- botnet
 - nástroje pro realizaci
 	- LOIC
+	- HOIC
 	- Slowloris (nástroj)
 - možnosti prevence / řešení -> pro obranu
 - konkrétní nástroje používané proti útokům ve firemním prostředí

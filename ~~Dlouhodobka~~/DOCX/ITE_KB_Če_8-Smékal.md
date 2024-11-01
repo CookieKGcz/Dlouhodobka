@@ -1,4 +1,4 @@
-![](School/~~Dlouhodobka~~/DOCX/Attachments/Attachment.png)![](School/~~Dlouhodobka~~/DOCX/Attachments/Attachment%201.png 1.png>)**Střední průmyslová škola elektrotechnická  
+![](~~Dlouhodobka~~/DOCX/Attachments/Attachment.png)![](School/~~Dlouhodobka~~/DOCX/Attachments/Attachment%201.png 1.png>)**Střední průmyslová škola elektrotechnická  
 a gymnázium V Úžlabině**
 
 **MATURITNÍ PRÁCE Z ODBORNÝCH PŘEDMĚTŮ**

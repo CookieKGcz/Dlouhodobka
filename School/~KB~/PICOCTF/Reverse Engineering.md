@@ -45,7 +45,7 @@ zadání
 ![[Pasted image 20240927213740.png]]
 První si nadefinujeme buffer a password (to bude to co nakonci source porovnává)
 Pak stačí jen obrátit for loopy
-POZOR poslední for (který bude první v našem scriptu) se musí zachovat increment -2 protože pak by to odstřihlo kus passwordu
+POZOR poslední for (který bude první v našem scriptu) se musí zachovat increment -2 protože pak by to odstřihlo kus passworduS
 
 ## vault-door-4
 ![[Pasted image 20240927223408.png]]
@@ -328,4 +328,136 @@ ANO
 ## Picker III ==WIP==
 ![[Pasted image 20241005181144.png]]
 
-## 
+## File-run1
+./run nám dá permissions denied
+
+![[Pasted image 20241018085738.png]]
+chmod 777 run
+a ./xxxx
+
+picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}
+## File-run2
+![[Pasted image 20241018085928.png]]
+akorát s argumentem Hello!
+
+## GDB Baby Step I
+### V GDB
+![[Pasted image 20241018090711.png]]
+![[Pasted image 20241018090726.png]]
+![[Pasted image 20241018090734.png]]
+eax,0x86342
+
+takže už jenom z hex na decimal
+![[Pasted image 20241018090910.png]]
+### V IDA
+![[Pasted image 20241018091431.png]]
+![[Pasted image 20241018091442.png]]
+rovnou pravým když klikneme tak vidíme i v decimal
+![[Pasted image 20241018091535.png]]
+
+## GDB baby Step II
+![[Pasted image 20241018092016.png]]
+![[Pasted image 20241018092436.png]]
+![[Pasted image 20241018092632.png]]
+![[Pasted image 20241018092520.png]]
+nope
+rbp -20
+rbp -32
+rbp -4 + 123098
+rbp -12 + 607
+rbp -8
+eax = 123629 -8
+eax (123621) =  123621 -12
+
+123621 + 123609 -4
+
+### here how
+
+set disassambly-flavor intel
+disassamble main
+
+**break main**
+layout asm
+
+run
+break \*0x401142 (another breakpoint)
+![[Pasted image 20241018100626.png]]
+with "c" we continue
+
+pak print/d $eax
+
+![[Pasted image 20241018100617.png]]
+
+## GDB baby Step III
+
+## GDB baby steps IV
+uplatnil jsem stejný postup jako z baby steps II, ale teď chtějí najít konstantu která násobí eax
+![[Pasted image 20241025092953.png]]
+v main se odkazuje na funkci tak ji jdeme omrknout
+
+imul vipadá podezřele, tak si vyhldáme 0x3269
+![[Pasted image 20241025092858.png]]
+![[Pasted image 20241025093102.png]]
+A máme flagu picoCTF{12905}
+## Reverse
+po stáhnutí jsem vyzkoušel strings s grep a voala
+![[Pasted image 20241025085300.png]]
+
+## Safe Opener
+otevřeme a catneme, jelikož to má příponu .java, tak by to mohl být nějaký kód
+![[Pasted image 20241025085551.png]]
+Vidíme Base64, takže asi nějaký string bude zakódovaný do baseu64
+
+encodedkey
+![[Pasted image 20241025085604.png]]
+![[Pasted image 20241025085536.png]]
+
+## Safe Opener II
+catneme a podíváme se na output jelikož teď máme příponu .class
+![[Pasted image 20241025090001.png]]
+Ale hned najdeme flagu...
+## Unpackme
+uplatnil jsem stejný postup jako v packer úloze
+s
+chmod 777 unpackme-upx
+
+upx -d unpackme-upx -o outnew
+
+![[Pasted image 20241025093653.png]]
+nic nedělá ani grepem nenajdeme nic
+
+máme reverse eng. tak použijeme [[Ghidra]]
+
+file -> import file
+summary
+![[Pasted image 20241025094429.png]]
+
+a otevřeme
+![[Pasted image 20241025094656.png]]
+po otevření dáme analysis
+![[Pasted image 20241025095334.png]]
+potrvá
+dále můžeme vyhledat kde se nás to zeptalo na fav. numer
+-> search -> program text
+![[Pasted image 20241025095444.png]]
+![[Pasted image 20241025095543.png]]
+
+decompile window
+![[Pasted image 20241025100004.png]]
+
+![[Pasted image 20241025100449.png]]
+**scanf na -> co napíšeme a na local_44
+pak local_44 == 0xb83cb** aby se spustil if
+
+![[Pasted image 20241025100551.png]]
+Tak vyzkoušíme zadat do programu a voala
+
+![[Pasted image 20241025100313.png]]
+
+## Crackme-py
+![[Pasted image 20241101085851.png]]
+dostali jsme nějaký python kód, a rovnou bezos_cc_secret vypadá jako něco né tak zaheslovaného (znaky docela u sebe), tak rovnou vyzkoušíme ROT47, jelikož podtím je ten decode
+
+a voala
+![[Pasted image 20241101090137.png]]
+

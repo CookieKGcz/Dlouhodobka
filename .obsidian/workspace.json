@@ -10,7 +10,7 @@
           {
             "id": "f69501661c30ddbe",
             "type": "tabs",
-            "dimension": 70.97701149425288,
+            "dimension": 85.63218390804597,
             "children": [
               {
                 "id": "4d36f914c1833524",
@@ -21,7 +21,9 @@
                     "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2 Web Enumeration"
                 }
               },
               {
@@ -30,10 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/HS/test - OSPF.md",
+                    "file": "School/~~Dlouhodobka~~/Osnova.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Osnova"
                 }
               },
               {
@@ -42,10 +46,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Actually Praktická část"
                 }
               },
               {
@@ -54,26 +60,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                    "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
+                }
+              },
+              {
+                "id": "e2a85a3c48f0668b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Binary Exploitation"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "c5bbd85a2c74bb9e",
             "type": "tabs",
-            "dimension": 29.022988505747126,
+            "dimension": 14.367816091954023,
             "children": [
               {
                 "id": "491bc6ebcd15479b",
                 "type": "leaf",
                 "state": {
                   "type": "full-calendar-view",
-                  "state": {}
+                  "state": {},
+                  "icon": "calendar-glyph",
+                  "title": "Calendar"
                 }
               }
             ]
@@ -97,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -107,7 +133,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -122,7 +150,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -130,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -138,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -154,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/HS/test - OSPF.md",
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +194,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reverse Engineering"
             }
           },
           {
@@ -171,10 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/HS/test - OSPF.md",
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reverse Engineering"
             }
           },
           {
@@ -185,7 +221,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -194,8 +232,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/HS/test - OSPF.md"
-              }
+                "file": "School/~KB~/PICOCTF/Reverse Engineering.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reverse Engineering"
             }
           }
         ],
@@ -208,34 +248,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "50b098c4edf04c9a",
+  "active": "8865cc117ce8ec8a",
   "lastOpenFiles": [
-    "School/~~Dlouhodobka~~/Osnova.md",
-    "School/HS/test - OSPF.md",
-    "School/~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
-    "School/~KB~/PICOCTF/Reverse Engineering.md",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20240928184831.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231705.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231630.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231626.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231515.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231511.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231507.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231503.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231244.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241012231234.png",
+    "~~Dlouhodobka~~/Bordel_Na_Obrázky/Pasted image 20241101230930.png",
+    "~~Dlouhodobka~~/Bordel_Na_Obrázky/Pasted image 20241101230823.png",
+    "~~Dlouhodobka~~/Bordel_Na_Obrázky",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
     "School/MikroTik/2 Zákldní konfig.md",
     "School/MikroTik/1 WinBox s neighbors a vymazání.md",
+    "~~Dlouhodobka~~/Osnova.md",
+    "School/MikroTik/Attachments/Pasted image 20241023124228.png",
+    "School/MikroTik/Attachments/Pasted image 20241023124607.png",
+    "School/MikroTik/Attachments/Pasted image 20241023131738.png",
+    "School/MikroTik/Attachments/Pasted image 20241023133535.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241101090137.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241101085851.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241031184910.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241031182315.png",
+    "School/~KB~/PICOCTF/Attachments/Pasted image 20241031182143.png",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "School/SW/~syncthing~poznámky pro test - Linux.md.tmp",
+    "School/~KB~/PICOCTF/Binary Exploitation.md",
+    "School/~KB~/PICOCTF/Cryptography3.md",
+    "School/~KB~/Hodiny.md",
+    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+    "School/SW/poznámky pro test - Linux.md",
+    "School/SW",
+    "School/HS/test - OSPF.md",
     "School/MikroTik/Attachments",
     "School/MikroTik",
     "School/~~Dlouhodobka~~/Xxxx.md",
@@ -244,28 +295,17 @@
     "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/g",
     "Android/data/com.naver.linewebtoon/episode_download/66/93/~syncthing~11.jpg.tmp",
     "Android/data/com.naver.linewebtoon/episode_download/66/77/~syncthing~29.jpg.tmp",
-    "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/~syncthing~g.tmp",
-    "Android/data/com.PigeonGames.Phigros/files/Unity/ef4b5cd4-ae59-4658-a5d3-bf3946853b65/Analytics/ArchivedEvents/170335698200002.5d97c6a2/~syncthing~c.tmp",
-    "Android/data/com.nekki.shadowfight/no_backup/vungle_cache/clever_cache/assets/meta/~syncthing~FuDCt_BYwDnDv6jjRLJh6_-ntNBp1-DvQSRZQ3TYNs4=.vng_meta.tmp",
     "Calendar-RL/prace/2024-10-11 test2.md",
     "Calendar-RL/prace/2024-10-10 test.md",
     "Calendar-RL/skola/2024-10-11 dlouhodobka.md",
     "2024-10-13 a.md",
     "Calendar-RL/2024-10-13 bb.md",
-    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
     "School/~~Dlouhodobka~~/asdsads.md",
     "School/Dictionary/W/WAN.md",
     "School/Dictionary/W/WLAN.md",
     "School/Dictionary/W/whatweb.md",
     "School/Dictionary/T/Traffic analysis.md",
     "School/Dictionary/S/Status codes.md",
-    "School/Dictionary/S/smbclient.md",
-    "School/Dictionary/S/searchsploit.md",
-    "School/Dictionary/R/Rijndael.md",
-    "School/Dictionary/R/Reverse shell.md",
-    "School/Dictionary/N/NBAD.md",
-    "School/Dictionary/M/Maximum segment size.md",
-    "School/Dictionary/K/key size.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
