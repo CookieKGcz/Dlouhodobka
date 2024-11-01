@@ -14,6 +14,9 @@
 	-  
 2. SYN flood/UDP flood/ICMP flood?
 	-  
+### Nástroje?????
+- xOIC
+- and?
 ### Okrajové
 #### diagram/topologie
 
