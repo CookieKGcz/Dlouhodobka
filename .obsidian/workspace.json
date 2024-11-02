@@ -8,81 +8,68 @@
         "type": "split",
         "children": [
           {
-            "id": "007950ca701ad65d",
-            "type": "split",
+            "id": "f69501661c30ddbe",
+            "type": "tabs",
             "dimension": 80.74712643678161,
             "children": [
               {
-                "id": "f69501661c30ddbe",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4d36f914c1833524",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "2 Web Enumeration"
-                    }
+                "id": "4d36f914c1833524",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "25febccf73321fed",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "~~Dlouhodobka~~/Osnova.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Osnova"
-                    }
-                  },
-                  {
-                    "id": "e2a85a3c48f0668b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Binary Exploitation"
-                    }
-                  }
-                ],
-                "currentTab": 1
+                  "icon": "lucide-file",
+                  "title": "2 Web Enumeration"
+                }
               },
               {
-                "id": "3b3d115b664b0b68",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "efbd4956809eb786",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Actually Praktická část"
-                    }
-                  }
-                ]
+                "id": "25febccf73321fed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Osnova.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Osnova"
+                }
+              },
+              {
+                "id": "e2a85a3c48f0668b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Binary Exploitation"
+                }
+              },
+              {
+                "id": "8ed85c02e864597c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HS/test - OSPF+.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "test - OSPF+"
+                }
               }
             ],
-            "direction": "vertical"
+            "currentTab": 3
           },
           {
             "id": "c5bbd85a2c74bb9e",
@@ -257,8 +244,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "491bc6ebcd15479b",
+  "active": "8ed85c02e864597c",
   "lastOpenFiles": [
+    "Pasted image 20241102221434.png",
+    "Pasted image 20241102220457.png",
+    "Pasted image 20241102220134.png",
+    "Pasted image 20241102214315.png",
+    "Pasted image 20241102214056.png",
+    "Pasted image 20241102213441.png",
+    "Pasted image 20241102212859.png",
+    "Pasted image 20241102211712.png",
+    "School/HS/test - OSPF.md",
+    "School/HS/test - OSPF+.md",
+    "~~Dlouhodobka~~/Osnova.md",
     "Calendar-RL/skola-du/2024-11-06 DDU matika.md",
     "Calendar-RL/skola-du/2024-11-05 Ireland.md",
     "Calendar-RL/skola-du/2024-11-03 OA nahrávka.md",
@@ -270,7 +268,6 @@
     "Calendar-RL/skola/2024-11-05 HSC - Mull.md",
     "Calendar-RL/skola/2024-11-04 AS - Hons.md",
     "Calendar-RL/skola/2024-11-04 HS.md",
-    "~~Dlouhodobka~~/Osnova.md",
     "~~Dlouhodobka~~/Actually Praktická část.md",
     "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
     "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
@@ -281,13 +278,6 @@
     "School/MikroTik/2 Zákldní konfig.md",
     "School/MikroTik/1 WinBox s neighbors a vymazání.md",
     "School/MikroTik/Attachments/Pasted image 20241023124228.png",
-    "School/MikroTik/Attachments/Pasted image 20241023124607.png",
-    "School/MikroTik/Attachments/Pasted image 20241023131738.png",
-    "School/MikroTik/Attachments/Pasted image 20241023133535.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241101090137.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241101085851.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241031184910.png",
-    "School/~KB~/PICOCTF/Attachments/Pasted image 20241031182315.png",
     "School/~KB~/PICOCTF/Reverse Engineering.md",
     "School/SW/~syncthing~poznámky pro test - Linux.md.tmp",
     "School/~KB~/PICOCTF/Binary Exploitation.md",
@@ -295,7 +285,6 @@
     "School/~KB~/Hodiny.md",
     "School/SW/poznámky pro test - Linux.md",
     "School/SW",
-    "School/HS/test - OSPF.md",
     "School/MikroTik/Attachments",
     "School/MikroTik",
     "School/~~Dlouhodobka~~/Xxxx.md",
@@ -303,8 +292,6 @@
     "~syncthing~.stwritetest.tmp",
     "Android/data/io.voodoo.paperio/files/Unity/8abd2b64-3cce-4bf7-a0da-0545ceeb0bb4/Analytics/ArchivedEvents/159455883000002.a9d3cf08/g",
     "Android/data/com.naver.linewebtoon/episode_download/66/93/~syncthing~11.jpg.tmp",
-    "Calendar-RL/prace/2024-10-11 test2.md",
-    "Calendar-RL/prace/2024-10-10 test.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
