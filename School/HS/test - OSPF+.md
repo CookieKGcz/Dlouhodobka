@@ -1,6 +1,6 @@
 **Kdy je v OSPF síti vyžadována volba DR a BDR?**
 	- když jsou OSPF routery připojeny do společné multiaccess sítě
-**Která tři tvrzení popisují výsledky volby OSPF procesu v topologii na obrázku?**
+==**Která tři tvrzení popisují výsledky volby OSPF procesu v topologii na obrázku?**==
 ![[Pasted image 20241102211712.png]]
 	- R2 bude vybrán jako DR
 	- R3 bude vybrán jako BDR
@@ -67,7 +67,7 @@
 	- R0-A
 **Co jako první signalizuje OSPF routeru, že soused je nedostupný?**
 	- router na dané lince nedostává hello pakety
-**Správce sítě nakonfiguroval OSPF v2 na obou CISCO routerech. PC1 se ale nemůže připojit k PC2. Jaký je nejpravděpodobnější problém?**
+==**Správce sítě nakonfiguroval OSPF v2 na obou CISCO routerech. PC1 se ale nemůže připojit k PC2. Jaký je nejpravděpodobnější problém?**==
 ![[Pasted image 20241102220457.png]]
 	- Rozhraní Fa0/0 na routeru R2 nebylo aktivováno pro použití OSPFv2
 **Router je součástí OSPFv2 oblasti. Co se stane , pokud dead interval vyprší předtím, než router přijme Hello paket od sousedního DROTHER routeru?**
