@@ -27,7 +27,15 @@ pak "posunem" zpět na předchozí číslo s "/ 256"
 
 pak obě čísla dáme zpět do charakterové podoby (UTF)
 
-
+for i in range(len(flag)):
+	ord= ord(flag\[i])
+	mod = first % 256
+	a = (first - mod)
+	b = a / 256
+	b = chr(int(b))
+	mod = chr(int(mod))
+	print(b)
+	print(mod)
 
 nedokončená verze s join
 ![](School/~KB~/PICOCTF/Attachments/picture2.png)
@@ -38,6 +46,8 @@ ze zadání jsme dostali další zdroják kde je vlastně heslo napsané ale tro
 stačí si tedy napsat script v pythonu který mi je vypíše popořadě za pomocí globals() a f'a{}'
 ![[Pasted image 20240927160841.png]]![[Pasted image 20240927161202.png]]
 
+for i in range(32):
+	print(globals()\[f'a{i}'])
 ## vault-door-3*
 zadání
 ![[Pasted image 20240927161812.png]]
