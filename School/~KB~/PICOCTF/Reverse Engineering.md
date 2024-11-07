@@ -1,4 +1,4 @@
-## vault-door-training
+## vault-door-training*
 
 dostali jsem hint že by něco mohlo být v source codu -> tam je zanechané heslo v public boolean které stačí jen wrapnout do picoCTF{}
 
@@ -11,7 +11,7 @@ obsidian://open?vault=ObsNotes&file=School%2F~KB~%2FPICOCTF%2FAttachments%2FPict
 
 ![](School/~KB~/PICOCTF/Attachments/picture1.png)
 
-## Transformation
+## Transformation*
 První začneme od konce a tak for loopem si budeme odstřihávat zanaky -> first = ord(flag\[i])
 pak si proměníme chr za ord a dáme do proměnné first
 to je celkem tedy soucet dvou ordů v původím kodu
@@ -32,13 +32,13 @@ pak obě čísla dáme zpět do charakterové podoby (UTF)
 nedokončená verze s join
 ![](School/~KB~/PICOCTF/Attachments/picture2.png)
 
-## vault-door-1
+## vault-door-1*
 ze zadání jsme dostali další zdroják kde je vlastně heslo napsané ale trochu porozházené
 ![[Pasted image 20240927161003.png]]
 stačí si tedy napsat script v pythonu který mi je vypíše popořadě za pomocí globals() a f'a{}'
 ![[Pasted image 20240927160841.png]]![[Pasted image 20240927161202.png]]
 
-## vault-door-3
+## vault-door-3*
 zadání
 ![[Pasted image 20240927161812.png]]
 ![[Pasted image 20240927213658.png]]
@@ -84,7 +84,7 @@ tím pádem se to musí rovnat a jde tedy použít 59 XOR 85 = password[1]
 ![[Pasted image 20240927233613.png]]
 
 
-## WinAntiDbg0x100
+## WinAntiDbg0x100*
 ### Ve x64dbg
 Ze začátku nám bylo řečeno že program nám bude bránit ve debuggování takže prostě začnem debuggovat
 ![[Pasted image 20240928180102.png]]
@@ -116,7 +116,7 @@ tam si naklikneme na graf který obsahuje IsDebuggPresent
 Dáme brakepoint na začátek a F8 postupujeme dál
 U rozdvojky (jumpu) buď přepíšeme EAX, nebo setneme EIP tam kam chceme jít
 ![[Pasted image 20241012225344.png]]
-## WinAntiDbg0x200
+## WinAntiDbg0x200*
 ### Ve x64dbg
 ze začátku nejde najít začátek ale po pár skipech už můžeme najít
 ![[Pasted image 20240928184831.png]]
@@ -278,7 +278,7 @@ Podle mě eax se rovná DWORD PTR \[rbp-ox4]
 Tak když se DWORD … rovná 0x9fe1a tak eax se rovná taky 0x9fe1a
 ![[Pasted image 20241012231705.png]]
 
-## Packer
+## Packer*
 Dostali jsme Binary file. První ověříme, co je to vůbec za file s „file“
 ![[Pasted image 20241005173056.png]]
 Executable. Zkusíme strings co nám vyjde (většinou jen nepoužitelný text, ale!)
@@ -295,7 +295,7 @@ Vyzkoušel jsem grep na "pico", "CTF" a "password". Password něco vyběhlo, tak
 Už jen stačí dát do cyberchefu
 ![[Pasted image 20241005173223.png]]
 
-## Picker I
+## Picker I*
 ![[Pasted image 20241005173839.png]]
 Po lounchi nám to dá 'Try entering "getRandomNumber" without the double quotes...'
 
@@ -311,7 +311,7 @@ hex
 takže stačí přeložit
 ![[Pasted image 20241005174141.png]]
 
-## Picker II
+## Picker II*
 od předchozího máme problém
 ![[Pasted image 20241005174353.png]]
 ![[Pasted image 20241005174430.png]]
@@ -328,7 +328,7 @@ ANO
 ## Picker III ==WIP==
 ![[Pasted image 20241005181144.png]]
 
-## File-run1
+## File-run1*
 ./run nám dá permissions denied
 
 ![[Pasted image 20241018085738.png]]
@@ -336,11 +336,11 @@ chmod 777 run
 a ./xxxx
 
 picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}
-## File-run2
+## File-run2*
 ![[Pasted image 20241018085928.png]]
 akorát s argumentem Hello!
 
-## GDB Baby Step I
+## GDB Baby Step I*
 ### V GDB
 ![[Pasted image 20241018090711.png]]
 ![[Pasted image 20241018090726.png]]
@@ -355,7 +355,7 @@ takže už jenom z hex na decimal
 rovnou pravým když klikneme tak vidíme i v decimal
 ![[Pasted image 20241018091535.png]]
 
-## GDB baby Step II
+## GDB baby Step II*
 ![[Pasted image 20241018092016.png]]
 ![[Pasted image 20241018092436.png]]
 ![[Pasted image 20241018092632.png]]
@@ -399,11 +399,11 @@ imul vipadá podezřele, tak si vyhldáme 0x3269
 ![[Pasted image 20241025092858.png]]
 ![[Pasted image 20241025093102.png]]
 A máme flagu picoCTF{12905}
-## Reverse
+## Reverse*
 po stáhnutí jsem vyzkoušel strings s grep a voala
 ![[Pasted image 20241025085300.png]]
 
-## Safe Opener
+## Safe Opener*
 otevřeme a catneme, jelikož to má příponu .java, tak by to mohl být nějaký kód
 ![[Pasted image 20241025085551.png]]
 Vidíme Base64, takže asi nějaký string bude zakódovaný do baseu64
@@ -412,11 +412,11 @@ encodedkey
 ![[Pasted image 20241025085604.png]]
 ![[Pasted image 20241025085536.png]]
 
-## Safe Opener II
+## Safe Opener II*
 catneme a podíváme se na output jelikož teď máme příponu .class
 ![[Pasted image 20241025090001.png]]
 Ale hned najdeme flagu...
-## Unpackme
+## Unpackme*
 uplatnil jsem stejný postup jako v packer úloze
 s
 chmod 777 unpackme-upx
@@ -454,7 +454,7 @@ Tak vyzkoušíme zadat do programu a voala
 
 ![[Pasted image 20241025100313.png]]
 
-## Crackme-py
+## Crackme-py*
 ![[Pasted image 20241101085851.png]]
 dostali jsme nějaký python kód, a rovnou bezos_cc_secret vypadá jako něco né tak zaheslovaného (znaky docela u sebe), tak rovnou vyzkoušíme ROT47, jelikož podtím je ten decode
 
