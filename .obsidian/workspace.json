@@ -32,16 +32,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "~~Dlouhodobka~~/Osnova.md",
+                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Osnova"
+                  "title": "Reverse Engineering"
                 }
               },
               {
-                "id": "e2a85a3c48f0668b",
+                "id": "8a147c444ef31901",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -55,17 +55,17 @@
                 }
               },
               {
-                "id": "8a147c444ef31901",
+                "id": "10321856d47b6639",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Reverse Engineering"
+                  "title": "Actually Praktická část"
                 }
               }
             ],
@@ -244,9 +244,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8a147c444ef31901",
+  "active": "10321856d47b6639",
   "lastOpenFiles": [
+    "Pasted image 20241108224414.png",
     "School/~KB~/PICOCTF/Binary Exploitation.md",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "Pasted image 20241108221301.png",
+    "Pasted image 20241108210738.png",
+    "Pasted image 20241108210703.png",
+    "Pasted image 20241108210617.png",
+    "~~Dlouhodobka~~/Osnova.md",
+    "Pasted image 20241108201206.png",
+    "Pasted image 20241108201144.png",
+    "Pasted image 20241108200527.png",
+    "Pasted image 20241108200459.png",
     "DND/Untitled.md",
     "DND/Marlic Inok.md",
     "DND/Lynn.md",
@@ -267,24 +279,12 @@
     "School/HS/test - OSPF+.md",
     "Pasted image 20241103172020.png",
     "School/AS_Hons/Attachments/Pasted image 20241103173509.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173504.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173325.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173320.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173222.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173218.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173130.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173124.png",
-    "School/AS_Hons/Attachments/Pasted image 20241103173102.png",
     "School/AS_Hons/Typografie.md",
     "School/AS_Hons/Untitled.md",
     "School/AS_Hons/Attachments",
     "School/AS_Hons",
     "Calendar-RL/skola-du/2024-11-04 DUnT matika.md",
     "School/HS/Attachments",
-    "School/HS/test - OSPF.md",
-    "~~Dlouhodobka~~/Osnova.md",
-    "Calendar-RL/skola-du/2024-11-06 DDU matika.md",
-    "Calendar-RL/skola-du/2024-11-05 Ireland.md",
     "Calendar-RL/skola-du",
     "~~Dlouhodobka~~/Bordel_Na_Obrázky",
     "School/SW/~syncthing~poznámky pro test - Linux.md.tmp",
