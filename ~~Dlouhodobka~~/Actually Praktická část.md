@@ -24,4 +24,5 @@ Internet - Router OS
 ![[Pasted image 20241101230930.png]]
 ##### More Realistic
 ![[Pasted image 20241108224414.png]]
+![[Pasted image 20241109195246.png]]
 #### x
