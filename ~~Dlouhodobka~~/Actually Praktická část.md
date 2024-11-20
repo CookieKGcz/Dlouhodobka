@@ -44,10 +44,11 @@ Internet - Router OS
 ![[Pasted image 20241101230930.png]]
 ##### More Realistic
 ![[Pasted image 20241108224414.png]]
+![[Pasted image 20241108224415.png]]
 
 
 
 
-![[Pasted image 20241109222603.png]]
+![[Pasted image 20241110170945.png]]
 
-Taky zvážit jestli mít jiný server na DNS![[Pasted image 20241110170945.png]]
+Taky zvážit jestli mít jiný server na DNS![[Pasted image 20241110170946.png]]
