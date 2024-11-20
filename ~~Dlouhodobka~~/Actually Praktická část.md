@@ -6,7 +6,7 @@ Zatím zpracováno podle topologie s třemi routery
 
 Podle topologie mám rozvržené dva útoky 
 - útok **HTTP** na Server 1 s Apache webovou službou 
-- útok typu **SYN flood** na DNS Server 2
+- útok typu **SYN flood** na DNS bind Server 2
 
 Pro boty a victim servery používám alpine linux, kvůli jeho minimálním potřebám na systém https://alpinelinux.org/downloads/.
 Pro útočníka, základní Kali linux.
