@@ -2,11 +2,11 @@
 ### Zpracování
 
 Zatím zpracováno podle topologie s třemi routery
-![[Pasted image 20241110164209.png]]
+![[Pasted image 20241123211956.png]]
 
 Podle topologie mám rozvržené dva útoky 
 - útok **HTTP** na Server 1 s Apache webovou službou 
-- útok typu **SYN flood** na DNS bind Server 2
+- útok typu **SYN flood** na DNS bind9 Server 2
 
 Pro boty a victim servery používám alpine linux, kvůli jeho minimálním potřebám na systém https://alpinelinux.org/downloads/.
 Pro útočníka, základní Kali linux.
@@ -48,7 +48,85 @@ Internet - Router OS
 
 
 
-
+server s ip 176.16.1.20 je nově na .21 (ubuntu server)
 ![[Pasted image 20241110170945.png]]
 
 Taky zvážit jestli mít jiný server na DNS![[Pasted image 20241110170946.png]]
+
+
+## Commands used for initial configuration
+### ==DNS server==
+`vi /etc/network/interfaces`
+![[Pasted image 20241123173735.png]]
+`service reboot networking` or `service networking reboot`
+
+
+`apk add bind`
+`apk add bind-utils`
+
+
+`vi /etc/bind/named.conf.options`
+![[Pasted image 20241123211714.png]]
+`vi /etc/bind/named.conf.local`
+![[Pasted image 20241123211731.png]]
+`vi /etc/bind/db.victim.com`
+![[Pasted image 20241123211826.png]]
+`vi /etc/bind/db.1.16.176.in-addr.arpa`
+![[Pasted image 20241123211810.png]]
+
+`vi /etc/bind/named.conf`
+![[Pasted image 20241123211900.png]]
+
+==IF== firewall is active
+`firewall-cmd --permanent --add-service=dns
+`firewall-cmd --reload`
+
+
+Restarting
+`service bind start` ==\_\_\_\_\_\_?\_\_\_\_\_\_==
+`service named start` ==\_\_\_\_\_\_?\_\_\_\_\_\_==
+`sudo systemctl restart/start named`
+
+curr. problem on alpine
+![[Pasted image 20241123174746.png]]
+
+**switched to UBUNTU**
+`/etc/init.d/named status` resolve success
+![[Pasted image 20241123211257.png]]
+![[Pasted image 20241123211346.png]]
+![[Pasted image 20241123212150.png]]
+![[Pasted image 20241123212228.png]]
+### Apache/HTTP server
+`vi /etc/network/interfaces`
+![[Pasted image 20241123211443.png]]
+ `apk add apache2`those not needed? `php7-apache7 php7-gd`
+  
+ `vi /etc/apache2/http.conf`
+ ![[Pasted image 20241123175655.png]]
+  `vi /var/www/localhost/htdocs/index.html`
+  ![[Pasted image 20241123180143.png]]
+  `/etc/init.d/apache2 start`
+![[Pasted image 20241123180416.png]]
+### Bots
+`vi /etc/network/interfaces`
++==dns==
+![[Pasted image 20241123180650.png]]
+`reboot` just reboot it for g.m.
+### Kali
+![[Pasted image 20241123223200.png]]
+
+## Attacks
+### LOIC?
+#### installation
+`sudo apt install monodevelop` or `mono-devel` ==or== `mono-complete`
+`git clone https://github.com/nicolargo/loicinstaller.git`
+`chmod 777 loic.sh`
+`./loic.sh install`
+`./loic.sh update`
+`cd LOIC`  
+`./loic.sh run`
+![[Pasted image 20241123231138.png]]
+
+### Scapy? - HTTP
+### Hping3?
+### Scapy? - TCP
