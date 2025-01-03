@@ -27,8 +27,8 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -49,6 +49,18 @@
             "id": "13205879b3256a04",
             "type": "leaf",
             "state": {
+              "type": "docx-view",
+              "state": {
+                "file": "~~Dlouhodobka~~/DOCX/protokol_DMP_24_25_Smekal.docx"
+              },
+              "icon": "lucide-file",
+              "title": "protokol_DMP_24_25_Smekal.docx"
+            }
+          },
+          {
+            "id": "8a147c444ef31901",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "~~Dlouhodobka~~/Actually Praktická část.md",
@@ -60,17 +72,31 @@
             }
           },
           {
-            "id": "8a147c444ef31901",
+            "id": "0037d32efbe34100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
+                "file": "~~Dlouhodobka~~/Osnova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Exploitation"
+              "title": "Osnova"
+            }
+          },
+          {
+            "id": "84dcdeeae87849f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
             }
           }
         ],
@@ -115,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,64 +245,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "8a147c444ef31901",
   "lastOpenFiles": [
-    "Pasted image 20241129101423.png",
-    "Pasted image 20241129100821.png",
-    "Pasted image 20241129100253.png",
-    "Pasted image 20241129094917.png",
-    "Pasted image 20241129093518.png",
-    "Pasted image 20241129093151.png",
-    "Pasted image 20241129091607.png",
-    "Pasted image 20241129091232.png",
-    "Pasted image 20241129084824.png",
-    "~~Dlouhodobka~~/Actually Praktická část.md",
-    "Pasted image 20241123231138.png",
-    "Pasted image 20241123223200.png",
-    "School/~KB~/PICOCTF/Reverse Engineering.md",
-    "School/~KB~/PICOCTF/Binary Exploitation.md",
-    "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
-    "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
-    "School/MikroTik/2 Zákldní konfig.md",
-    "Pasted image 20241108224415.png.crdownload",
-    "Pasted image 20241110170946.png.crdownload",
-    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+    "~~Dlouhodobka~~/DOCX/~WRL1482.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD1474.tmp",
     "~~Dlouhodobka~~/Osnova.md",
-    "DND/Untitled.md",
-    "DND/Marlic Inok.md",
-    "DND/Lynn.md",
-    "DND/El (Elizabeth).md",
-    "Roann/Characters/Alive/Tynead/Ricia Tyne.md",
-    "Roann/Characters/Deceased/Miric Abdul.md",
-    "Roann/Characters/Deceased/Anton Viln.md",
-    "Roann/Characters/Alive/Wanderers/Kara Ar Lun.md",
-    "Roann/Characters/Alive/Wanderers.md",
-    "Roann/Characters/Alive/Tynead/Valyriss.md",
-    "School/FREE_EDU.md",
-    "School/MIT_Courses.md",
+    "~~Dlouhodobka~~/DOCX/~WRL0216.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD0205.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL1063.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD1055.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3180.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3172.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3218.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3214.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL0672.tmp",
+    "School/Dictionary/C/cURL.md",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "School/~KB~/Soutez.md",
+    "School/HAXAGON/Theory/Symetrické šifry.md",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "School/~KB~/PICOCTF/Cryptography3.md",
+    "School/Dictionary/A/Advanced Encryption Standard.md",
+    "School/~KB~/PICOCTF/Binary Exploitation.md",
     "~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
+    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+    "School/MikroTik/2 Zákldní konfig.md",
     "School/MikroTik/1 WinBox s neighbors a vymazání.md",
-    "School/HS/HSC_ctvrtleti_ros_dhcp_v4v6.md",
-    "School/HS/test - OSPF+.md",
-    "School/AS_Hons/Typografie.md",
-    "School/AS_Hons/Attachments",
-    "School/AS_Hons",
-    "School/HS/Attachments",
-    "Calendar-RL/skola-du",
-    "~~Dlouhodobka~~/Bordel_Na_Obrázky",
-    "School/SW/~syncthing~poznámky pro test - Linux.md.tmp",
-    "School/SW",
-    "School/MikroTik/Attachments",
+    "Pasted image 20241213101706.png",
+    "Pasted image 20241213101633.png",
+    "Pasted image 20241213100342.png",
+    "Pasted image 20241213095515.png",
+    "Pasted image 20241213094458.png",
+    "Pasted image 20241213094322.png",
+    "Pasted image 20241213094003.png",
+    "Pasted image 20241213093731.png",
+    "Pasted image 20241213093348.png",
+    "Pasted image 20241213093205.png",
+    "School/~KB~/PICOCTF/x.md",
+    "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
+    "School/HackTheBox/Modules/Linux_fundamentals/6 Find Files and Directories.md",
+    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
+    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+    "School/HackTheBox/Machines/Tier_1/Crocodile.md",
+    "School/HackTheBox/Machines/Tier_1/Sequel.md",
+    "School/HackTheBox/Machines/Tier_1/Appointment.md",
+    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+    "School/HackTheBox/Machines/Tier_0/Meow.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
