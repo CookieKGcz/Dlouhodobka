@@ -4,103 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "f69501661c30ddbe",
-        "type": "tabs",
+        "id": "fa2c99bf6af8a55a",
+        "type": "split",
         "children": [
           {
-            "id": "4d36f914c1833524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-                "mode": "source",
-                "source": false
+            "id": "f69501661c30ddbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d36f914c1833524",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2 Web Enumeration"
+                }
               },
-              "icon": "lucide-file",
-              "title": "2 Web Enumeration"
-            }
+              {
+                "id": "491bc6ebcd15479b",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "25febccf73321fed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Reverse Engineering"
+                }
+              },
+              {
+                "id": "8a147c444ef31901",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Actually Praktická část"
+                }
+              },
+              {
+                "id": "0037d32efbe34100",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Osnova.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Osnova"
+                }
+              },
+              {
+                "id": "84dcdeeae87849f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
+                }
+              },
+              {
+                "id": "b2dad64e8694f75b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 6
           },
           {
-            "id": "491bc6ebcd15479b",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "25febccf73321fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reverse Engineering"
-            }
-          },
-          {
-            "id": "13205879b3256a04",
-            "type": "leaf",
-            "state": {
-              "type": "docx-view",
-              "state": {
-                "file": "~~Dlouhodobka~~/DOCX/protokol_DMP_24_25_Smekal.docx"
-              },
-              "icon": "lucide-file",
-              "title": "protokol_DMP_24_25_Smekal.docx"
-            }
-          },
-          {
-            "id": "8a147c444ef31901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actually Praktická část"
-            }
-          },
-          {
-            "id": "0037d32efbe34100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~~Dlouhodobka~~/Osnova.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Osnova"
-            }
-          },
-          {
-            "id": "84dcdeeae87849f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
-            }
+            "id": "e0ad203a91426fd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6898ce1fa30ebf7",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {},
+                  "icon": "calendar-glyph",
+                  "title": "Calendar"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -255,32 +276,44 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8a147c444ef31901",
+  "active": "b2dad64e8694f75b",
   "lastOpenFiles": [
+    "~~Dlouhodobka~~/Osnova.md",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "Calendar-RL/skola/2025-1-06.md",
+    "Calendar-RL/skola/2025-01-16 Matika - pololetka.md",
+    "Calendar-RL/skola/2025-01-14 HSc - Cisco.md",
+    "Calendar-RL/skola/2025-01-13 HS - kontrol p.md",
+    "Calendar-RL/skola/2025-01-10 KB - praktická p.md",
+    "Calendar-RL/skola-du/2025-01-10 KB - dok.md",
+    "Calendar-RL/skola/2025-01-08 HSc - mikrotik.md",
+    "Calendar-RL/skola/2025-01-06 AS hons + kotak.md",
+    "Calendar-RL/skola/2024-11-08 KB - dokum+test.md",
+    "Calendar-RL/skola/2024-11-06 HSC - Jb.md",
+    "Calendar-RL/skola/2024-11-05 Matika - písemka.md",
+    "Calendar-RL/skola/2024-11-05 HSC - Mull.md",
+    "Calendar-RL/skola/2024-11-04 AS - Hons.md",
+    "Calendar-RL/skola/2024-10-11 dlouhodobka.md",
+    "~~Dlouhodobka~~/DOCX/protokol_smkal_2024_30_12.docx",
+    "2025-01-04.md",
+    "~~Dlouhodobka~~/DOCX/~WRL0274.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD0251.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3108.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3097.tmp",
+    "~~Dlouhodobka~~/DOCX/protokol_DMP_24_25_Smekal.docx",
     "~~Dlouhodobka~~/DOCX/~WRL1482.tmp",
     "~~Dlouhodobka~~/DOCX/~WRD1474.tmp",
-    "~~Dlouhodobka~~/Osnova.md",
     "~~Dlouhodobka~~/DOCX/~WRL0216.tmp",
     "~~Dlouhodobka~~/DOCX/~WRD0205.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL1063.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD1055.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL3180.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD3172.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL3218.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD3214.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL0672.tmp",
     "School/Dictionary/C/cURL.md",
-    "~~Dlouhodobka~~/Actually Praktická část.md",
     "School/~KB~/Soutez.md",
     "School/HAXAGON/Theory/Symetrické šifry.md",
-    "School/~KB~/PICOCTF/Reverse Engineering.md",
     "School/~KB~/PICOCTF/Cryptography3.md",
     "School/Dictionary/A/Advanced Encryption Standard.md",
     "School/~KB~/PICOCTF/Binary Exploitation.md",
     "~~Dlouhodobka~~/DOCX/ITE_KB_Če_8-Smékal.md",
     "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-    "School/MikroTik/2 Zákldní konfig.md",
-    "School/MikroTik/1 WinBox s neighbors a vymazání.md",
     "Pasted image 20241213101706.png",
     "Pasted image 20241213101633.png",
     "Pasted image 20241213100342.png",
@@ -291,18 +324,6 @@
     "Pasted image 20241213093731.png",
     "Pasted image 20241213093348.png",
     "Pasted image 20241213093205.png",
-    "School/~KB~/PICOCTF/x.md",
-    "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
-    "School/HackTheBox/Modules/Linux_fundamentals/6 Find Files and Directories.md",
-    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
-    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-    "School/HackTheBox/Machines/Tier_1/Crocodile.md",
-    "School/HackTheBox/Machines/Tier_1/Sequel.md",
-    "School/HackTheBox/Machines/Tier_1/Appointment.md",
-    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
-    "School/HackTheBox/Machines/Tier_0/Meow.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
