@@ -31,4 +31,5 @@ nmap -sV --script=http-enum -oA nibbles_nmap_http_enum 10.129.42.190
 
 # End Quiz
 Run an nmap script scan on the target. What is the Apache version running on the server? (answer format: X.X.XX)
-2.somthing XD forgot
+- 2.4.18
+- ![[Pasted image 20250207090517.png]]

