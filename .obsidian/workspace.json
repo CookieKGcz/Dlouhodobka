@@ -112,12 +112,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
+                    "file": "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3 Public Exploits"
+                  "title": "7 Knowledge Check"
                 }
               }
             ],
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,22 +298,26 @@
   },
   "active": "a00213d6713cb648",
   "lastOpenFiles": [
-    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
-    "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
-    "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
-    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "Pasted image 20250207174521.png",
+    "Pasted image 20250207174458.png",
     "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
+    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
+    "Untitled.canvas",
+    "2025-02-07.md",
+    "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
+    "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
+    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
+    "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
+    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
     "Pasted image 20250207095302.png",
     "Pasted image 20250207094509.png",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
     "Pasted image 20250207093342.png",
     "Pasted image 20250207092940.png",
     "Pasted image 20250207091524.png",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
     "Pasted image 20250207090517.png",
-    "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
-    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
     "School/HackTheBox/Modules/Getting_started/1 Service Scanning.md",
     "School/HackTheBox/Machines/Tier_1/Sequel.md",
     "School/HackTheBox/Machines/Tier_1/Crocodile.md",
@@ -339,10 +343,8 @@
     "~~Dlouhodobka~~/DOCX/~WRD2720.tmp",
     "~~Dlouhodobka~~/DOCX/~WRL4079.tmp",
     "~~Dlouhodobka~~/DOCX/~WRD4063.tmp",
-    "School/~KB~/PICOCTF/Reverse Engineering.md",
     "Pasted image 20241213101706.png",
     "Pasted image 20241213101633.png",
-    "Pasted image 20241213100342.png",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
@@ -351,7 +353,6 @@
     "Roann/Map/Veg4.canvas",
     "Roann/Map/Blank3.canvas",
     "Roann/Map/Blank1.canvas",
-    "Roann/Map/Blank2.canvas",
-    "DND/Canv.canvas"
+    "Roann/Map/Blank2.canvas"
   ]
 }

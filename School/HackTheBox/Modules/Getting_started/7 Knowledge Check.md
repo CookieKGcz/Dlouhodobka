@@ -12,10 +12,19 @@
 
 
 ![[Pasted image 20240427183735.png]]
+
+
 ![[Pasted image 20240427183704.png]]
 ![[Pasted image 20240427183631.png]]
 
 
+
+nebo přes stránku a tamplaty
+<< page admin admin :/
+![[Pasted image 20250207174521.png]]
+heslo admin
+
+![[Pasted image 20250207174458.png]]
 
 
 
