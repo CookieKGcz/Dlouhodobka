@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~~Dlouhodobka~~/Actually Praktická část.md",
+                "file": "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actually Praktická část"
+              "title": "3Nibbles - Initial Foothold"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -95,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/SW/poznámky pro test - Linux.md",
+            "file": "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,13 +160,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e6f0ea06d9c66125",
+  "active": "6f9c8715d61dad9b",
   "lastOpenFiles": [
+    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
+    "~~Dlouhodobka~~/DOCX/protokol_smkal_2024_30_12.docx.docx",
+    "School/AS_Hons/Typografie.md",
+    "School/AS_Hons/Untitled.md",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
     "~~Dlouhodobka~~/Osnova.md",
     "School/~KB~/PICOCTF/Reverse Engineering.md",
     "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
     "School/HS/HSC_ctvrtleti_ros_dhcp_v4v6.md",
-    "School/AS_Hons/Typografie.md",
     "School/HS/test - OSPF+.md",
     "School/SW/poznámky pro test - Linux.md",
     "School/HS/test - OSPF.md",
