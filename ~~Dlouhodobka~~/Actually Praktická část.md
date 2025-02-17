@@ -56,6 +56,9 @@ Taky zvážit jestli mít jiný server na DNS![[Pasted image 20241110170946.png]
 
 ## Commands used for initial configuration
 ### ==DNS server==
+!!
+debian ---- debian
+!!
 `vi /etc/network/interfaces`
 ![[Pasted image 20241123173735.png]]
 `service reboot networking` or `service networking reboot`
@@ -108,6 +111,9 @@ curr. problem on alpine
   `/etc/init.d/apache2 start`
 ![[Pasted image 20241123180416.png]]
 ### Bots
+!!
+root --- alpine
+!!
 `vi /etc/network/interfaces`
 +==dns==
 ![[Pasted image 20241123180650.png]]
@@ -130,3 +136,13 @@ curr. problem on alpine
 ### Scapy? - HTTP
 ### Hping3?
 ### Scapy? - TCP
+
+
+
+
+# Zkráceně proces
+
+1. Malware -import> victim, ten spustí script, který kontaktuje CnC server (ten si to uloží do "databáze")
+2. Bot začne "Beaconing", každou x dobu se koukne jestli nemá další instrukce
+3. Server odpoví HTTP zprávou na x port ig
+4. 
