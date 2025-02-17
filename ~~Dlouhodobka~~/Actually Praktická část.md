@@ -141,11 +141,16 @@ root --- alpine
 
 
 # Zkráceně proces
-
+![[Pasted image 20250217181049.png]]
 1. Malware -import> victim, ten spustí script, který kontaktuje CnC server (ten si to uloží do "databáze")
 2. Bot začne "Beaconing", každou x dobu se koukne jestli nemá další instrukce
 3. Server odpoví HTTP zprávou na x port ig
-4. 
+DONE
 ![[Pasted image 20250217133223.png]]
 ![[Pasted image 20250217133236.png]]
 ![[Pasted image 20250217133300.png]]
+![[Pasted image 20250217172733.png]]
+![[Pasted image 20250217172756.png]]
+
+1. Další krok je dát jak bot_beacon, tak i script na CnC(který by měl getovat payload) do CRONtabů.
+2. Dále Udělat script na HTTP GET flood a TCP SYN flood
