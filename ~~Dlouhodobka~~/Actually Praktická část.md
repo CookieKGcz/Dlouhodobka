@@ -146,3 +146,6 @@ root --- alpine
 2. Bot začne "Beaconing", každou x dobu se koukne jestli nemá další instrukce
 3. Server odpoví HTTP zprávou na x port ig
 4. 
+![[Pasted image 20250217133223.png]]
+![[Pasted image 20250217133236.png]]
+![[Pasted image 20250217133300.png]]
