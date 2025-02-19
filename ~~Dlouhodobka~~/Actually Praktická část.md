@@ -154,3 +154,7 @@ DONE
 
 1. Další krok je dát jak bot_beacon, tak i script na CnC(který by měl getovat payload) do CRONtabů.
 2. Dále Udělat script na HTTP GET flood a TCP SYN flood
+
+https://raspberrypi.stackexchange.com/questions/4123/running-a-python-script-at-startup
+![[Pasted image 20250219155504.png]]
+
