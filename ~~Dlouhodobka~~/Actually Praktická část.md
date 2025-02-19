@@ -158,3 +158,9 @@ DONE
 https://raspberrypi.stackexchange.com/questions/4123/running-a-python-script-at-startup
 ![[Pasted image 20250219155504.png]]
 
+![[Pasted image 20250219171740.png]]
+ +startupbind
+
+TODO
+- na bots zavést beacon na startup a udělat script na listening -> od cnc
+- na cnc udělat script který pošle message všem botům aby zapli beacon
