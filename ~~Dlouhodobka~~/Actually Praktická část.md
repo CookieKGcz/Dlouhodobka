@@ -164,3 +164,10 @@ https://raspberrypi.stackexchange.com/questions/4123/running-a-python-script-at-
 TODO
 - na bots zavést beacon na startup a udělat script na listening -> od cnc
 - na cnc udělat script který pošle message všem botům aby zapli beacon
+![[Pasted image 20250220160644.png]]
+![[Pasted image 20250220160702.png]]
+![[Pasted image 20250220162316.png]]
+
+TODO
+- HTTP flood script
+- Do smth about the bandwidth problem
