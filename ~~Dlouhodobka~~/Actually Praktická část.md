@@ -171,3 +171,11 @@ TODO
 TODO
 - HTTP flood script
 - Do smth about the bandwidth problem
+![[Pasted image 20250226221315.png]]
+- na botb.py scriptu payload.py dát jako absolutní cestu
+
+
+
+
+### Redoing routers to ubuntu vms
+![[Pasted image 20250303174914.png]]

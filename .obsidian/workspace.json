@@ -107,7 +107,21 @@
                 }
               },
               {
-                "id": "a00213d6713cb648",
+                "id": "ef54338792559742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HS/test - NAT + WAN.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "test - NAT + WAN"
+                }
+              },
+              {
+                "id": "8528cfe6272f649f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -121,17 +135,43 @@
                 }
               },
               {
-                "id": "ef54338792559742",
+                "id": "e3cbbf9bf781338c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20250303174914.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250303174914"
+                }
+              },
+              {
+                "id": "ea8a044dca0e95db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/HS/test - NAT + WAN.md",
+                    "file": "School/HackTheBox/Machines/Tier_2/Archetype.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "test - NAT + WAN"
+                  "title": "Archetype"
+                }
+              },
+              {
+                "id": "64947ad95ff59298",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "4Nibbles - Privilege Escalation"
                 }
               }
             ],
@@ -197,7 +237,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/etc/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,8 +351,33 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ef54338792559742",
+  "active": "8528cfe6272f649f",
   "lastOpenFiles": [
+    "~~Dlouhodobka~~/httpserver_check_of_delay.py",
+    "~~Dlouhodobka~~/DOCX/~WRL0268.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD0249.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL0901.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD0878.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL1309.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD1290.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL2347.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD2323.tmp",
+    "Pasted image 20250303174914.png",
+    "~~Dlouhodobka~~/DOCX/~WRL4026.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD4003.tmp",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
+    "School/HackTheBox/Machines/Tier_2/Archetype.md",
+    "School/HackTheBox/Machines/Tier_1/Sequel.md",
+    "School/HackTheBox/Machines/Tier_1/Three.md",
+    "School/HackTheBox/Machines/Tier_1/Responder.md",
+    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
+    "School/HackTheBox/Machines/Tier_1/Crocodile.md",
+    "School/HackTheBox/Machines/Tier_1/Appointment.md",
+    "School/HS/test - NAT + WAN.md",
+    "Pasted image 20250226221315.png",
+    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
     "Pasted image 20250222170507.png",
     "Pasted image 20250222170050.png",
     "Pasted image 20250222165507.png",
@@ -320,43 +385,18 @@
     "Pasted image 20250222163555.png",
     "Pasted image 20250222163012.png",
     "Pasted image 20250222160540.png",
-    "School/HS/test - NAT + WAN.md",
-    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
-    "~~Dlouhodobka~~/DOCX/~WRL1572.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD1552.tmp",
-    "~~Dlouhodobka~~/Actually Praktická část.md",
-    "~~Dlouhodobka~~/payload_http_test.py",
-    "~~Dlouhodobka~~/DOCX/~$E_KB_Če_8-Smékal.docx",
     "Pasted image 20250220162316.png",
-    "Pasted image 20250220160702.png",
-    "Pasted image 20250220160644.png",
-    "~~Dlouhodobka~~/log_ips.py",
-    "~~Dlouhodobka~~/payloadcheck.py",
-    "~~Dlouhodobka~~/cnc_ping.py",
-    "~~Dlouhodobka~~/bot_listen.py",
-    "Pasted image 20250219171740.png",
-    "~~Dlouhodobka~~/test.py",
     "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
     "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
     "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
-    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
     "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
-    "~~Dlouhodobka~~/DOCX/~WRL0526.tmp",
     "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-    "School/HackTheBox/Machines/Tier_2/Archetype.md",
     "School/HackTheBox/Machines/Tier_0/Meow.md",
     "School/HackTheBox/Machines/Tier_0/Fawn.md",
     "School/HackTheBox/Machines/Tier_0/Dancing.md",
     "School/HackTheBox/Machines/Tier_0/Redeemer.md",
-    "School/HackTheBox/Machines/Tier_1/Sequel.md",
-    "School/HackTheBox/Machines/Tier_1/Three.md",
-    "School/HackTheBox/Machines/Tier_1/Responder.md",
-    "School/HackTheBox/Machines/Tier_1/Crocodile.md",
-    "School/HackTheBox/Machines/Tier_1/Appointment.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
     "School/HackTheBox/Modules/Getting_started/1 Service Scanning.md",
     "Untitled.canvas",
     "2025-02-07.md",
