@@ -135,6 +135,18 @@
                 }
               },
               {
+                "id": "d12e12ce62887a32",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20250220162316.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250220162316"
+                }
+              },
+              {
                 "id": "e3cbbf9bf781338c",
                 "type": "leaf",
                 "state": {
@@ -175,7 +187,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 12
           },
           {
             "id": "e0ad203a91426fd3",
@@ -351,21 +363,24 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8528cfe6272f649f",
+  "active": "64947ad95ff59298",
   "lastOpenFiles": [
-    "~~Dlouhodobka~~/listening_for_delay.py",
-    "~~Dlouhodobka~~/httpcheck_of_delay_external.py",
-    "~~Dlouhodobka~~/httpserver_check_of_delay.py",
-    "~~Dlouhodobka~~/DOCX/~WRL0268.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD0249.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL0901.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD0878.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL1309.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD1290.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL2347.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD2323.tmp",
-    "Pasted image 20250303174914.png",
+    "~~Dlouhodobka~~/DOCX/~WRL0315.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD0279.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3707.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3675.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3791.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3767.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL3779.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD3763.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRL2512.tmp",
+    "~~Dlouhodobka~~/DOCX/~WRD2485.tmp",
+    "image (1).png",
+    "image (1).png.crdownload",
+    "image.png",
+    "Pasted image 20250220162316.png",
     "~~Dlouhodobka~~/Actually Praktická část.md",
+    "Pasted image 20250303174914.png",
     "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
     "School/HackTheBox/Machines/Tier_2/Archetype.md",
     "School/HackTheBox/Machines/Tier_1/Sequel.md",
@@ -383,9 +398,6 @@
     "Pasted image 20250222165507.png",
     "Pasted image 20250222164753.png",
     "Pasted image 20250222163555.png",
-    "Pasted image 20250222163012.png",
-    "Pasted image 20250222160540.png",
-    "Pasted image 20250220162316.png",
     "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
     "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
