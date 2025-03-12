@@ -179,3 +179,9 @@ TODO
 
 ### Redoing routers to ubuntu vms
 ![[Pasted image 20250303174914.png]]
+
+
+
+
+![[Pasted image 20250308182134.png]]
+![[Pasted image 20250308182354.png]]
