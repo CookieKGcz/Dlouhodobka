@@ -8,231 +8,216 @@
         "type": "split",
         "children": [
           {
-            "id": "626a2ce70bd430d8",
-            "type": "split",
+            "id": "f69501661c30ddbe",
+            "type": "tabs",
             "dimension": 84.12356321839079,
             "children": [
               {
-                "id": "f69501661c30ddbe",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4d36f914c1833524",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "4 Types of shells"
-                    }
+                "id": "4d36f914c1833524",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "491bc6ebcd15479b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "full-calendar-view",
-                      "state": {},
-                      "icon": "lucide-file",
-                      "title": "Plugin no longer active"
-                    }
-                  },
-                  {
-                    "id": "25febccf73321fed",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/AS_Hons/Typografie.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Typografie"
-                    }
-                  },
-                  {
-                    "id": "8a147c444ef31901",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Actually Praktická část"
-                    }
-                  },
-                  {
-                    "id": "0037d32efbe34100",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "~~Dlouhodobka~~/Osnova.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Osnova"
-                    }
-                  },
-                  {
-                    "id": "84dcdeeae87849f0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Binary Exploitation"
-                    }
-                  },
-                  {
-                    "id": "b2dad64e8694f75b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
-                    }
-                  },
-                  {
-                    "id": "ef54338792559742",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HS/test - NAT + WAN.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "test - NAT + WAN"
-                    }
-                  },
-                  {
-                    "id": "8528cfe6272f649f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Actually Praktická část"
-                    }
-                  },
-                  {
-                    "id": "ea8a044dca0e95db",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Machines/Tier_2/Archetype.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Archetype"
-                    }
-                  },
-                  {
-                    "id": "64947ad95ff59298",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "3Nibbles - Initial Foothold"
-                    }
-                  },
-                  {
-                    "id": "aca8ae864e59f80b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "1Nibbles - Enumeration"
-                    }
-                  },
-                  {
-                    "id": "15e66a7f4d6e8287",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Machines/Tier_1/Appointment.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Appointment"
-                    }
-                  },
-                  {
-                    "id": "5d68a801c7a5e7db",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/AS_Hons/Excel.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Excel"
-                    }
-                  }
-                ],
-                "currentTab": 10
+                  "icon": "lucide-file",
+                  "title": "4 Types of shells"
+                }
               },
               {
-                "id": "52665ba26d4dfa4e",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1a0c25a916da5c1f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "School/HackTheBox/Modules/Getting_started/List of useful cmds.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "List of useful cmds"
-                    }
-                  }
-                ]
+                "id": "491bc6ebcd15479b",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "25febccf73321fed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/AS_Hons/Typografie.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Typografie"
+                }
+              },
+              {
+                "id": "8a147c444ef31901",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Actually Praktická část"
+                }
+              },
+              {
+                "id": "0037d32efbe34100",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Osnova.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Osnova"
+                }
+              },
+              {
+                "id": "84dcdeeae87849f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Binary Exploitation"
+                }
+              },
+              {
+                "id": "b2dad64e8694f75b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
+                }
+              },
+              {
+                "id": "ef54338792559742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HS/test - NAT + WAN.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "test - NAT + WAN"
+                }
+              },
+              {
+                "id": "8528cfe6272f649f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Actually Praktická část"
+                }
+              },
+              {
+                "id": "ea8a044dca0e95db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Machines/Tier_2/Archetype.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Archetype"
+                }
+              },
+              {
+                "id": "64947ad95ff59298",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "7 Knowledge Check"
+                }
+              },
+              {
+                "id": "7e268bbd068cd22e",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20250207174458.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250207174458"
+                }
+              },
+              {
+                "id": "aca8ae864e59f80b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1Nibbles - Enumeration"
+                }
+              },
+              {
+                "id": "15e66a7f4d6e8287",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Machines/Tier_1/Appointment.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Appointment"
+                }
+              },
+              {
+                "id": "5d68a801c7a5e7db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/AS_Hons/Excel.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Excel"
+                }
               }
             ],
-            "direction": "vertical"
+            "currentTab": 8
           },
           {
             "id": "e0ad203a91426fd3",
@@ -408,54 +393,54 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1a0c25a916da5c1f",
+  "active": "8528cfe6272f649f",
   "lastOpenFiles": [
-    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
-    "School/HackTheBox/Modules/Getting_started/List of useful cmds.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_protokol.pdf",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_protokol.docx",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_pracovní_list.pdf",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_pracovní_list.docx",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.png",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.pdf",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.jpg",
+    "~~Dlouhodobka~~/DOCX/Odevzdáno",
+    "~~Dlouhodobka~~/DOCX/New folder",
+    "School/HackTheBox/Machines/Tier_2/Archetype.md",
+    "~~Dlouhodobka~~/DOCX/I4B_Smékal.zip",
+    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~WRL0001.tmp",
+    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~WRD0000.tmp",
+    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~$B_Smékal_protokol.docx",
+    "Pasted image 20250314091527.png",
+    "Pasted image 20250314091351.png",
+    "Pasted image 20250314091119.png",
+    "Pasted image 20250314091055.png",
+    "Pasted image 20250314090620.png",
+    "Pasted image 20250314090357.png",
+    "Pasted image 20250314090347.png",
+    "Pasted image 20250314090215.png",
     "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "School/HackTheBox/Machines/Tier_1/Appointment.md",
     "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
     "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
+    "School/HackTheBox/Modules/Getting_started/1 Service Scanning.md",
+    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
+    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+    "School/HackTheBox/Machines/Tier_0/Meow.md",
+    "School/HackTheBox/Machines/Tier_0/Fawn.md",
+    "School/HackTheBox/Machines/Tier_0/Dancing.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
+    "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
     "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
     "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
-    "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-    "School/HackTheBox/Modules/Getting_started/1 Service Scanning.md",
+    "School/HackTheBox/Modules/Getting_started/List of useful cmds.md",
     "~~Dlouhodobka~~/Actually Praktická část.md",
-    "~~Dlouhodobka~~/DOCX/~WRL0670.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD0658.tmp",
     "School/AS_Hons/Excel.md",
-    "Pasted image 20250309181652.png",
-    "Pasted image 20250309181644.png",
-    "Pasted image 20250309181538.png",
-    "Pasted image 20250309181528.png",
-    "Pasted image 20250309181300.png",
-    "Pasted image 20250309181251.png",
-    "Pasted image 20250309181039.png",
-    "Pasted image 20250309181017.png",
-    "Pasted image 20250309180804.png",
-    "Pasted image 20250309180752.png",
-    "~~Dlouhodobka~~/DOCX/~WRL0085.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD0077.tmp",
-    "School/HackTheBox/Machines/Tier_2/Archetype.md",
-    "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
     "School/HackTheBox/Machines/Tier_1/Three.md",
-    "School/HackTheBox/Machines/Tier_1/Appointment.md",
-    "~~Dlouhodobka~~/DOCX/~WRL4074.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRD4046.tmp",
-    "~~Dlouhodobka~~/DOCX/~$otokol_smekal_2025_6_3.docx",
-    "~~Dlouhodobka~~/DOCX/protokol_smekal_2025_6_3.docx",
-    "~~Dlouhodobka~~/DOCX/~WRD3234.tmp",
-    "~~Dlouhodobka~~/DOCX/~WRL1501.tmp",
     "School/HackTheBox/Modules/Linux_fundamentals/2 System Information.md",
     "School/HackTheBox/Modules/Linux_fundamentals/1 Linux Structure.md",
     "School/HackTheBox/Machines/Tier_1/Sequel.md",
     "School/HackTheBox/Machines/Tier_1/Responder.md",
-    "School/HackTheBox/Machines/Tier_1/Crocodile.md",
-    "School/HS/test - NAT + WAN.md",
-    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-    "School/HackTheBox/Machines/Tier_0/Meow.md",
-    "School/HackTheBox/Machines/Tier_0/Fawn.md",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",

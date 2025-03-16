@@ -4,11 +4,14 @@ Task 1
 Which TCP port is hosting a database server?
 - 1433
 ![[Pasted image 20250307092745.png]]
+![[Pasted image 20250314085900.png]]
 
 Task 2
 What is the name of the non-Administrative share available over SMB?
 - backups
 ![[Pasted image 20250307093124.png]]
+#SMB 
+![[Pasted image 20250314090215.png]]
 
 Task 3
 What is the password identified in the file on the SMB share?
@@ -17,6 +20,9 @@ What is the password identified in the file on the SMB share?
 ![[Pasted image 20250307093423.png]]
 ![[Pasted image 20250307093441.png]]
 (we also got an usernamr ID/username ARCHETYPE\sql_svc)
+![[Pasted image 20250314090347.png]]
+![[Pasted image 20250314090357.png]]
+
 
 
 Task 4
@@ -31,6 +37,11 @@ What extended stored procedure of Microsoft SQL Server can be used in order to s
 ![[Pasted image 20250307094102.png]]
 ![[Pasted image 20250307094152.png]]
 
+![[Pasted image 20250314090620.png]]
+![[Pasted image 20250314091055.png]]
+![[Pasted image 20250314091119.png]]
+
+
 Task 6
 What script can be used in order to search possible paths to escalate privileges on Windows hosts?
 - winPEAS
@@ -43,10 +54,13 @@ What file contains the administrator's password?
 - 
 can use #msfvenom
 ![[Pasted image 20250307094952.png]]
-![[Pasted image 20250307095056.png]]
+![[Pasted image 20250314091351.png]]
+![[Pasted image 20250307095056.png]]![[Pasted image 20250314091527.png]]
+
 Then msfconsole
 ![[Pasted image 20250307095148.png]]
 ![[Pasted image 20250307095244.png]]
+
 ![[Pasted image 20250307095255.png]] + set LHOST \<our IP>
 ![[Pasted image 20250307095311.png]]
 ![[Pasted image 20250307095518.png]]
