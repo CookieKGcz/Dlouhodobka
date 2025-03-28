@@ -135,17 +135,31 @@
                 }
               },
               {
+                "id": "32ac5c447bb031b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Redeemer"
+                }
+              },
+              {
                 "id": "ea8a044dca0e95db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/HackTheBox/Machines/Tier_2/Archetype.md",
+                    "file": "School/~KB~/Hodiny/Zdroje_Varování.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Archetype"
+                  "title": "Zdroje_Varování"
                 }
               },
               {
@@ -217,7 +231,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 10
           },
           {
             "id": "e0ad203a91426fd3",
@@ -256,8 +270,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -305,7 +319,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -340,12 +354,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                "file": "School/~KB~/CiscoNetacadLabs/Modul_27_1_5_Convert_Data_into_a_Universal_Format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reverse Engineering"
+              "title": "Outgoing links from Modul_27_1_5_Convert_Data_into_a_Universal_Format"
             }
           },
           {
@@ -355,7 +369,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -367,14 +383,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/~KB~/PICOCTF/Reverse Engineering.md"
+                "file": "School/~KB~/CiscoNetacadLabs/Modul_27_1_5_Convert_Data_into_a_Universal_Format.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reverse Engineering"
+              "title": "Outline of Modul_27_1_5_Convert_Data_into_a_Universal_Format"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -393,54 +412,54 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8528cfe6272f649f",
+  "active": "ea8a044dca0e95db",
   "lastOpenFiles": [
+    "School/~KB~/Hodiny/RandomHodina.md",
+    "School/~KB~/Hodiny/Zdroje_Varování.md",
+    "School/~KB~/Hodiny/obrazek.png",
+    "School/~KB~/Hodiny/obrazek 3.png",
+    "School/~KB~/Hodiny/obrazek 2.png",
+    "School/~KB~/Hodiny/obrazek 1.png",
+    "School/~KB~/Hodiny/Zdroje Varování 1c46e3c1ef42805b8b25e5cf0979c9da.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_14_Isolate_Compromised_Host_Using_5-Tuple.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_12_Interpret_HTTP_and_DNS_Data_to_Isolate_Threat_Actor.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_12_Interpret_HTTP_and_DNS_Data_smekama.pdf",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_12_Interpret_HTTP_and_DNS_Data_to_Isolate_Threat_Actor_smekama.pdf",
+    "Pasted image 20250328115719.png",
+    "Pasted image 20250328115328.png",
+    "Pasted image 20250328114743.png",
+    "Pasted image 20250328114725.png",
+    "Pasted image 20250328114716.png",
+    "Pasted image 20250328114705.png",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_10_Extract_an_Executable_from_a_PCAP.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_10_Extract_an_Executable_from_a_PCAP_smekama.pdf",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_9_Regular Expression Tutorial.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_1_5_Convert_Data_into_a_Universal_Format.md",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_1_5_Convert_Data_into_a_Universal_Format_Smekama.pdf",
+    "School/~KB~/CiscoNetacadLabs/27.1.5-lab---convert-data-into-a-universal-format.pdf",
+    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+    "School/HackTheBox/Machines/Tier_0/tier0_complete_smekal.md",
+    "School/~KB~/CiscoNetacadLabs/27.1.5-lab---convert-data-into-a-universal-format.pdf.crdownload",
+    "School/HackTheBox/Machines/Tier_2/Archetype.md",
+    "School/HackTheBox/Machines/Tier_0/tier0_complete_smekal.pdf",
+    "School/HackTheBox/Machines/Tier_0/Dancing.md",
+    "School/HackTheBox/Machines/Tier_0/Fawn.md",
+    "School/HackTheBox/Machines/Tier_0/Meow.md",
+    "School/~KB~/CiscoNetacadLabs",
     "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_protokol.pdf",
     "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_protokol.docx",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_pracovní_list.pdf",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_pracovní_list.docx",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.png",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.pdf",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno/I4B_Smékal_plakát.jpg",
-    "~~Dlouhodobka~~/DOCX/Odevzdáno",
-    "~~Dlouhodobka~~/DOCX/New folder",
-    "School/HackTheBox/Machines/Tier_2/Archetype.md",
-    "~~Dlouhodobka~~/DOCX/I4B_Smékal.zip",
-    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~WRL0001.tmp",
-    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~WRD0000.tmp",
-    "~~Dlouhodobka~~/DOCX/I4B_Smékal/~$B_Smékal_protokol.docx",
-    "Pasted image 20250314091527.png",
-    "Pasted image 20250314091351.png",
-    "Pasted image 20250314091119.png",
-    "Pasted image 20250314091055.png",
-    "Pasted image 20250314090620.png",
-    "Pasted image 20250314090357.png",
-    "Pasted image 20250314090347.png",
-    "Pasted image 20250314090215.png",
     "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
     "School/HackTheBox/Machines/Tier_1/Appointment.md",
     "School/HackTheBox/Modules/Getting_started/6 Transferring Files.md",
     "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
     "School/HackTheBox/Modules/Getting_started/1 Service Scanning.md",
     "School/HackTheBox/Modules/Getting_started/2 Web Enumeration.md",
-    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
-    "School/HackTheBox/Machines/Tier_0/Meow.md",
-    "School/HackTheBox/Machines/Tier_0/Fawn.md",
-    "School/HackTheBox/Machines/Tier_0/Dancing.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/4Nibbles - Privilege Escalation.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/3Nibbles - Initial Foothold.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/2Nibbles - Web Footprinting.md",
     "School/HackTheBox/Modules/Getting_started/Nibbles/1Nibbles - Enumeration.md",
     "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
     "School/HackTheBox/Modules/Getting_started/3 Public Exploits.md",
-    "School/HackTheBox/Modules/Getting_started/List of useful cmds.md",
-    "~~Dlouhodobka~~/Actually Praktická část.md",
-    "School/AS_Hons/Excel.md",
-    "School/HackTheBox/Machines/Tier_1/Three.md",
-    "School/HackTheBox/Modules/Linux_fundamentals/2 System Information.md",
-    "School/HackTheBox/Modules/Linux_fundamentals/1 Linux Structure.md",
-    "School/HackTheBox/Machines/Tier_1/Sequel.md",
-    "School/HackTheBox/Machines/Tier_1/Responder.md",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
