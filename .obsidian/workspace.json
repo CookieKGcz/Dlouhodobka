@@ -234,14 +234,12 @@
                 "id": "c4061757a2ec3e3e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "School/~KB~/CiscoNetacadLabs/Modul_27_2_15_Investigating_a_Malware_Exploit.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "School/~~Maturita_HS_SW~~/DOCX/SW_20 1.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Modul_27_2_15_Investigating_a_Malware_Exploit"
+                  "icon": "lucide-file-text",
+                  "title": "SW_20 1"
                 }
               },
               {
@@ -440,8 +438,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8865cc117ce8ec8a",
+  "active": "c4061757a2ec3e3e",
   "lastOpenFiles": [
+    "School/~~Maturita_HS_SW~~/12. Správa uživatelů a oprávnění.md",
+    "School/~~Maturita_HS_SW~~/19. Služby WWW, FTP - Matyáš Konštiak.md",
+    "School/~~Maturita_HS_SW~~/10. Zavádění OS VELKE.md",
+    "School/~~Maturita_HS_SW~~/18. Služby DNS, DHCP.md",
+    "School/HS/Protokoly transportni vrstvy.md",
+    "School/~~Maturita_HS_SW~~/DOCX/19. Služby WWW, FTP - Matyáš Konštiak.docx",
+    "School/~~Maturita_HS_SW~~/DOCX/18. Služby DNS, DHCP - Jan Ruffer.docx",
+    "School/~KB~/CiscoNetacadLabs/Modul_27_2_15_Investigating_a_Malware_Exploit.md",
+    "School/~~Maturita_HS_SW~~/DOCX/Unconfirmed 841634.crdownload",
+    "School/~~Maturita_HS_SW~~/DOCX/Unconfirmed 590185.crdownload",
     "School/~KB~/CiscoNetacadLabs/Modul_27_2_15_Investigating_a_Malware_Exploit_smekama.pdf",
     "Pasted image 20250404171750.png",
     "Pasted image 20250404171527.png",
@@ -455,7 +463,6 @@
     "Pasted image 20250404165704.png",
     "School/~KB~/CiscoNetacadLabs/Modul_27_2_14_Isolate_Compromised_Host_Using_5-Tuple.md",
     "School/~KB~/CiscoNetacadLabs/Modul_27_2_14_Isolate_Compromised_Host_Using_5-Tuple_smekama.pdf",
-    "School/~KB~/CiscoNetacadLabs/Modul_27_2_15_Investigating_a_Malware_Exploit.md",
     "School/HackTheBox/Machines/Tier_0/Redeemer.md",
     "School/HackTheBox/Machines/Tier_0/Meow.md",
     "School/HackTheBox/Machines/Tier_0/Fawn.md",
@@ -476,18 +483,9 @@
     "School/~~Maturita_HS_SW~~/4. Zabezpečení OS.md",
     "School/~~Maturita_HS_SW~~/3. Správa operačních systémů Windows a UNIX-like OS.md",
     "School/~~Maturita_HS_SW~~/2. Základní charakteristiky a principy ovládání Windows a UNIX-like OS.md",
-    "School/~~Maturita_HS_SW~~/10. Zavádění OS VELKE.md",
     "School/~~Maturita_HS_SW~~/DOCX/10SW.docx",
-    "School/~~Maturita_HS_SW~~/11. Adresářové služby.md",
     "School/~~Maturita_HS_SW~~/DOCX",
     "School/~~Maturita_HS_SW~~/~$10SW.docx",
-    "School/~~Maturita_HS_SW~~/Attachments",
-    "School/~~Maturita_HS_SW~~/10. Zavádění OS.md",
-    "School/~~Maturita_HS_SW~~/~WRL0001.tmp",
-    "School/~~Maturita_HS_SW~~/~WRD0000.tmp",
-    "School/~~Maturita_HS_SW~~/12. Správa uživatelů a oprávnění.md",
-    "School/~~Maturita_HS_SW~~",
-    "School/~KB~/CiscoNetacadLabs/Modul_27_2_12_Interpret_HTTP_and_DNS_Data_smekama.pdf",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
