@@ -271,6 +271,18 @@
                   "icon": "lucide-file",
                   "title": "El (Elizabeth)"
                 }
+              },
+              {
+                "id": "db27f27455c9dbed",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.9.12"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.9.12"
+                }
               }
             ],
             "currentTab": 18
@@ -433,9 +445,19 @@
               "icon": "lucide-list",
               "title": "Outline of Modul_27_1_5_Convert_Data_into_a_Universal_Format"
             }
+          },
+          {
+            "id": "a537cd4e3ec1ca93",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -457,6 +479,8 @@
   },
   "active": "42100652dd36dd00",
   "lastOpenFiles": [
+    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+    "DND/El (Elizabeth).md",
     "DND/Elizabeth fight cheat-sheet lvl5.pdf",
     "DND/Elizabeth Von Sanquin.md",
     "DND/Elizabeth fight cheat-sheet.md",
@@ -464,7 +488,6 @@
     "DND/Elizabeth Von Sanquin 1.md",
     "Pasted image 20250709025819.png",
     "Pasted image 20250709023750.png",
-    "DND/El (Elizabeth).md",
     "DND/Marlic Inok.md",
     "DND/Lynn.md",
     "DND/Canv.canvas",
@@ -496,7 +519,6 @@
     "Pasted image 20250404170530.png",
     "Pasted image 20250404165937.png",
     "School/~KB~/CiscoNetacadLabs/Modul_27_2_14_Isolate_Compromised_Host_Using_5-Tuple.md",
-    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
     "School/HackTheBox/Machines/Tier_0/Meow.md",
     "School/HackTheBox/Machines/Tier_0/Fawn.md",
     "School/HackTheBox/Machines/Tier_0/Dancing.md",
