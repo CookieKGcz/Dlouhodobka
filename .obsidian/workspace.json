@@ -264,12 +264,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/List_of_classes-trees.md",
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "List_of_classes-trees"
+                  "title": "1 250916 - Úvod_do_DB"
                 }
               },
               {
@@ -479,8 +479,12 @@
   },
   "active": "42100652dd36dd00",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/Universal_notes.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/1 250926 -.md",
+    "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/Untitled.md",
     "MUNI/List_of_classes-trees.md",
+    "MUNI/1Semestr-KYB/Universal_notes.md",
     "MUNI/1Semestr-KYB/A_Tree.md",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
@@ -522,10 +526,6 @@
     "Pasted image 20250404170628.png",
     "Pasted image 20250404170530.png",
     "School/~KB~/CiscoNetacadLabs/Modul_27_2_14_Isolate_Compromised_Host_Using_5-Tuple.md",
-    "School/HackTheBox/Machines/Tier_0/Meow.md",
-    "School/HackTheBox/Machines/Tier_0/Fawn.md",
-    "School/HackTheBox/Machines/Tier_0/Dancing.md",
-    "School/HackTheBox/Machines/Tier_2/Archetype.md",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
