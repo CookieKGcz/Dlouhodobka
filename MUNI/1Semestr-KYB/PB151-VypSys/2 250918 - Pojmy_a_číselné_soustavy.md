@@ -1,0 +1,51 @@
+## Pojmy
+- HW, SW, Firmware (programy tvořící součást techn vybavení)
+- 1 bit - základní jednotka informace
+- 1 bajt - 8 bitů
+- ### Proč 8?
+	- Bajt = 1 znak se kterým pracuje člověk
+		- cca 100 různých znaků (ASCII)
+	- Na zobrazení je potřeba 7 bitů, protože 2^7 = 128
+- ### Osmistopá děrná páska
+	- ASCII pokrývá 7 bitů
+	- 8. bit je **paritní**
+		- doplněno na sudý/lichý počet 1
+			- pokud nastane 1 nebo 3... chyby, tak to poznáme jinak ne?
+	- čtení, užší část dolů a od zdola 2^0, 2^1, 2^2... až do 2^7.
+	- od zhora **x**xooo.xxo (zvýrazněný je paritní a tedy ten 2^7)
+		- = 1000110 (ve dvojkové s.) = 1 000 110 = 106 (v osmičkové soustavě) = F
+	- ### 5-stopá děrná páska
+		- historicky starší
+		- 2^5 umožnuje 32 bitů
+		- dělalo se přepínání mezi pásky, a využívaly se číslicová a znaková změna?
+	- ### Děrné štítky
+		- není ASCII ale kodován na desítkouvou soustavu EBCDIC
+		- řádky 0-9
+- pro uložení čísla je 1 bajt málo, používá se **1 slovo** = (2, 4, 6, 8..) bajtů
+- **Paměť** - zařízení pro uchovávání binárně kodovaných dat
+- **Operační paměť** - Paměť uvnitř PC/zařízení pro aktuálně procesorem/y zpracované instrukce a data
+- **Adresa v paměti** - číselné označení místa v paměti
+- **Nejmenší adresovatelná jednotka** - kapacita místa v paměti, které má vlastní adresu (bajt, slovo) = nejde přečíst jeden bit
+- Adresový registr - kolik může být položek v paměti (v prezentaci ![[Pasted image 20250917154648.png | 250]])
+- Kapacita paměti - 1 KB = 1 KiB = 2^10 bajtů = 1.024 bajtů
+	- 1 MB = 1 MiB = 2^20 bajtů = 1.048.576 bajtů
+- **RAM** - paměť pro čtení i zápis (operační paměť)(po vypnutí se smaže)
+- **ROM** - paměť pouze pro čtení (po vypnutí se nesmaže (většinou počáteční SW))
+- Paměť s přímým přístupem - páska
+- Paměť se sekvenčním přístupem
+- Vstupní / Výstupní zařízení
+- **Řadič** - zařízení převádějící příkazy v symbolické formě (instrukce) na posloupnost signálů ovládajících připojené zařízení
+- ### Architektura "Von Neumann"
+	- PC obsahuje Oper. pam., ALJ, řadič, V/V
+	- Předpis pro řešení úlohy je převeden do posloupnosti instrukcí
+	- Údaje a instrukce jsou vyjádřeny binárně
+	- Údaje a instrukce se uchovávají v paměti na místech označ. adresami.
+	- Ke změně pořadí provádění instrukcí se používají instrukce podmíněného a nepodmíněného skoku. (IF)
+	- Programem řízené zpracování dat probíhá v počítači samočinně.
+## Číselné soustavy
+- číslo = součet mocnin základu vynásobených číslicemi
+- A = 123
+- A = 1 * 10^2 + 2 * 10^1 + 3 * 10^0 
+- Soustavy používané v pc praxi - dvojková, osmičková a šestnáctková (hexadecimal)
+- ### Převody
+	- ![[Pasted image 20250917163810.png | 200]]
