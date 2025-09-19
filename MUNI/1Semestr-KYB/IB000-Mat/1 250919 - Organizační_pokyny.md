@@ -82,13 +82,13 @@
 	- Správně: A, (A) implikuje (B), A implikuje B, negace A implikuje B, A disj. B disj. negace B
 	- Nesprávně: A implikuje B implikuje C (nevíme pořadí)
 - #### Definice 1.8. Sémantika (význam) výrokové logiky.
-	- Nechť valuace (ohodnocení) je funkce v: Prom -> {0,1} na všech (dotčených) výrokových proměnných. Pro každou valuaci v definujeme dunci Sv(roo), vyhodnocení formule roo, induktivně takto:
+	- Nechť valuace (ohodnocení) je funkce v: Prom -> {0,1} na všech (dotčených) výrokových proměnných. Pro každou valuaci v definujeme funkci Sv(roo), vyhodnocení formule roo, induktivně takto:
 		- Sv(A) := v(A) pro každé A leží Prom
 		- #todo 
 - #### Pravdivostní tabulky
 	- ##### Příklad 1.9 Pravdivostní tabulka pro formuli (A implikuje B) V B V C?
 		- #todo 
-- #### Splinitelnost formulí a tautologie
-	- Definice: Formule ... #todo je splinitená, pokud pro některou valuaci v platí, že Sv(fí) = 1. Formule je nesplinitná (říká se kontradikce), pokud není splinitelná
+- #### Splnitelnost formulí a tautologie
+	- Definice: Formule ... #todo je splnitelná, pokud pro některou valuaci v platí, že Sv(fí) = 1. Formule je nesplnitelná (říká se kontradikce), pokud není splnitelná
 	- Formule fí je vždy pravdivá ...
 - #### Příklad 1.11 #todo 
