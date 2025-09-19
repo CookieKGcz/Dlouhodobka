@@ -1,0 +1,94 @@
+- studijní mat. index a aktuality
+- Semestrální nadílky - 4 porce
+	- testíky na cvikách - 12b
+	- Úvodní domácí test na osahání - 6b
+	- Hlídané školní testy - 2x za 16 a 10 bodů
+	- Semestrální výsledek = 2 nejlepší nadílky
+		- a min 7 bodů z cvikách
+		- celkově min 16b
+- Zkoušky (leden únor)
+	- cca 66% jinak F
+	- ? body ze zkoušky plus semestrální výsledek ?
+## Základní formalismy
+- Matematické tvrzení obvykle:
+	- "Jestliže platí předpoklady, pak platí závěr"
+- = implikace
+- Pro pochopení významu je klíčové vždy správně identifikovat, co jsou v dané větě ony zmíněné předpoklady a co je závěrem.
+- Příklady běžné formulace matematických vět:
+	- Je-li x > 1, pak platí x^2 > x.
+	- Konečná množina má konečně mnoho podmnožin.
+		- nevyslovený předpoklad "nechť je M konečná množina"
+		- závěr je M má konečně mnoho podmnožin
+	- sin^2(alpha) + cos^2(alpha) = 1
+	- Graf je rovinný, jestliže neobsaju podrozdělení K5 nebo K3,3
+		- předpoklady jsou na konci věty a závěr na začátku
+- začít vypsáním definici pojmů!
+### O pravdivosti implikace
+- (jestliže ... , pak ...)
+- Pravdivost takového tvrzení je třeba chápat v následujícím významu:
+	- **Pro každou situaci, ve které jsou splněny všechny předpoklady, je platný u závěr tvrzení.**
+- #### Příklad 1.2
+	- Věta. Jestliže Anna sedí v první řadě lavic a zároveň Anna sedí v poslední řadě lavic, tak Klára nesedí ve druhé řadě lavic.
+	- Když první řada lavic je zároveň řadou poslední.
+	- Neboli posluchárna ...
+- Uvažujeme matematickou větu (neboli tvrzení) tvaru
+	- "Jestliže platí předpoklady, pak platí závěr".
+- Důkaz této věty je konečná posloupnost tvrzení, kde
+	- každé tvrzení je buď
+		- předpoklad, nebo
+		- obecně přijatá "pravda" - axiom, nebo
+		- plyne z předchozích a dříve dokázaných tvrezení podle nějakého "akceptovaného" logického principu - odvozovacího pravidla
+	- poslední tvrzení je závěr.
+- #### Příklad 1.4
+	- Věta. Jestliže x je součtem dvou lichých čísel, pak x je sudé.
+	- Poznámka pro připomenutí:
+		- Sudé = 2k (dělitelné dvěma)
+		- Liché = 2k + 1
+	- Důkaz postupuje v následujících formálních krocích:
+		- tvrzení                               zdůvodnění
+		- 1 - a = 2k + 1, k celé         předpoklad
+		- 2 - b = 2l + 1, l celé           předpoklad
+		- 3 = x = a + b = 2k + 2l
+		- ... #todo 
+- #### Příklad 1.5
+	- Věta. Jestliže x a y jsou racionální čísla pro která platí x < y, pak existuje racionální číslo z pro které platí x < z < y.
+		- 1 - nechť z = (x+y)/2 = x + (y-x)/2 = y - (y-x)/2
+		- 2 - Číslo z je racionální, neboť x a y jsou racionální
+		- 3 Platí z > x, neboť (y-x)/2
+		- ... #todo 
+## Výroky
+- Důležitým pevným mostem mezi běžnou mluvou a přesným matematickým formalismem je pojem výroku.
+- #### Definice 1.6. Výrok v přirozené mluvě:
+	- dá se prohlásit že je buď pravdivé, nebo nepravdivé.
+	- Několik příkladů:
+		- Dnes už v Brně pršelo.
+		- Předmět FI:IB000 se vyučuje v prvním ročníku
+		- Platí 2 + 3 = 6
+		- To je bez problémů. XXX (Co?)
+		- Platí x > 3. XXX
+	- Z více jednoduchých výroků vytváříme výroky složitější pomocí tzv. logických spojek.
+		- Množina {a, b} má více než eden prvek a není nekonečná.
+		- Jestliže Karel váží přes 90kg, nejedu s ním výtahem.
+		- Jestliže má tato kráva 10 nohou, pak mají všechny domy modrou střechu.
+	- Přirozené vs. formální
+		- Schopnost porozumět podobným větám je součást lidského způsobu uvažování a z toho hlediska nemá přímou souvislost s matematikou
+		- Formální (matematická) logika - #todo 
+- #### Formální výroková logika
+	- z definice 1.6 lze ke každému výroku běžné mluvy přiřadit logickou hodnotu 0 (false), 1 (true) a dále se nestarat o jazykový význam.
+	- Proto jazykové výroky v matematice můžeme nahradit výrokovými proměnnými, které zančíme velkými písmeny A,B,C,... a přiřadíme jim hodnotu 0 nebo 1.
+	- Definice: Výroková formule (značíme roo, ...) vzniká z výrokových proměnných pomocí závorek a logických spojek, které z později vysvětlených důvodů dělíme na:
+		- základní spojky - negace a implikace
+		- a odvozené spojky - disjunkce, konjunkce a ekvivalence
+	- Správně: A, (A) implikuje (B), A implikuje B, negace A implikuje B, A disj. B disj. negace B
+	- Nesprávně: A implikuje B implikuje C (nevíme pořadí)
+- #### Definice 1.8. Sémantika (význam) výrokové logiky.
+	- Nechť valuace (ohodnocení) je funkce v: Prom -> {0,1} na všech (dotčených) výrokových proměnných. Pro každou valuaci v definujeme dunci Sv(roo), vyhodnocení formule roo, induktivně takto:
+		- Sv(A) := v(A) pro každé A leží Prom
+		- #todo 
+- #### Pravdivostní tabulky
+	- ##### Příklad 1.9 Pravdivostní tabulka pro formuli (A implikuje B) V B V C?
+		- #todo 
+- #### Splinitelnost formulí a tautologie
+	- Definice: Formule ... #todo je splinitená, pokud pro některou valuaci v platí, že Sv(fí) = 1. Formule je nesplinitná (říká se kontradikce), pokud není splinitelná
+	- Formule fí je vždy pravdivá ...
+- #### Příklad 1.11 #todo 
