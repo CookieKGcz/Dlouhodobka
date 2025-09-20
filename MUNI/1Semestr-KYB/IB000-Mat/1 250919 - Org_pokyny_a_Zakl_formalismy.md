@@ -92,3 +92,7 @@
 	- Definice: Formule ... #todo je splnitelná, pokud pro některou valuaci v platí, že Sv(fí) = 1. Formule je nesplnitelná (říká se kontradikce), pokud není splnitelná
 	- Formule fí je vždy pravdivá ...
 - #### Příklad 1.11 #todo 
+
+## After notes
+### Ekvivalence např
+![[Pasted image 20250920201547.png]]
