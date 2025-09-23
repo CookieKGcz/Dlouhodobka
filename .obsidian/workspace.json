@@ -264,24 +264,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
+                    "file": "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2 250923 - Vymezení v kontextu"
-                }
-              },
-              {
-                "id": "db27f27455c9dbed",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.9.12"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.12"
+                  "title": "1 250923 - Org"
                 }
               }
             ],
@@ -479,8 +467,9 @@
   },
   "active": "42100652dd36dd00",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
+    "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
     "Pasted image 20250920201547.png",
     "MUNI/1Semestr-KYB/IB111-Prog/1 250919 - Organizační_pokyny_a_základy_Pythonu.md",
     "Pasted image 20250919162823.png",
@@ -522,7 +511,6 @@
     "School/~~Cetb_CJ~~/19_Nikola Šuhaj Loupežník.md",
     "School/~~Maturita_HS_SW~~/12. Správa uživatelů a oprávnění.md",
     "School/~~Maturita_HS_SW~~/19. Služby WWW, FTP - Matyáš Konštiak.md",
-    "School/~~Maturita_HS_SW~~/10. Zavádění OS VELKE.md",
     "Pasted image 20250404171750.png",
     "Pasted image 20250404171527.png",
     "Pasted image 20250404171451.png",
