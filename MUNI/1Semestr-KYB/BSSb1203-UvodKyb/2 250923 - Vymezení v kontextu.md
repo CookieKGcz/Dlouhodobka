@@ -1,0 +1,19 @@
+- Bezpečnost > Bezp. v kyberprostoru > Kyberbezpečnost
+- Bezpečnostní studia - vznikly zhruba v polovině 20. století jako subdisciplína vědy o mezinárodních vztazích.
+	- Za studené války - především vojenská bezp.
+- Po skončení s.v. výrazná přeměna (zájmy bezp. studií...)
+- Začalo se více pracovat i s politologickými koncepty...
+- Hlavní debaty:
+	- Tradiční náhled na "nulový" či "nenulový" součet zisků a ztrát akterů
+		- Idealismus -> <- Realismus
+		- nenul -> <- nul
+	- Debaty mezi tradicionalisty a progresivisty o náhled na poznání
+		- Pozitivismus -> <- Kritický přístup
+		- ("Objektivita" dat a poznání -> <- ("normatvita" a zaměření se na...))
+- Příbuzné vědní obory BSS
+	- Areálová studia - (Balkánská studia, Skandinávská studia...) regiony -> Kybernetické soupeření v blízko- a sředovýchodní oblasti (např. Stuxnet)
+	- Kriminologie (+ penologie) - Zabývá se příčinami a podmínkami kriminality a možnostmi její eliminace -> Motivace a příležitosti hackerů (+ možnost nápravy vězení)
+	- Studia genocid - Výzkum příčin, průběhu a následků genocid a snaha je eliminovat -> Využití modelování prostor genocidy pro výzkum
+	- Intelligence studies - Komplexní studia zpravodajské činnosti a služeb -> Kyberšpionáž
+	- Surveillance studies - Souhrnná studia dohledu prostřednictvím monitorovacích systémů -> Prolomení zabezpečení databází
+- Obléhání Brna 1645 Bruh
