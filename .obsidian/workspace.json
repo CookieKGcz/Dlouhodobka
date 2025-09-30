@@ -297,9 +297,35 @@
                   "icon": "lucide-file",
                   "title": "3 250930 - Základní terminologie BSS"
                 }
+              },
+              {
+                "id": "85aaf02c4d3889b8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Úkol_1_u_učitele_Ráčka"
+                }
+              },
+              {
+                "id": "990913c77791a4f6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Úkol_1_draw.excalidraw"
+                }
               }
             ],
-            "currentTab": 20
+            "currentTab": 22
           },
           {
             "id": "e0ad203a91426fd3",
@@ -492,35 +518,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ccb4bbe6bed65e2",
+  "active": "990913c77791a4f6",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
+    "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
+    "Pasted image 20250930174728.png",
+    "Pasted image 20250930174708.png",
+    "Pasted image 20250930174651.png",
+    "Pasted image 20250930174559.png",
+    "Pasted image 20250930174020.png",
+    "Pasted image 20250930173927.png",
+    "Pasted image 20250930173554.png",
+    "Pasted image 20250930173342.png",
+    "Pasted image 20250930172809.png",
+    "Pasted image 20250930171017.png",
+    "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
+    "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
+    "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Relační_model_ig.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
     "MUNI/1Semestr-KYB/IB111-Prog/2 250926 - Základy pythonu, typy, jednoduché alg.md",
-    "Pasted image 20250926104704.png",
-    "Pasted image 20250925141932.png",
-    "Pasted image 20250925134219.png",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
-    "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
-    "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
-    "Pasted image 20250923170002.png",
-    "Pasted image 20250923165956.png",
-    "Pasted image 20250923164918.png",
-    "Pasted image 20250923161819.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/1 250916 - Organizační_pokyny.md",
     "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
-    "Pasted image 20250920201547.png",
     "MUNI/1Semestr-KYB/IB111-Prog/1 250919 - Organizační_pokyny_a_základy_Pythonu.md",
-    "Pasted image 20250919162823.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/2 250918 - Pojmy_a_číselné_soustavy.md",
-    "Pasted image 20250917163810.png",
     "MUNI/List_of_classes-trees.md",
     "MUNI/1Semestr-KYB/Universal_notes.md",
     "MUNI/1Semestr-KYB/A_Tree.md",
@@ -536,11 +567,6 @@
     "DND/El (Elizabeth).md",
     "School/HackTheBox/Machines/Tier_0/Redeemer.md",
     "DND/Elizabeth fight cheat-sheet lvl5.pdf",
-    "DND/Elizabeth Von Sanquin.md",
-    "DND/Elizabeth fight cheat-sheet.md",
-    "DND/Elizabeth fight cheat-sheet lvl5.md",
-    "DND/Elizabeth Von Sanquin 1.md",
-    "DND/Marlic Inok.md",
     "DND/Canv.canvas",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
