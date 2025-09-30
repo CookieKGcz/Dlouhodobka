@@ -290,12 +290,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/IB111-Prog/2 250926 - Základy pythonu, typy, jednoduché alg.md",
+                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2 250926 - Základy pythonu, typy, jednoduché alg"
+                  "title": "3 250930 - Základní terminologie BSS"
                 }
               }
             ],
@@ -387,8 +387,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -495,15 +494,16 @@
   },
   "active": "2ccb4bbe6bed65e2",
   "lastOpenFiles": [
-    "Pasted image 20250926104704.png",
+    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
     "MUNI/1Semestr-KYB/IB111-Prog/2 250926 - Základy pythonu, typy, jednoduché alg.md",
+    "Pasted image 20250926104704.png",
     "Pasted image 20250925141932.png",
     "Pasted image 20250925134219.png",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
     "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
@@ -521,7 +521,6 @@
     "Pasted image 20250919162823.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/2 250918 - Pojmy_a_číselné_soustavy.md",
     "Pasted image 20250917163810.png",
-    "Pasted image 20250917154648.png",
     "MUNI/List_of_classes-trees.md",
     "MUNI/1Semestr-KYB/Universal_notes.md",
     "MUNI/1Semestr-KYB/A_Tree.md",
