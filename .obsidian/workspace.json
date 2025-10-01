@@ -316,16 +316,46 @@
                 "id": "990913c77791a4f6",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md"
+                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/4 251001 - Kódy pokračování.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Úkol_1_draw.excalidraw"
+                  "icon": "lucide-file",
+                  "title": "4 251001 - Kódy pokračování"
+                }
+              },
+              {
+                "id": "63767fbbb053d201",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/4 251001 - Kódy pokračování.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "4 251001 - Kódy pokračování"
+                }
+              },
+              {
+                "id": "a465a84ce2d0201d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/4 251001 - Kódy pokračování.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "4 251001 - Kódy pokračování"
                 }
               }
             ],
-            "currentTab": 22
+            "currentTab": 24
           },
           {
             "id": "e0ad203a91426fd3",
@@ -413,7 +443,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -518,43 +549,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "990913c77791a4f6",
+  "active": "a465a84ce2d0201d",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
+    "Pasted image 20251001163325.png",
+    "Pasted image 20251001163053.png",
+    "School/HAXAGON/Theory/Symetrické šifry.md",
+    "School/~KB~/Soutez.md",
+    "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "School/~KB~/PICOCTF/Cryptography3.md",
+    "School/Dictionary/A/Advanced Encryption Standard.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/4 251001 - Kódy pokračování.md",
+    "Pasted image 20251001162620.png",
+    "Pasted image 20251001162502.png",
+    "Pasted image 20251001162435.png",
+    "Pasted image 20251001162012.png",
+    "Pasted image 20251001161933.png",
+    "Pasted image 20251001160941.png",
+    "Pasted image 20251001160405.png",
+    "Pasted image 20251001155146.png",
+    "Pasted image 20251001155056.png",
+    "MUNI/1Semestr-KYB/PB151-VypSys/4 ukazka_laborek_logic_c.excalidraw.md",
+    "DND/Lynn.md",
+    "DND/Marlic Inok.md",
+    "DND/El (Elizabeth).md",
+    "DND/Elizabeth Von Sanquin.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/3 - whops.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/2 250918 - Pojmy_a_číselné_soustavy.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
     "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
-    "Pasted image 20250930174728.png",
-    "Pasted image 20250930174708.png",
-    "Pasted image 20250930174651.png",
-    "Pasted image 20250930174559.png",
-    "Pasted image 20250930174020.png",
-    "Pasted image 20250930173927.png",
-    "Pasted image 20250930173554.png",
-    "Pasted image 20250930173342.png",
-    "Pasted image 20250930172809.png",
-    "Pasted image 20250930171017.png",
     "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
     "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Relační_model_ig.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
-    "MUNI/1Semestr-KYB/IB111-Prog/2 250926 - Základy pythonu, typy, jednoduché alg.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
-    "MUNI/1Semestr-KYB/PB151-VypSys/1 250916 - Organizační_pokyny.md",
-    "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
-    "MUNI/1Semestr-KYB/IB111-Prog/1 250919 - Organizační_pokyny_a_základy_Pythonu.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/2 250918 - Pojmy_a_číselné_soustavy.md",
-    "MUNI/List_of_classes-trees.md",
-    "MUNI/1Semestr-KYB/Universal_notes.md",
-    "MUNI/1Semestr-KYB/A_Tree.md",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
     "MUNI/1Semestr-KYB/BSSb1152-KybV",
@@ -564,8 +597,6 @@
     "MUNI/1Semestr-KYB/IB000-Mat",
     "MUNI/1Semestr-KYB",
     "MUNI",
-    "DND/El (Elizabeth).md",
-    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
     "DND/Elizabeth fight cheat-sheet lvl5.pdf",
     "DND/Canv.canvas",
     "Untitled.canvas",
