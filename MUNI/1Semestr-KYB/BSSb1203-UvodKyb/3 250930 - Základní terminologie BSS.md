@@ -1,3 +1,4 @@
+#kyber #strategie_v_BSS
 ## Základní zdroje bezp. terminologie
 - Zákony a další právní normy (včetně norem EU a mezinárodního práva)
 - Úřední dokumenty a certifikované příručky, slovníky, metodiky atd.

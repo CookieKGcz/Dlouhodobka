@@ -1,3 +1,4 @@
+#dfd #IS 
 https://is.muni.cz/auth/el/fi/podzim2025/PB168/um/is/DFD.pdf
 **Konceptováno**:
 - Datová vrstva (relační datová vrstva) <> Informační systém <> Data se zobrazují (výstupy)(uživatelská vrstva)
@@ -145,3 +146,7 @@ Doporučení: Nejprve popsat normální situace, poté připojit podmínky pro �
 - Postcondition 1 - Připravena faktura, na které jsou uvedeny číslo_účtu a prodejní_cena.
 - Precondition 2 - Podmínka 1 není splněna (číslo_účtu nelze nalézt v paměti ÚČTY, nebo stavový_kód není „platný“).
 - Postcondition 2 - Je sestavena chybová zpráva.
+
+## Cvičení a Úkoly
+[[Úkol_1_draw.excalidraw]]
+[[Úkol_1_u_učitele_Ráčka]]

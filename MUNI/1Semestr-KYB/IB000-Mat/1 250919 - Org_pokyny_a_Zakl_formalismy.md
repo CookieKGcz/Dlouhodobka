@@ -1,3 +1,4 @@
+#uvod 
 - studijní mat. index a aktuality
 - Semestrální nadílky - 4 porce
 	- testíky na cvikách - 12b

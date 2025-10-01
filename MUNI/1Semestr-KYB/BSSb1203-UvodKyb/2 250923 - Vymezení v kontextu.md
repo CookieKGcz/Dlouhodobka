@@ -1,3 +1,4 @@
+#kyber
 - Bezpečnost > Bezp. v kyberprostoru > Kyberbezpečnost
 - Bezpečnostní studia - vznikly zhruba v polovině 20. století jako subdisciplína vědy o mezinárodních vztazích.
 	- Za studené války - především vojenská bezp.
