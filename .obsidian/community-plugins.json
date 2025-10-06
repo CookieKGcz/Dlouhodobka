@@ -6,5 +6,7 @@
   "calendar",
   "obsidian-full-calendar",
   "better-export-pdf",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite",
+  "typst"
 ]
