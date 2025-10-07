@@ -163,6 +163,7 @@ $$T_{kód, ukončení}({ G_{ukončení = 'k' \ \text{v} \ ukončení = 'zk'} (p�
 - Sestavte výrazy relační algebry, které vrací:
 	-  jména studentů, kteří mají zapsaný předmět ‘PB168’;
 $$ T_{jméno}(student \bowtie T_{učo} (G_{kód = 'PB168'}(Zápis)))$$
+
 - čísla skupin předmětu s názvem ‘UNIX’, které mají kapacitu menší než 10;
 $$T_{číslo}(G_{název='UNIX'}(G_{kapacita<10 \ \  \cap \ předmět.kód = skupina.kód }(skupina \ \times \ předmět)))$$
 nebo místo x bude natural join |><|
@@ -173,3 +174,38 @@ $$G_{jméno = 'Tomáš'}(student \bowtie zápis \bowtie předmět)$$
 
 - Napište výraz vracející učo studentů, kteří mají zapsané předměty ‘PB154’ a ‘MA102’ současně
 $$T_{učo}(G_{kód='PB154'}(zápis)) \bowtie T_{učo}(G_{kód='MA102'}(zápis))$$
+### 13
+- Mějme relace:
+	- předmět ( kód, název, kredity )
+	-  skupina ( kód, číslo, kapacita )
+	- zápis ( učo, kód )
+	- student ( učo, jméno )
+- kódy a názvy předmětů, které nemá zapsaný žádný student;
+$$T_{kód, název}(G_{učo \ is \ NULL}(předmšt \ left\bowtie zápis))$$
+- jména studentů, kteří nemají zapsaný žádný předmět; ???????
+$$G_{count = 0}(_{kód, název}Q_{count(učo)}(předmět \ ⟕ zápis))$$
+- názvy všech předmětů, které mají alespoň dvě skupiny. ???????????
+
+### 19? SQL
+select kod, count()
+
+
+
+
+
+cheat sheet
+- σ (selekce)
+    
+- π (projekce)
+    
+- × (kartézský součin)
+    
+- ∪ (sjednocení)
+    
+- − (rozdíl)
+    
+- ρ (přejmenování)
+    
+- ∩ (průnik) – lze odvodit
+    
+- ⨝ (přirozené spojení) – lze odvodit
