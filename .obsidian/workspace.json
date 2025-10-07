@@ -10,7 +10,7 @@
           {
             "id": "f69501661c30ddbe",
             "type": "tabs",
-            "dimension": 75.96153846153845,
+            "dimension": 75.96153846153847,
             "children": [
               {
                 "id": "4d36f914c1833524",
@@ -32,8 +32,8 @@
                 "state": {
                   "type": "full-calendar-view",
                   "state": {},
-                  "icon": "lucide-file",
-                  "title": "Plugin no longer active"
+                  "icon": "lucide-ghost",
+                  "title": "full-calendar-view"
                 }
               },
               {
@@ -198,8 +198,8 @@
                   "state": {
                     "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Cvičení1-obchod"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -245,19 +245,21 @@
                 }
               },
               {
-                "id": "86750dd8a8c3c489",
+                "id": "e52a7056bec84ab8",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.9.14"
+                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.14"
+                  "icon": "lucide-file",
+                  "title": "4 251007 - Výzkum KB v pojetí BSS"
                 }
               }
             ],
-            "currentTab": 16
+            "currentTab": 17
           },
           {
             "id": "e0ad203a91426fd3",
@@ -296,8 +298,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -345,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -425,8 +426,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -451,8 +452,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a465a84ce2d0201d",
+  "active": "e52a7056bec84ab8",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/A_Tree.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/3 - 251001 Naivní teorie množin.md",
     "Pasted image 20251007001939.png",
     "Pasted image 20251007001917.png",
     "Pasted image 20251007001316.png",
@@ -464,14 +468,11 @@
     "Pasted image 20251006221843.png",
     "Pasted image 20251006210134.png",
     "MUNI/List_of_classes-trees.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/3 - 251001 Naivní teorie množin.md",
-    "MUNI/1Semestr-KYB/A_Tree.md",
     "MUNI/1Semestr-KYB/Universal_notes.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/3 - whops.md",
     "mohutnost.md",
     "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
     "MUNI/1Semestr-KYB/IB111-Prog/3 251003 - Seznamy, ntice.md",
-    "Pasted image 20251003110455.png",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/3 251002 - Technologie, terminologie a nástroje kb.md",
     "School/~KB~/PICOCTF/Cryptography3.md",
     "School/Dictionary/A/Advanced Encryption Standard.md",

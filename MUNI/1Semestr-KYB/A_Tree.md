@@ -14,6 +14,7 @@ Lectures:
 | 1   |       | [[1 250916 - Úvod_do_předmětu]]          |
 | 2   |       | [[2 250923 - Vymezení v kontextu]]       |
 | 3   |       | [[3 250930 - Základní terminologie BSS]] |
+| 4   |       | [[4 251007 - Výzkum KB v pojetí BSS]]    |
 ## IB000-Mat
 Lectures:
 
