@@ -163,8 +163,6 @@ $$T_{kód, ukončení}({ G_{ukončení = 'k' \ \text{v} \ ukončení = 'zk'} (p�
 - Sestavte výrazy relační algebry, které vrací:
 	-  jména studentů, kteří mají zapsaný předmět ‘PB168’;
 $$ T_{jméno}(student \ \ \bowtie \ \ T_{učo} (G_{kód = 'PB168'}(Zápis)))$$
-
-
 - čísla skupin předmětu s názvem ‘UNIX’, které mají kapacitu menší než 10;
 $$T_{číslo}(G_{název='UNIX'}(G_{kapacita<10 \ \  \cap \ předmět.kód = skupina.kód }(skupina \ \times \ předmět)))$$
 nebo místo x bude natural join |><|
