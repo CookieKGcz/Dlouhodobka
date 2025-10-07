@@ -229,6 +229,18 @@
                   "icon": "lucide-file",
                   "title": "4 251007 - Relační algebra"
                 }
+              },
+              {
+                "id": "7034b7a34f7bd6c3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení3-Relační_algebra .excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Cvičení3-Relační_algebra .excalidraw"
+                }
               }
             ],
             "currentTab": 15
@@ -427,6 +439,13 @@
   },
   "active": "85aaf02c4d3889b8",
   "lastOpenFiles": [
+    "Pasted image 20251007181414.png",
+    "Pasted image 20251007180754.png",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení3-Relační_algebra .excalidraw.md",
+    "MUNI/1Semestr-KYB/PB168-DB/4 251007 - Relační algebra.md",
+    "Pasted image 20251007180348.png",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
     "Pasted image 20251007174543.png",
     "Pasted image 20251007174322.png",
     "Pasted image 20251007174302.png",
@@ -435,13 +454,9 @@
     "Pasted image 20251007174001.png",
     "Pasted image 20251007173934.png",
     "Pasted image 20251007173909.png",
-    "Pasted image 20251007173824.png",
-    "Pasted image 20251007173236.png",
-    "Pasted image 20251007172719.png",
     "MUNI/1Semestr-KYB/IB000-Mat/3 - 251001 Naivní teorie množin.md",
     "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
-    "MUNI/1Semestr-KYB/PB168-DB/4 251007 - Relační algebra.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Untitled.md",
     "MUNI/1Semestr-KYB/A_Tree.md",
     "MUNI/List_of_classes-trees.md",
@@ -460,9 +475,6 @@
     "MUNI/1Semestr-KYB/BSSb1152-KybV/3 251002 - Technologie a nástroje KB.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/4 251001 - Kódy pokračování.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",

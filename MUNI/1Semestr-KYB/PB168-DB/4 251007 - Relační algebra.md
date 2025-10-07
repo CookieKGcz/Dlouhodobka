@@ -127,3 +127,51 @@
 	- r <- E
 	- It can be used to store intermediate results
 		- ![[Pasted image 20251007174543.png]]
+
+
+## Cvičení - After notes
+### 2
+- Uvažujte tři atributy jméno, příjmení a platová_třída.
+
+- Mějme následující relační schémata
+- R1=(jméno, příjmení, platová_třída)
+- R2=(jméno, příjmení)
+- R3=(příjmení, jméno, platová_třída)
+- Liší se? Jak?
+### 3
+### 4
+- Mějme relaci
+![[Pasted image 20251007180348.png | 400]]
+- Formulujte výraz v relační algebře pro dotazy:
+	- Předměty s názvem "Paralelní výpočty"
+	- Předměty s více jak dvěma kredity.
+$$T_{kód}(G_{název='Par.Vý'} (předmět))$$
+### 6
+![[Pasted image 20251007180754.png | 400]]
+- Napište výraz v relační algebře, který vrací
+	- ❑ kódy předmětů s názvem ‘Paralelní výpočty’;
+	- ❑ názvy předmětů, které mají alespoň tři kredity;
+	- ❑ kódy a ukončení předmětů, které mají ukončení vyšší než zápočet
+		- možná ukončení jsou {‘z’, ‘k’, ‘zk’}
+$$T_{kód, ukončení}({ G_{ukončení = 'k' \ \text{v} \ ukončení = 'zk'} (předmět) })$$
+### 11
+- Mějme relace:
+	- předmět ( kód, název, kredity )
+	-  skupina ( kód, číslo, kapacita )
+	- zápis ( učo, kód )
+	- student ( učo, jméno )
+- Sestavte výrazy relační algebry, které vrací:
+	-  jména studentů, kteří mají zapsaný předmět ‘PB168’;
+$$ T_{jméno}(student \ \ \bowtie \ \ T_{učo} (G_{kód = 'PB168'}(Zápis)))$$
+
+
+- čísla skupin předmětu s názvem ‘UNIX’, které mají kapacitu menší než 10;
+$$T_{číslo}(G_{název='UNIX'}(G_{kapacita<10 \ \  \cap \ předmět.kód = skupina.kód }(skupina \ \times \ předmět)))$$
+nebo místo x bude natural join |><|
+
+
+- názvy a počty kreditů předmětů, které má zapsaný student ‘Tomáš’.
+$$G_{jméno = 'Tomáš'}(student \bowtie zápis \bowtie předmět)$$
+
+- Napište výraz vracející učo studentů, kteří mají zapsané předměty ‘PB154’ a ‘MA102’ současně
+$$T_{učo}(G_{kód='PB154'}(zápis)) \bowtie T_{učo}(G_{kód='MA102'}(zápis))$$
