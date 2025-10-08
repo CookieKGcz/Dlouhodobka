@@ -222,12 +222,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
+                    "file": "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "5 251008 - Obvody, Paměti"
+                  "title": "4 251008 - Techniky matematických důkazů"
                 }
               }
             ],
@@ -319,8 +319,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -427,6 +426,9 @@
   },
   "active": "85aaf02c4d3889b8",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/IB000-Mat/3 251001 - Naivní teorie množin.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
     "Pasted image 20251008163959.png",
     "Pasted image 20251008163902.png",
     "Pasted image 20251008163233.png",
@@ -435,14 +437,11 @@
     "Pasted image 20251008162008.png",
     "School/~KB~/PICOCTF/Cryptography3.md",
     "School/~KB~/PICOCTF/Reverse Engineering.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
     "Pasted image 20251008155042.png",
     "Pasted image 20251008154934.png",
     "Pasted image 20251008154831.png",
     "Pasted image 20251008154746.png",
-    "Pasted image 20251008154731.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/4 ukazka_laborek_logic_c.excalidraw.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/3 - 251001 Naivní teorie množin.md",
     "MUNI/1Semestr-KYB/PB168-DB/4 251007 - Relační algebra.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení3-Relační_algebra .excalidraw.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",

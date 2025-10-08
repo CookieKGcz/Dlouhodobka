@@ -22,7 +22,7 @@ Lectures:
 | --- | ----- | ------------------------------------------- |
 | 1   |       | [[1 250919 - Org_pokyny_a_Zakl_formalismy]] |
 | 2   |       | [[]]                                        |
-| 3   |       | [[3 - 251001 Naivní teorie množin]]         |
+| 3   |       | [[3 251001 - Naivní teorie množin]]         |
 ## IB111-Prog
 Lectures:
 
