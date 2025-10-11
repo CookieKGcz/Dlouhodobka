@@ -222,12 +222,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/4 251009 - Advanced Persistent Threats a Kritika konceptu kybernetické války.md",
+                    "file": "MUNI/1Semestr-KYB/IB111-Prog/4 251010 - Testování, typové anotace, dokumentace.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "4 251009 - Advanced Persistent Threats a Kritika konceptu kybernetické války"
+                  "title": "4 251010 - Testování, typové anotace, dokumentace"
                 }
               }
             ],
@@ -293,7 +293,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crypt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,11 +315,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -426,8 +427,9 @@
   },
   "active": "85aaf02c4d3889b8",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/4 251009 - Advanced Persistent Threats a Kritika konceptu kybernetické války.md",
+    "MUNI/1Semestr-KYB/IB111-Prog/4 251010 - Testování, typové anotace, dokumentace.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
     "Pasted image 20251008193339.png",
     "Pasted image 20251008192732.png",
     "Pasted image 20251008190145.png",
@@ -461,7 +463,6 @@
     "MUNI/1Semestr-KYB/BSSb1152-KybV/3 251002 - Technologie, terminologie a nástroje kb.md",
     "School/Dictionary/A/Advanced Encryption Standard.md",
     "School/HAXAGON/Theory/Symetrické šifry.md",
-    "School/Dictionary/A/Asymmetric cryptography.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
