@@ -108,7 +108,14 @@
 ### Emulátor
 https://is.muni.cz/auth/edutools/brandejs/cpu_emu?cpu=8080
 
-
+```asm6502
+; y := x;
+x	db 50
+	lda x	; y
+	sta y
+konec	hlt
+y	db
+```
 ### Aritmetické instrukce
 - Fáze instrukce INR r (Increment Register)
 - ![[Pasted image 20251015150604.png | 250]]

@@ -10,7 +10,7 @@
           {
             "id": "f69501661c30ddbe",
             "type": "tabs",
-            "dimension": 75.55012224938875,
+            "dimension": 71.91011235955057,
             "children": [
               {
                 "id": "4d36f914c1833524",
@@ -217,20 +217,6 @@
                 }
               },
               {
-                "id": "85aaf02c4d3889b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/6 251015 - Paměti pokračování, Procesor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "6 251015 - Paměti pokračování, Procesor"
-                }
-              },
-              {
                 "id": "4b1961734e0f92f2",
                 "type": "leaf",
                 "state": {
@@ -248,21 +234,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "School/~KB~/PICOCTF/Reverse Engineering.md",
+                    "file": "MUNI/1Semestr-KYB/IB111-Prog/5 251017 - Datové struktury, základy složitosti.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Reverse Engineering"
+                  "title": "5 251017 - Datové struktury, základy složitosti"
                 }
               }
             ],
-            "currentTab": 15
+            "currentTab": 16
           },
           {
             "id": "e0ad203a91426fd3",
             "type": "tabs",
-            "dimension": 24.449877750611243,
+            "dimension": 28.08988764044944,
             "children": [
               {
                 "id": "f6898ce1fa30ebf7",
@@ -345,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -451,21 +436,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85aaf02c4d3889b8",
+  "active": "7fb99c0e14e6e6d6",
   "lastOpenFiles": [
-    "Pasted image 20251015160015.png",
-    "Pasted image 20251015155824.png",
+    "Pasted image 20251017152947.png",
+    "Pasted image 20251017152624.png",
+    "Pasted image 20251017151941.png",
+    "Pasted image 20251017151928.png",
+    "Pasted image 20251017151847.png",
+    "Pasted image 20251017151656.png",
+    "Pasted image 20251017151649.png",
+    "Pasted image 20251017151640.png",
+    "Pasted image 20251017151143.png",
+    "Pasted image 20251017145159.png",
+    "Pasted image 20251017145130.png",
     "School/~KB~/PICOCTF/Reverse Engineering.md",
+    "MUNI/1Semestr-KYB/IB111-Prog/5 251017 - Datové struktury, základy složitosti.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "MUNI/1Semestr-KYB/IB000-Mat/5 251015 - Rekurze a induktivní definice.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/6 251015 - Paměti pokračování, Procesor.md",
-    "Pasted image 20251015150834.png",
-    "Pasted image 20251015150759.png",
-    "Pasted image 20251015150604.png",
-    "Pasted image 20251015150313.png",
-    "Pasted image 20251015145633.png",
-    "Pasted image 20251015145551.png",
-    "Pasted image 20251015145506.png",
-    "Pasted image 20251015143119.png",
-    "Pasted image 20251015142904.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/5 251014 - Informační bezpečnost a vznik kyberprostoru + Rizika a hrozby v kyberprostoru.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/Test na terminologii a definice na 251014.md",
@@ -481,7 +471,6 @@
     "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
     "MUNI/1Semestr-KYB/IB111-Prog/4 251010 - Testování, typové anotace, dokumentace.md",
     "Untitled.base",
-    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
     "MUNI/1Semestr-KYB/IB000-Mat/3 251001 - Naivní teorie množin.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
     "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
@@ -489,8 +478,6 @@
     "MUNI/1Semestr-KYB/PB151-VypSys/4 ukazka_laborek_logic_c.excalidraw.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení3-Relační_algebra .excalidraw.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/Cvika1 - Výroky.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
@@ -498,8 +485,6 @@
     "MUNI/1Semestr-KYB/VB035-Eng",
     "MUNI/1Semestr-KYB/PB151-VypSys",
     "MUNI/1Semestr-KYB/IB111-Prog",
-    "MUNI/1Semestr-KYB/IB000-Mat",
-    "MUNI/1Semestr-KYB",
     "DND/Canv.canvas",
     "Untitled.canvas",
     "Roann/Map/Map-Factions.canvas",
