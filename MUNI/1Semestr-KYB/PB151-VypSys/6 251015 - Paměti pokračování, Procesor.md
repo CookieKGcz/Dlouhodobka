@@ -123,13 +123,16 @@ y	db
 - ![[Pasted image 20251015150759.png | 250]]
 - Fáze instrukce CMA (Complement A = inverze všech bitů)
 - ![[Pasted image 20251015150834.png | 250]]
-### Příznakový registr F procesoru I8080
-- Z (Zero) - = 1 při nulovém výsledku operace
-		  - = 0 při nenulovém
-- S (Sign) Kopie znaménkového bitu výsledku operace
-- CY (Carry) Kopie bitu přenášeného z nejvyššího řádu výsledku operace
-	- ![[Pasted image 20251015155824.png | 300]]
-- P (Parity) - = 1 při sudé paritě výsledku
-		   - = 0 při liché paritě výsledku 
-- AC (Auxilary Carry) přenos mezi bitem 3 a 4 výsledku
-	- ![[Pasted image 20251015160015.png | 300]]
+
+### Příklad součet dvou čísel
+```asm6502
+soucet    db 3
+k5        db 5
+
+          lda k5
+          mov b, a (do b přesuň a)
+          lda soucet
+          add b
+		  sta soucet
+		  hlt
+```
