@@ -234,12 +234,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/IB000-Mat/6 251022 - Strukturální indukce.md",
+                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "6 251022 - Strukturální indukce"
+                  "title": "5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru"
                 }
               }
             ],
@@ -331,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -439,6 +438,9 @@
   },
   "active": "7fb99c0e14e6e6d6",
   "lastOpenFiles": [
+    "School/~KB~/PICOCTF/Binary Exploitation.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/6 251022 - Strukturální indukce.md",
     "Pasted image 20251022193815.png",
     "Pasted image 20251022193803.png",
     "Pasted image 20251022193719.png",
@@ -449,9 +451,7 @@
     "Pasted image 20251022191103.png",
     "Pasted image 20251022190549.png",
     "Pasted image 20251022185910.png",
-    "Pasted image 20251022185140.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/7 251022 - Příznaky, Větvení, Zásobník.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/6 251022 - Strukturální indukce.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/6 251015 - Paměti pokračování, Procesor.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/5 251014 - Informační bezpečnost a vznik kyberprostoru + Rizika a hrozby v kyberprostoru.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
@@ -476,7 +476,6 @@
     "MUNI/1Semestr-KYB/IB000-Mat/5 251015 - Rekurze a induktivní definice.md",
     "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/Test na terminologii a definice na 251014.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
     "Untitled.base",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
