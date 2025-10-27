@@ -234,12 +234,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
+                    "file": "MUNI/1Semestr-KYB/IB111-Prog/6 251024 - Vyhledávání, datové struktury a proměnné.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru"
+                  "title": "6 251024 - Vyhledávání, datové struktury a proměnné"
                 }
               }
             ],
@@ -248,7 +248,7 @@
           {
             "id": "e0ad203a91426fd3",
             "type": "tabs",
-            "dimension": 24.509803921568626,
+            "dimension": 24.50980392156863,
             "children": [
               {
                 "id": "f6898ce1fa30ebf7",
@@ -438,19 +438,23 @@
   },
   "active": "7fb99c0e14e6e6d6",
   "lastOpenFiles": [
-    "School/~KB~/PICOCTF/Binary Exploitation.md",
+    "Pasted image 20251027225939.png",
+    "Pasted image 20251027225922.png",
+    "Pasted image 20251027224318.png",
+    "Pasted image 20251027223327.png",
+    "Pasted image 20251027222850.png",
+    "Pasted image 20251027222422.png",
+    "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
+    "MUNI/1Semestr-KYB/IB111-Prog/6 251024 - Vyhledávání, datové struktury a proměnné.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/6 251021 Role státu při ... zajištění KB v ČR.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
+    "School/~KB~/PICOCTF/Binary Exploitation.md",
     "MUNI/1Semestr-KYB/IB000-Mat/6 251022 - Strukturální indukce.md",
     "Pasted image 20251022193815.png",
     "Pasted image 20251022193803.png",
     "Pasted image 20251022193719.png",
     "Pasted image 20251022192945.png",
     "Pasted image 20251022192604.png",
-    "Pasted image 20251022192222.png",
-    "Pasted image 20251022191448.png",
-    "Pasted image 20251022191103.png",
-    "Pasted image 20251022190549.png",
-    "Pasted image 20251022185910.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/7 251022 - Příznaky, Větvení, Zásobník.md",
     "MUNI/1Semestr-KYB/PB151-VypSys/6 251015 - Paměti pokračování, Procesor.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/5 251014 - Informační bezpečnost a vznik kyberprostoru + Rizika a hrozby v kyberprostoru.md",
@@ -465,7 +469,6 @@
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
     "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
     "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/6 Role státu při ... zajištění KB v ČR.md",
     "MUNI/1Semestr-KYB/IB111-Prog/3 251003 - Seznamy, ntice.md",
     "MUNI/1Semestr-KYB/IB111-Prog/2 250926 - Základy pythonu, typy, jednoduché alg.md",
     "MUNI/1Semestr-KYB/IB111-Prog/1 250919 - Organizační_pokyny_a_základy_Pythonu.md",
@@ -473,9 +476,6 @@
     "School/~KB~/PICOCTF/Reverse Engineering.md",
     "Untitled 2.base",
     "Untitled 1.base",
-    "MUNI/1Semestr-KYB/IB000-Mat/5 251015 - Rekurze a induktivní definice.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/4 251008 - Techniky matematických důkazů.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/5 251008 - Obvody, Paměti.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
     "Untitled.base",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
