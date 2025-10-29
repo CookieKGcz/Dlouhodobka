@@ -216,8 +216,8 @@ konec     hlt
 1000h LDA 100h
 1003h OUT
 1004h START
-1005h FLAG
-1005h 1008h
+1005h FLAG 1005h
+1008h
 ```
 - Čtení vstupního zařízení a uložení do A_100h
 ```asm6502
