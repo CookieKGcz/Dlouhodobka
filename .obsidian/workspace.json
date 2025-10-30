@@ -234,12 +234,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/8 251029 - Přerušení, Virtuální paměť, Vyrovnávací paměť a Procesor 8086.md",
+                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/6 251030 - Základy analytického psaní v KB.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "8 251029 - Přerušení, Virtuální paměť, Vyrovnávací paměť a Procesor 8086"
+                  "title": "6 251030 - Základy analytického psaní v KB"
                 }
               }
             ],
@@ -331,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -439,11 +438,12 @@
   },
   "active": "7fb99c0e14e6e6d6",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/PB151-VypSys/8 251029 - Přerušení, Virtuální paměť, Vyrovnávací paměť a Procesor 8086.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/6 251030 - Základy analytického psaní v KB.md",
     "Pasted image 20251029161231.png",
     "Pasted image 20251029160247.png",
     "Pasted image 20251029160135.png",
     "MUNI/1Semestr-KYB/PB151-VypSys/7 251022 - Příznaky, Větvení, Zásobník.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/8 251029 - Přerušení, Virtuální paměť, Vyrovnávací paměť a Procesor 8086.md",
     "Pasted image 20251029154019.png",
     "Pasted image 20251029153938.png",
     "Pasted image 20251029153501.png",
@@ -451,7 +451,6 @@
     "Pasted image 20251029152956.png",
     "Pasted image 20251029152204.png",
     "Pasted image 20251029143242.png",
-    "Pasted image 20251029142737.png",
     "MUNI/1Semestr-KYB/IB111-Prog/6 251024 - Vyhledávání, datové struktury a proměnné.md",
     "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/6 251021 Role státu při ... zajištění KB v ČR.md",
