@@ -67,7 +67,7 @@
 		{"type":"text","text":"[[Tyne Garden]]","id":"56cf76f365ec969e","x":-4523,"y":-1943,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"[[Keilnorn]]","id":"7bd6e3d3c1b20ad3","x":-4795,"y":-1615,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Ardees Mist Realm]]","id":"f823ab1720d5563f","x":-3191,"y":-3783,"width":250,"height":60},
-		{"type":"text","text":"[[Gunlags Dominion of Dark Omen]]","id":"9d4dd499d876d20d","x":1030,"y":-3798,"width":336,"height":60},
+		{"type":"text","text":"[[Gunlags Dominion]]","id":"9d4dd499d876d20d","x":1030,"y":-3798,"width":336,"height":60},
 		{"type":"text","text":"[[Collio Republic]]","id":"565ef5be057d09d9","x":-1668,"y":-4278,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Kaspion Empire]]","id":"f4b0805a799db23e","x":-551,"y":-5164,"width":250,"height":60},
 		{"type":"text","text":"[[Iremorth Kingdom]]","id":"fd7e7fcbaf00a0b5","x":-2618,"y":-5294,"width":250,"height":60,"color":"4"},

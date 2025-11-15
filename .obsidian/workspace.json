@@ -13,184 +13,6 @@
             "dimension": 75.49019607843137,
             "children": [
               {
-                "id": "4d36f914c1833524",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "4 Types of shells"
-                }
-              },
-              {
-                "id": "491bc6ebcd15479b",
-                "type": "leaf",
-                "state": {
-                  "type": "full-calendar-view",
-                  "state": {},
-                  "icon": "lucide-ghost",
-                  "title": "full-calendar-view"
-                }
-              },
-              {
-                "id": "25febccf73321fed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/AS_Hons/Typografie.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Typografie"
-                }
-              },
-              {
-                "id": "8a147c444ef31901",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Actually Praktická část"
-                }
-              },
-              {
-                "id": "0037d32efbe34100",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~~Dlouhodobka~~/Osnova.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Osnova"
-                }
-              },
-              {
-                "id": "84dcdeeae87849f0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/~KB~/PICOCTF/Binary Exploitation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Binary Exploitation"
-                }
-              },
-              {
-                "id": "b2dad64e8694f75b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "3 Upgrade RouterOS + Správa uživatelů, služeb a záloh"
-                }
-              },
-              {
-                "id": "ef54338792559742",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/HS/test - NAT + WAN.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "test - NAT + WAN"
-                }
-              },
-              {
-                "id": "8528cfe6272f649f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "~~Dlouhodobka~~/Actually Praktická část.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Actually Praktická část"
-                }
-              },
-              {
-                "id": "32ac5c447bb031b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/HackTheBox/Machines/Tier_0/Redeemer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Redeemer"
-                }
-              },
-              {
-                "id": "64947ad95ff59298",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "7 Knowledge Check"
-                }
-              },
-              {
-                "id": "77c9115655790a99",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "School/HackTheBox/Machines/Tier_0/Redeemer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Redeemer"
-                }
-              },
-              {
-                "id": "42100652dd36dd00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2 250925 - Netwars1-60"
-                }
-              },
-              {
                 "id": "332e5beb775af16b",
                 "type": "leaf",
                 "state": {
@@ -198,52 +20,40 @@
                   "state": {
                     "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md"
                   },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Cvičení1-obchod"
                 }
               },
               {
-                "id": "2ccb4bbe6bed65e2",
+                "id": "85a75910c85fe160",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/IB000-Mat/3 251001 - Naivní teorie množin.md",
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3 251001 - Naivní teorie množin"
+                  "title": "5(8) 251111 - SQL"
                 }
               },
               {
-                "id": "4b1961734e0f92f2",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.9.14"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.14"
-                }
-              },
-              {
-                "id": "7fb99c0e14e6e6d6",
+                "id": "ef711cd379ae8c85",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/IB000-Mat/7 251105 - Relace a jejich vlastnosti.md",
+                    "file": "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "7 251105 - Relace a jejich vlastnosti"
+                  "title": "9 251114 - Rekurze I"
                 }
               }
             ],
-            "currentTab": 16
+            "currentTab": 2
           },
           {
             "id": "e0ad203a91426fd3",
@@ -331,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -437,44 +246,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fb99c0e14e6e6d6",
+  "active": "ef711cd379ae8c85",
   "lastOpenFiles": [
+    "Pasted image 20251115215457.png",
+    "Roann/A TEST CAMPAIN/Kaspion - hole/Kaspion - Survival.md",
+    "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
+    "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
+    "Pasted image 20251111180701.png",
+    "Pasted image 20251111180541.png",
+    "Pasted image 20251111173301.png",
+    "Pasted image 20251111172956.png",
+    "Pasted image 20251111171357.png",
+    "Pasted image 20251111163624.png",
+    "Pasted image 20251111163023.png",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/8 251111 - Kybernetická obrana, Rizika využití umělé inteligence a nových technologií v kp.md",
+    "MUNI/1Semestr-KYB/IB111-Prog/8 251107 - Řazení.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Deep hole.md",
+    "Roann/A TEST CAMPAIN/Kaspion - hole",
+    "Roann/A TEST CAMPAIN/Untitled.md",
+    "Roann/A TEST CAMPAIN",
+    "Roann/Map/Map-Factions.canvas",
+    "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion/Gunlags Dominion.md",
+    "Roann/Factions/Factions.md",
+    "Roann/Equipment/Necklase of Adaptaion.md",
+    "Roann/Equipment/Ring of Fire Resistance.md",
+    "Roann/Creatures/Cr_INFO_CHANGE!!!.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/3 251001 - Naivní teorie množin.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
+    "School/HackTheBox/Machines/Tier_0/Redeemer.md",
+    "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
+    "~~Dlouhodobka~~/Actually Praktická část.md",
+    "School/HS/test - NAT + WAN.md",
+    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
+    "School/~KB~/PICOCTF/Binary Exploitation.md",
+    "~~Dlouhodobka~~/Osnova.md",
+    "School/AS_Hons/Typografie.md",
+    "School/HackTheBox/Modules/Getting_started/4 Types of shells.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/7 251105 - Relace a jejich vlastnosti.md",
     "Pasted image 20251105191715.png",
     "Pasted image 20251105191702.png",
     "Pasted image 20251105191644.png",
-    "Pasted image 20251105191624.png",
-    "Pasted image 20251105191554.png",
-    "Pasted image 20251105185616.png",
-    "Pasted image 20251105184637.png",
-    "Pasted image 20251105183952.png",
-    "Pasted image 20251105182633.png",
-    "Pasted image 20251105182619.png",
-    "Pasted image 20251105182405.png",
-    "MUNI/1Semestr-KYB/IB000-Mat/7 251105 - Relace a jejich vlastnosti.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/8 251029 - Přerušení, Virtuální paměť, Vyrovnávací paměť a Procesor 8086.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/7 251104 - Působení státních a nestátních aktérů při kybernetických útocích a konflikty-hrozby v kyberprostoru.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/6 251030 - Základy analytického psaní v KB.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/6 251021 - Role státu při ... zajištění KB v ČR.md",
-    "MUNI/1Semestr-KYB/IB111-Prog/7 251031 - Vlastní datové typy.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/7 251022 - Příznaky, Větvení, Zásobník.md",
-    "MUNI/1Semestr-KYB/IB111-Prog/6 251024 - Vyhledávání, datové struktury a proměnné.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/1 250919 - Org_pokyny_a_Zakl_formalismy.md",
-    "School/~KB~/PICOCTF/Binary Exploitation.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/6 251022 - Strukturální indukce.md",
-    "MUNI/1Semestr-KYB/PB151-VypSys/6 251015 - Paměti pokračování, Procesor.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/5 251014 - Informační bezpečnost a vznik kyberprostoru + Rizika a hrozby v kyberprostoru.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/4 251009 - Advanced Persistent Threats a Kritika konceptu kybernetické války.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/3 251002 - Technologie, terminologie a nástroje kb.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
-    "MUNI/1Semestr-KYB/PB168-DB/4 251007 - Relační algebra.md",
-    "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
-    "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
-    "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
@@ -484,11 +296,8 @@
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
     "MUNI/1Semestr-KYB/BSSb1152-KybV",
     "MUNI/1Semestr-KYB/VB035-Eng",
-    "MUNI/1Semestr-KYB/PB151-VypSys",
-    "MUNI/1Semestr-KYB/IB111-Prog",
     "DND/Canv.canvas",
     "Untitled.canvas",
-    "Roann/Map/Map-Factions.canvas",
     "Roann/Map/Blank4.canvas",
     "Roann/Map/Veg2.canvas",
     "Roann/Map/Veg3.canvas",
