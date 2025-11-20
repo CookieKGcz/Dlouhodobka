@@ -65,9 +65,23 @@
                   "icon": "lucide-file",
                   "title": "9 251119 - Skládání relací a funkcí"
                 }
+              },
+              {
+                "id": "7e18501396ff7d8f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "8 251120 - Nestátní aktéři v kybernetickém prostoru"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "e0ad203a91426fd3",
@@ -155,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -261,8 +274,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c7f101af57b7c59a",
+  "active": "7e18501396ff7d8f",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
     "Pasted image 20251119192343.png",
     "Pasted image 20251119192320.png",
     "Pasted image 20251119192247.png",
@@ -273,9 +288,7 @@
     "Pasted image 20251119190939.png",
     "Pasted image 20251119190310.png",
     "Pasted image 20251119185738.png",
-    "Pasted image 20251119185507.png",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
     "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
     "Roann/A TEST CAMPAIN/Kaspion - hole/Kaspion - Survival.md",
     "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
