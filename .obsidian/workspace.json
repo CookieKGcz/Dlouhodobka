@@ -86,12 +86,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/9 251118 - expert2.md",
+                    "file": "MUNI/1Semestr-KYB/PB151-VypSys/11 251126 - Procesor Intel 80386, Intel 80486, Pentium, Architektura x86-64, RISC, IEEE 754.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "9 251118 - expert2"
+                  "title": "11 251126 - Procesor Intel 80386, Intel 80486, Pentium, Architektura x86-64, RISC, IEEE 754"
                 }
               }
             ],
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -290,19 +291,22 @@
   },
   "active": "70d00be4a14de709",
   "lastOpenFiles": [
+    "Pasted image 20251126162443.png",
+    "Pasted image 20251126161532.png",
+    "Pasted image 20251126161317.png",
+    "Pasted image 20251126161258.png",
+    "Pasted image 20251126161213.png",
+    "Pasted image 20251126160820.png",
+    "Pasted image 20251126160605.png",
+    "Pasted image 20251126154951.png",
+    "Pasted image 20251126154806.png",
+    "Pasted image 20251126153130.png",
+    "Pasted image 20251126152729.png",
+    "MUNI/1Semestr-KYB/PB151-VypSys/2 250918 - Pojmy_a_číselné_soustavy.md",
+    "MUNI/1Semestr-KYB/PB151-VypSys/11 251126 - Procesor Intel 80386, Intel 80486, Pentium, Architektura x86-64, RISC, IEEE 754.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/9 251118 - expert2.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
     "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
-    "Pasted image 20251119192343.png",
-    "Pasted image 20251119192320.png",
-    "Pasted image 20251119192247.png",
-    "Pasted image 20251119192224.png",
-    "Pasted image 20251119192043.png",
-    "Pasted image 20251119192013.png",
-    "Pasted image 20251119191001.png",
-    "Pasted image 20251119190939.png",
-    "Pasted image 20251119190310.png",
-    "Pasted image 20251119185738.png",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
     "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
     "Roann/A TEST CAMPAIN/Kaspion - hole/Kaspion - Survival.md",
@@ -326,9 +330,6 @@
     "School/HackTheBox/Modules/Getting_started/7 Knowledge Check.md",
     "~~Dlouhodobka~~/Actually Praktická část.md",
     "School/HS/test - NAT + WAN.md",
-    "School/MikroTik/3 Upgrade RouterOS + Správa uživatelů, služeb a záloh.md",
-    "School/~KB~/PICOCTF/Binary Exploitation.md",
-    "~~Dlouhodobka~~/Osnova.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
