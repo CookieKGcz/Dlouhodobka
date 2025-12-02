@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -303,8 +302,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "debc249f5f0a7c3a",
+  "active": "8865cc117ce8ec8a",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.pdf",
+    "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
+    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
     "Pasted image 20251202170856.png",
     "Pasted image 20251202170824.png",
     "Pasted image 20251202170714.png",
@@ -315,9 +317,7 @@
     "Pasted image 20251202165851.png",
     "Pasted image 20251202165825.png",
     "Pasted image 20251202165750.png",
-    "Pasted image 20251202165708.png",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
-    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
     "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
     "MUNI/1Semestr-KYB/IB111-Prog/10 251121 - Rekurze II, backtracking.md",
@@ -327,7 +327,6 @@
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/9 251118 - expert2.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
     "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
-    "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
     "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
     "Roann/A TEST CAMPAIN/Kaspion - hole/Kaspion - Survival.md",
     "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
