@@ -100,12 +100,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "7 251202 - DFD a IS"
+                  "title": "7_2 251202 - STD"
                 }
               }
             ],
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -302,21 +303,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8865cc117ce8ec8a",
+  "active": "debc249f5f0a7c3a",
   "lastOpenFiles": [
+    "Pasted image 20251202175535.png",
+    "Pasted image 20251202175408.png",
+    "Pasted image 20251202174710.png",
+    "Pasted image 20251202174553.png",
+    "Pasted image 20251202174327.png",
+    "Pasted image 20251202174120.png",
+    "Pasted image 20251202174101.png",
+    "Pasted image 20251202174045.png",
+    "Pasted image 20251202174001.png",
+    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
+    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
     "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.pdf",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
-    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
     "Pasted image 20251202170856.png",
     "Pasted image 20251202170824.png",
-    "Pasted image 20251202170714.png",
-    "Pasted image 20251202170537.png",
-    "Pasted image 20251202170218.png",
-    "Pasted image 20251202170013.png",
-    "Pasted image 20251202165945.png",
-    "Pasted image 20251202165851.png",
-    "Pasted image 20251202165825.png",
-    "Pasted image 20251202165750.png",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
     "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
@@ -342,7 +345,6 @@
     "Roann/Equipment/Necklase of Adaptaion.md",
     "Roann/Equipment/Ring of Fire Resistance.md",
     "Roann/Creatures/Cr_INFO_CHANGE!!!.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
@@ -351,7 +353,6 @@
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
     "MUNI/1Semestr-KYB/BSSb1152-KybV",
-    "MUNI/1Semestr-KYB/VB035-Eng",
     "DND/Canv.canvas",
     "Untitled.canvas",
     "Roann/Map/Blank4.canvas",
