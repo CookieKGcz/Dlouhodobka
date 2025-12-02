@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -303,8 +302,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "debc249f5f0a7c3a",
+  "active": "8865cc117ce8ec8a",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
     "Pasted image 20251202175535.png",
     "Pasted image 20251202175408.png",
     "Pasted image 20251202174710.png",
@@ -319,7 +319,6 @@
     "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.pdf",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
     "Pasted image 20251202170856.png",
-    "Pasted image 20251202170824.png",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
     "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
