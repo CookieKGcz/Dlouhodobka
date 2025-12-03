@@ -107,9 +107,23 @@
                   "icon": "lucide-file",
                   "title": "7_2 251202 - STD"
                 }
+              },
+              {
+                "id": "0922b7bef678610d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "11 251203 - Stromy, vzdálenost a kostry grafů"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "e0ad203a91426fd3",
@@ -197,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -302,23 +317,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8865cc117ce8ec8a",
+  "active": "0922b7bef678610d",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
-    "Pasted image 20251202175535.png",
-    "Pasted image 20251202175408.png",
-    "Pasted image 20251202174710.png",
-    "Pasted image 20251202174553.png",
-    "Pasted image 20251202174327.png",
-    "Pasted image 20251202174120.png",
-    "Pasted image 20251202174101.png",
-    "Pasted image 20251202174045.png",
-    "Pasted image 20251202174001.png",
-    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
+    "Pasted image 20251203192000.png",
+    "Pasted image 20251203191926.png",
+    "Pasted image 20251203191427.png",
+    "Pasted image 20251203191242.png",
+    "Pasted image 20251203190651.png",
+    "Pasted image 20251203190618.png",
+    "Pasted image 20251203190254.png",
+    "Pasted image 20251203185956.png",
+    "Pasted image 20251203185644.png",
+    "Pasted image 20251203185232.png",
+    "Pasted image 20251203184954.png",
+    "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
+    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
+    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
     "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.pdf",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
-    "Pasted image 20251202170856.png",
     "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
     "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
@@ -342,8 +360,6 @@
     "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion/Gunlags Dominion.md",
     "Roann/Factions/Factions.md",
     "Roann/Equipment/Necklase of Adaptaion.md",
-    "Roann/Equipment/Ring of Fire Resistance.md",
-    "Roann/Creatures/Cr_INFO_CHANGE!!!.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
@@ -351,7 +367,6 @@
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "MUNI/1Semestr-KYB/PB168-DB",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV",
     "DND/Canv.canvas",
     "Untitled.canvas",
     "Roann/Map/Blank4.canvas",
