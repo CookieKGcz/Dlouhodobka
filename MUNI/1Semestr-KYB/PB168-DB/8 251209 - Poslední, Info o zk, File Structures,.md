@@ -108,3 +108,10 @@
 - Need to reorganize the file from time to time
 - ![[Pasted image 20251209165844.png | 300]]
 ## Data Dict. Storage
+
+
+
+
+# Cvičení
+[[Cvičení5 - B+ stromy]]
+[[CvičB+stromy.excalidraw]]
