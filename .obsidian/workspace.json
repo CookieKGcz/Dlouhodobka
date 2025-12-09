@@ -20,8 +20,8 @@
                   "state": {
                     "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Cvičení1-obchod"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -121,9 +121,23 @@
                   "icon": "lucide-file",
                   "title": "11 251203 - Stromy, vzdálenost a kostry grafů"
                 }
+              },
+              {
+                "id": "8d515b12820f5131",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Expert3-Vilím"
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           },
           {
             "id": "e0ad203a91426fd3",
@@ -211,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -317,8 +330,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0922b7bef678610d",
+  "active": "8d515b12820f5131",
   "lastOpenFiles": [
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
     "Pasted image 20251203192000.png",
     "Pasted image 20251203191926.png",
     "Pasted image 20251203191427.png",
@@ -329,8 +345,6 @@
     "Pasted image 20251203185956.png",
     "Pasted image 20251203185644.png",
     "Pasted image 20251203185232.png",
-    "Pasted image 20251203184954.png",
-    "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
     "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
@@ -359,7 +373,6 @@
     "Roann/Map/Map-Factions.canvas",
     "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion/Gunlags Dominion.md",
     "Roann/Factions/Factions.md",
-    "Roann/Equipment/Necklase of Adaptaion.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
