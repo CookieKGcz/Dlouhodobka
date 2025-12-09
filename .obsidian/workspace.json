@@ -128,12 +128,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
+                    "file": "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Indexing and hashing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Expert3-Vilím"
+                  "title": "8 251209 - Indexing and hashing"
                 }
               }
             ],
@@ -225,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -332,19 +333,22 @@
   },
   "active": "8d515b12820f5131",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
+    "Pasted image 20251209175805.png",
+    "Pasted image 20251209175747.png",
+    "Pasted image 20251209175522.png",
+    "Pasted image 20251209175251.png",
+    "Pasted image 20251209174843.png",
+    "Pasted image 20251209173449.png",
+    "Pasted image 20251209173012.png",
+    "Pasted image 20251209172715.png",
+    "Pasted image 20251209172523.png",
+    "Pasted image 20251209172209.png",
+    "Pasted image 20251209172059.png",
+    "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Poslední, Info o zk, File Structures,.md",
+    "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Indexing and hashing.md",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
     "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
-    "Pasted image 20251203192000.png",
-    "Pasted image 20251203191926.png",
-    "Pasted image 20251203191427.png",
-    "Pasted image 20251203191242.png",
-    "Pasted image 20251203190651.png",
-    "Pasted image 20251203190618.png",
-    "Pasted image 20251203190254.png",
-    "Pasted image 20251203185956.png",
-    "Pasted image 20251203185644.png",
-    "Pasted image 20251203185232.png",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
     "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
     "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
@@ -368,11 +372,8 @@
     "MUNI/1Semestr-KYB/IB111-Prog/8 251107 - Řazení.md",
     "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Deep hole.md",
     "Roann/A TEST CAMPAIN/Kaspion - hole",
-    "Roann/A TEST CAMPAIN/Untitled.md",
     "Roann/A TEST CAMPAIN",
     "Roann/Map/Map-Factions.canvas",
-    "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion/Gunlags Dominion.md",
-    "Roann/Factions/Factions.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
