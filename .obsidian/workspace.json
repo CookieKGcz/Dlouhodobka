@@ -142,12 +142,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Poslední, Info o zk, File Structures,.md",
+                    "file": "MUNI/1Semestr-KYB/IB000-Mat/12 251210 - Nekonečné množiny, zastavení algoritmu.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "8 251209 - Poslední, Info o zk, File Structures,"
+                  "title": "12 251210 - Nekonečné množiny, zastavení algoritmu"
                 }
               }
             ],
@@ -239,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -346,20 +347,24 @@
   },
   "active": "29e5813559ac0d13",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/PB168-DB/CvičB+stromy.excalidraw.md",
+    "Pasted image 20251210192455.png",
+    "Pasted image 20251210192151.png",
+    "Pasted image 20251210192132.png",
+    "Pasted image 20251210191302.png",
+    "Pasted image 20251210190933.png",
+    "Pasted image 20251210190337.png",
+    "Pasted image 20251210185810.png",
+    "Pasted image 20251210184645.png",
+    "Pasted image 20251210184522.png",
+    "Pasted image 20251210184303.png",
+    "Pasted image 20251210182905.png",
+    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md",
+    "MUNI/1Semestr-KYB/IB000-Mat/12 251210 - Nekonečné množiny, zastavení algoritmu.md",
+    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
     "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Poslední, Info o zk, File Structures,.md",
+    "MUNI/1Semestr-KYB/PB168-DB/CvičB+stromy.excalidraw.md",
     "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Indexing and hashing.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
-    "Pasted image 20251209175805.png",
-    "Pasted image 20251209175747.png",
-    "Pasted image 20251209175522.png",
-    "Pasted image 20251209175251.png",
-    "Pasted image 20251209174843.png",
-    "Pasted image 20251209173449.png",
-    "Pasted image 20251209173012.png",
-    "Pasted image 20251209172715.png",
-    "Pasted image 20251209172523.png",
-    "Pasted image 20251209172209.png",
     "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
     "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
@@ -380,10 +385,6 @@
     "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
     "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
     "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
-    "Roann/A TEST CAMPAIN/Kaspion - hole/Kaspion - Survival.md",
-    "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/8 251111 - Kybernetická obrana, Rizika využití umělé inteligence a nových technologií v kp.md",
-    "MUNI/1Semestr-KYB/IB111-Prog/8 251107 - Řazení.md",
     "Roann/A TEST CAMPAIN/Kaspion - hole",
     "Roann/A TEST CAMPAIN",
     "Roann/Map/Map-Factions.canvas",
