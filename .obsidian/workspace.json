@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -312,19 +311,9 @@
               "icon": "lucide-list",
               "title": "Outline of Modul_27_1_5_Convert_Data_into_a_Universal_Format"
             }
-          },
-          {
-            "id": "a537cd4e3ec1ca93",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

@@ -2,12 +2,12 @@
   "code-styler",
   "lapel",
   "docxer",
-  "obsidian-git",
   "calendar",
   "obsidian-full-calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
   "typst",
   "better-export-pdf",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-git"
 ]
