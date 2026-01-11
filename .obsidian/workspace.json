@@ -8,150 +8,205 @@
         "type": "split",
         "children": [
           {
-            "id": "f69501661c30ddbe",
-            "type": "tabs",
+            "id": "b841506cb2f4dd7a",
+            "type": "split",
             "dimension": 75.49019607843137,
             "children": [
               {
-                "id": "332e5beb775af16b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md"
+                "id": "f69501661c30ddbe",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "332e5beb775af16b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "excalidraw",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md"
+                      },
+                      "icon": "lucide-ghost",
+                      "title": "excalidraw"
+                    }
                   },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
+                  {
+                    "id": "85a75910c85fe160",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "5(8) 251111 - SQL"
+                    }
+                  },
+                  {
+                    "id": "ef711cd379ae8c85",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "9 251114 - Rekurze I"
+                    }
+                  },
+                  {
+                    "id": "c7f101af57b7c59a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "9 251119 - Skládání relací a funkcí"
+                    }
+                  },
+                  {
+                    "id": "7e18501396ff7d8f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "8 251120 - Nestátní aktéři v kybernetickém prostoru"
+                    }
+                  },
+                  {
+                    "id": "70d00be4a14de709",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/IB111-Prog/10 251121 - Rekurze II, backtracking.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "10 251121 - Rekurze II, backtracking"
+                    }
+                  },
+                  {
+                    "id": "debc249f5f0a7c3a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "7_2 251202 - STD"
+                    }
+                  },
+                  {
+                    "id": "0922b7bef678610d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "11 251203 - Stromy, vzdálenost a kostry grafů"
+                    }
+                  },
+                  {
+                    "id": "8d515b12820f5131",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Cvičení5 - B+ stromy"
+                    }
+                  },
+                  {
+                    "id": "29e5813559ac0d13",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "6 251118 - Relational DB Design"
+                    }
+                  },
+                  {
+                    "id": "177b7b817d2617d7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/IB000-Mat/Odpovědníky_Cvika.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Odpovědníky_Cvika"
+                    }
+                  },
+                  {
+                    "id": "5de6f8f21df84268",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/Test na terminologii a definice na 251014.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Test na terminologii a definice na 251014"
+                    }
+                  }
+                ],
+                "currentTab": 11
               },
               {
-                "id": "85a75910c85fe160",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "5(8) 251111 - SQL"
-                }
-              },
-              {
-                "id": "ef711cd379ae8c85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/IB111-Prog/9 251114 - Rekurze I.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "9 251114 - Rekurze I"
-                }
-              },
-              {
-                "id": "c7f101af57b7c59a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/IB000-Mat/9 251119 - Skládání relací a funkcí.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "9 251119 - Skládání relací a funkcí"
-                }
-              },
-              {
-                "id": "7e18501396ff7d8f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "8 251120 - Nestátní aktéři v kybernetickém prostoru"
-                }
-              },
-              {
-                "id": "70d00be4a14de709",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/IB111-Prog/10 251121 - Rekurze II, backtracking.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "10 251121 - Rekurze II, backtracking"
-                }
-              },
-              {
-                "id": "debc249f5f0a7c3a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "7_2 251202 - STD"
-                }
-              },
-              {
-                "id": "0922b7bef678610d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "11 251203 - Stromy, vzdálenost a kostry grafů"
-                }
-              },
-              {
-                "id": "8d515b12820f5131",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cvičení5 - B+ stromy"
-                }
-              },
-              {
-                "id": "29e5813559ac0d13",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUNI/1Semestr-KYB/PB168-DB/ALL_PB168.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ALL_PB168"
-                }
+                "id": "1032d9f87c8e735a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9f2aecb1559b2d36",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/ZK.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "ZK"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 9
+            "direction": "vertical"
           },
           {
             "id": "e0ad203a91426fd3",
@@ -334,29 +389,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8865cc117ce8ec8a",
+  "active": "9f2aecb1559b2d36",
   "lastOpenFiles": [
-    "MUNI/1Semestr-KYB/PB168-DB/ALL_PB168.pdf",
-    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_u_učitele_Ráčka.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Úkol_1_draw.excalidraw.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení3-Relační_algebra .excalidraw.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení2-relační_model_a_převod_z_ERD.excalidraw.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-Uni_system.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení1-obchod.md",
-    "MUNI/1Semestr-KYB/PB168-DB/CvičB+stromy.excalidraw.md",
-    "MUNI/1Semestr-KYB/PB168-DB/ALL_PB168.md",
-    "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Poslední, Info o zk, File Structures,.md",
-    "MUNI/1Semestr-KYB/PB168-DB/8 251209 - Indexing and hashing.md",
-    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.md",
-    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/Test na terminologii a definice na 251014.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy/ZK.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/U4-5.pdf",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/Unconfirmed 208023.crdownload",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/dml_dukazy_zs2223.pdf",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/Unconfirmed 27880.crdownload",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/6 251030 - Základy analytického psaní v KB.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/5 251023 - Přisouzení kybernetických útoků a odstrašování v kyberprostoru.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/4 251009 - Advanced Persistent Threats a Kritika konceptu kybernetické války.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/3 251002 - Technologie, terminologie a nástroje kb.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/2 250925 - Netwars1-60.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/1 250918 - Info.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/ALL_1203.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/9 251118 - expert2.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/8 251111 - Kybernetická obrana, Rizika využití umělé inteligence a nových technologií v kp.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/7 251104 - Působení státních a nestátních aktérů při kybernetických útocích a konflikty-hrozby v kyberprostoru.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/6 251021 - Role státu při ... zajištění KB v ČR.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/5 251014 - Informační bezpečnost a vznik kyberprostoru + Rizika a hrozby v kyberprostoru.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/4 251007 - Výzkum KB v pojetí BSS.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/3 250930 - Základní terminologie BSS.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/2 250923 - Vymezení v kontextu.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/1 250916 - Úvod_do_předmětu.md",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/Prezentace_1_rok_2025.pdf",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez/Unconfirmed 170957.crdownload",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prez",
+    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/New folder",
+    "Pasted image 20260108144738.png",
+    "Pasted image 20260108141730.png",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/Prep/ZK.md",
+    "MUNI/1Semestr-KYB/BSSb1152-KybV/Prep",
     "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
-    "MUNI/1Semestr-KYB/PB168-DB/4 251007 - Relační algebra.md",
     "MUNI/1Semestr-KYB/PB168-DB/5(8) 251111 - SQL.md",
-    "MUNI/1Semestr-KYB/PB168-DB/3 250930 - Nástroje_pro_funkční_dekompozici_a_minispecifikaci.md",
-    "MUNI/1Semestr-KYB/PB168-DB/2 250923 - ERDčka.md",
-    "MUNI/1Semestr-KYB/PB168-DB/1 250916 - Úvod_do_DB.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/12 251210 - Nekonečné množiny, zastavení algoritmu.md",
+    "MUNI/1Semestr-KYB/PB168-DB/ALL_PB168.pdf",
     "Pasted image 20251210192455.png",
     "Pasted image 20251210192151.png",
     "Pasted image 20251210192132.png",
@@ -365,25 +436,8 @@
     "Pasted image 20251210190337.png",
     "Pasted image 20251210185810.png",
     "Pasted image 20251210184645.png",
-    "Pasted image 20251210184522.png",
-    "Pasted image 20251210184303.png",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Expert3-Vilím.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/10 251204 - Ofensivní kybernetické operace.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
-    "MUNI/1Semestr-KYB/PB168-DB/7_2 251202 - STD.pdf",
-    "MUNI/1Semestr-KYB/PB168-DB/7 251202 - DFD a IS.pdf",
-    "MUNI/1Semestr-KYB/VB035-Eng/1 250923 - Org.md",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
-    "Roann/A TEST CAMPAIN/Kaspion - hole",
-    "Roann/A TEST CAMPAIN",
     "Roann/Map/Map-Factions.canvas",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb/Prep_pro_testy",
-    "Untitled.base",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
-    "MUNI/1Semestr-KYB/PB168-DB",
-    "MUNI/1Semestr-KYB/BSSb1203-UvodKyb",
     "DND/Canv.canvas",
     "Untitled.canvas",
     "Roann/Map/Blank4.canvas",
