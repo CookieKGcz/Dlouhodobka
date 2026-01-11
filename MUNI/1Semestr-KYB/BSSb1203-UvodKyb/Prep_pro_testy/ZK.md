@@ -1,3 +1,32 @@
+**1996 Moonlight Maze** – špionážní útok – cíl – NASA, Pentagon, vojenští dodavatelé, civilní akademici a řada dalších vládních agentur – vybudování zadních vrátek a přesměrování specifického síťového provozu přes Rusko
+
+**2003 Titan Rain** – špionážní útok na informační systémy USA – DEA, Lockheed Martin, Sandia National Labotoriess, Redstone Arsenal, ,NASA a další – VB – ministerstvo obrany – tři roky neodhalen – útočník APT 1
+
+**2007 Stuxnet**
+
+**2007 Red October** – špionážní malware pravděpodobně z Ruska – využíval zranitelností Microsoft Word a Excel
+
+**2007 kybernetické útoky na Estonsko** – přemístění sochy sovětského vojáka – DDoSové útoky na webové stránky parlamentu, bank, ministerstev, novin a televizních stanic
+
+**2009 Aurora** – špionážní malware využitím zero-day v Internet Exploreru – cíl americké a evropské státní organizace, dalajláma a americké podniky
+
+**2012 Shamoon** – malware určený na zničení společnosti saudské Saudi Aramco (použit i proti katarské RasGaz) – destruktivní – napadá Microsoft Windows NT malware pro 32 a 64 bitovou verzi – šíří se z infikovaného počítače – maže a přepisuje data na pevném disku poškozeným obrázkem
+
+**2017 WannaCry** – Ransomwarový útok – celosvětový útok zasáhl 150 států – počítače s OS Microsoft Windows – šifrování dat a výkupné v Bitcoinech – červ (worm) Wanna Cry - útočník sev. korea
+
+
+
+
+
+Cyber-dependent (**kyberneticky závislá**) je kriminalita, kterou lze realizovat pouze pomocí počítačů, počítačových sítí nebo jiných forem informačních komunikačních technologií (ICT). V podstatě bez internetu by tyto hrozby nemohly být realizovány. 
+
+Cyber-enabled (**kyberneticky umožněná**) je tradiční kriminalita, která je ve vnějším fyzickém světě, kterou lze realizovat bez použití počítače. Realizace této hrozby, se však vynálezem a používáním internetu přeneslo na zcela novou úroveň. Její rozsah a dosah se zvýšil pomocí ICT nebo informačních komunikačních technologií. 
+
+Cyber-supported (**kyberneticky podporovaná**) je kriminalita která je realizovaná ve fyzickém světě. Při realizaci hrozby, kromě realizace v reálném světě je využíván i kyberprostor.
+
+
+
+
 Aktivní kybernetická obrana
 Tarpits, sandboxy (záměrné uváznutí útočníka) a honeypoty
 Denial a Deception (Popření a klamání)
