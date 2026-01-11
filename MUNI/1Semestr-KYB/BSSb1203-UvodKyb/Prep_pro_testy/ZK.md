@@ -16,6 +16,19 @@
 
 
 
+Kyberprostor je globální a vyvíjející se doména popisovaná užíváním elektrických sítí a elektromagnetického spektra, jejíž smysl je vytvářet, uchovávat, upravovat, vyměňovat, sdílet, vybírat, používat či vymazávat informace.
+Kybernetickým prostorem se rozumí soubor sítí elektronických komunikací a dalších technologií, ve kterém dochází ke zpracování informací a dat v elektronické podobě.
+
+
+
+Systém sociálního kreditu
+==china number one!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!==
+
+
+Evropskou kritickou infrastrukturou (EKI) se rozumí kritická infrastruktura na území České republiky , jejíž narušení by mělo závažný dopad i na další členský stát Evropské unie.
+
+
+DEZINFORMACE - Dezinformace jsou mylné , zmanipulované či zavádějící informace , které jsou záměrně šířeny za účelem uvést v omyl.
 
 
 Cyber-dependent (**kyberneticky závislá**) je kriminalita, kterou lze realizovat pouze pomocí počítačů, počítačových sítí nebo jiných forem informačních komunikačních technologií (ICT). V podstatě bez internetu by tyto hrozby nemohly být realizovány. 
@@ -24,6 +37,9 @@ Cyber-enabled (**kyberneticky umožněná**) je tradiční kriminalita, která j
 
 Cyber-supported (**kyberneticky podporovaná**) je kriminalita která je realizovaná ve fyzickém světě. Při realizaci hrozby, kromě realizace v reálném světě je využíván i kyberprostor.
 
+
+
+Cybercrime-as-a-service je obchodní model, který umožňuje prakticky komukoliv s dostatečnými finančními prostředky využívání nástrojů i služeb k provádění kybernetických útoků.
 
 
 
