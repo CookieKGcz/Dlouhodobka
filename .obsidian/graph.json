@@ -11,7 +11,7 @@
       "query": "path:School/Dictionary  ",
       "color": {
         "a": 1,
-        "rgb": 16762823
+        "rgb": 12255487
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.056831083727907274,
+  "scale": 0.039592994097322906,
   "close": false
 }
