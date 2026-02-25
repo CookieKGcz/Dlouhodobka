@@ -99,12 +99,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
+                    "file": "MUNI/2Semestr-KYB/PB111/2 260225 - Základní prvky jazyka C.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi"
+                  "title": "2 260225 - Základní prvky jazyka C"
                 }
               }
             ],
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -294,13 +293,18 @@
   },
   "active": "229e891721caa457",
   "lastOpenFiles": [
+    "MUNI/2Semestr-KYB/PB111/1 260218 - Uvod.md",
+    "MUNI/2Semestr-KYB/PB111/2 260225 - Základní prvky jazyka C.md",
+    "MUNI/2Semestr-KYB/PV004-UNIX/2 260225 - brandy things, uvod pokracovani.md",
+    "MUNI/2Semestr-KYB/PV004-UNIX/1 260218 - Uvod,.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/2 260225 - Složitost a korektnost rekurzivních algoritmů.md",
+    "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
     "Pasted image 20260225085935.png",
     "Pasted image 20260225082330.png",
     "Pasted image 20260225082134.png",
     "Pasted image 20260225081656.png",
     "MUNI/2Semestr-KYB/PB112-Java/1 260218 - Úvod.md",
     "Pasted image 20260225081208.png",
-    "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
     "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV2_Block_ciphers.md",
     "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV1_encoding_and_stream-ciphers.md",
     "MUNI/2Semestr-KYB/PV080-Crypto/HW info.md",
@@ -312,14 +316,11 @@
     "Pasted image 20260223113532.png",
     "Pasted image 20260223113501.png",
     "Pasted image 20260223113403.png",
-    "Pasted image 20260223110445.png",
     "MUNI/2Semestr-KYB/PB152-OS/1 260220 - Uvod.md",
     "MUNI/2Semestr-KYB/PB152-OS",
     "School/~KB~/PICOCTF/Cryptography3.md",
     "MUNI/List_of_classes-trees.md",
     "MUNI/2Semestr-KYB/PB156/1 260219 - Uvod.md",
-    "MUNI/2Semestr-KYB/PV004-UNIX/1 260218 - Uvod,.md",
-    "MUNI/2Semestr-KYB/PB111/1 260218 - Uvod.md",
     "MUNI/2Semestr-KYB/IB002-Alg/1 260218 - Složitost a korektnost iterativních alg.md",
     "MUNI/1Semestr-KYB/A_Tree.md",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
@@ -330,9 +331,7 @@
     "MUNI/1Semestr-KYB/BSSb1152-KybV/8 251120 - Nestátní aktéři v kybernetickém prostoru.md",
     "MUNI/1Semestr-KYB/BSSb1152-KybV/9 251127 - Právo kybernetického konfliktu, aktivní obrana a legislativní problematika.md",
     "MUNI/2Semestr-KYB/B_Tree.md",
-    "MUNI/2Semestr-KYB/PB111/Cvika/Uvod-Info.md",
     "MUNI/2Semestr-KYB/Untitled 1",
-    "MUNI/2Semestr-KYB/PB112-Java/Cvika/01.md",
     "MUNI/2Semestr-KYB/PB156",
     "MUNI/2Semestr-KYB/PV004-UNIX",
     "MUNI/2Semestr-KYB/IB002-Alg",
