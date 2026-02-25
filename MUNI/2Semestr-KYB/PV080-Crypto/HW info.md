@@ -1,0 +1,1 @@
+- each sentence starts with capital letter!

@@ -88,4 +88,3 @@ $$CT = keystream \oplus PT = Stream_{cipher(PT, K, nonce)}$$
 
 - Issue: _keystream_ must be unique for each message
 - Sol: _keystream_ generated as $keystream = F(nonce, K)$. It suffices to change nonce and send it with ciphertext, hence fixed $K$ can be used still.
-- 

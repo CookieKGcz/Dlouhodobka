@@ -70,18 +70,45 @@
                 "id": "112105206ddaf1d8",
                 "type": "leaf",
                 "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Untitled 5.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Untitled 5"
+                }
+              },
+              {
+                "id": "8feeed1a3f5c5f5d",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/2Semestr-KYB/PB152-OS/1 260220 - Uvod.md",
+                    "file": "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV2_Block_ciphers.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1 260220 - Uvod"
+                  "title": "CV2_Block_ciphers"
+                }
+              },
+              {
+                "id": "229e891721caa457",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "e0ad203a91426fd3",
@@ -143,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "avala",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,14 +292,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "112105206ddaf1d8",
+  "active": "229e891721caa457",
   "lastOpenFiles": [
-    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV_encoding_and_stream-ciphers.md",
+    "Pasted image 20260225085935.png",
+    "Pasted image 20260225082330.png",
+    "Pasted image 20260225082134.png",
+    "Pasted image 20260225081656.png",
+    "MUNI/2Semestr-KYB/PB112-Java/1 260218 - Úvod.md",
+    "Pasted image 20260225081208.png",
+    "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV2_Block_ciphers.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV1_encoding_and_stream-ciphers.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/HW info.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/1 260216 - Úvod.md",
+    "Untitled 5.base",
+    "MUNI/2Semestr-KYB/PV080-Crypto/2 260223 - Crypto building block II.md",
+    "Pasted image 20260223114452.png",
+    "Pasted image 20260223113801.png",
+    "Pasted image 20260223113532.png",
+    "Pasted image 20260223113501.png",
+    "Pasted image 20260223113403.png",
+    "Pasted image 20260223110445.png",
     "MUNI/2Semestr-KYB/PB152-OS/1 260220 - Uvod.md",
     "MUNI/2Semestr-KYB/PB152-OS",
     "School/~KB~/PICOCTF/Cryptography3.md",
     "MUNI/List_of_classes-trees.md",
-    "MUNI/2Semestr-KYB/PB112-Java/1 260218 - Úvod.md",
     "MUNI/2Semestr-KYB/PB156/1 260219 - Uvod.md",
     "MUNI/2Semestr-KYB/PV004-UNIX/1 260218 - Uvod,.md",
     "MUNI/2Semestr-KYB/PB111/1 260218 - Uvod.md",
@@ -289,30 +333,13 @@
     "MUNI/2Semestr-KYB/PB111/Cvika/Uvod-Info.md",
     "MUNI/2Semestr-KYB/Untitled 1",
     "MUNI/2Semestr-KYB/PB112-Java/Cvika/01.md",
-    "Pasted image 20260218225108.png",
-    "MUNI/1Semestr-KYB/PB168-DB/CvičB+stromy.excalidraw.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/Odpovědníky_Cvika.md",
-    "MUNI/1Semestr-KYB/PB168-DB/6 251118 - Relational DB Design.md",
-    "MUNI/1Semestr-KYB/IB000-Mat/11 251203 - Stromy, vzdálenost a kostry grafů.md",
     "MUNI/2Semestr-KYB/PB156",
     "MUNI/2Semestr-KYB/PV004-UNIX",
-    "Pasted image 20260218101732.png",
     "MUNI/2Semestr-KYB/IB002-Alg",
-    "Pasted image 20260218094532.png",
-    "Pasted image 20260218093842.png",
-    "Pasted image 20260218092525.png",
-    "Pasted image 20260218092114.png",
-    "Pasted image 20260218092042.png",
-    "Pasted image 20260218091442.png",
-    "Pasted image 20260218090740.png",
-    "Pasted image 20260218085136.png",
-    "MUNI/2Semestr-KYB/PV080-Crypto/1 260216 - Úvod.md",
     "MUNI/2Semestr-KYB/PB112-Java/Cvika",
     "MUNI/2Semestr-KYB/PB112-Java",
     "MUNI/2Semestr-KYB/PB111/Cvika",
     "MUNI/2Semestr-KYB/PB111",
-    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes",
-    "MUNI/1Semestr-KYB/BSSb1152-KybV/6 251030 - Základy analytického psaní v KB.md",
     "Roann/Map/Map-Factions.canvas",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "DND/Canv.canvas",
