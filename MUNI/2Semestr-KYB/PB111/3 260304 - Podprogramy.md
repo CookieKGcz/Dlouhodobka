@@ -142,3 +142,17 @@ pop reg
 - pokračujeme překladem těla
 	- tělo je složený příkaz
 - epilog je součástí return
+```
+Překlad příkazu return e1 bude vypadat takto:
+
+ri₁ … riₙ     ; vyhodnoť ‹e₁› do ‹rv›,
+copy bp → sp  ; odstraň rámec
+pop bp
+ret           ; návrat do volajícího podprogramu
+
+subr:
+	push bp   ; vytvoř rámce
+	copy sp → bp
+	sub sp, N → sp ; (N je velikost rámce)
+	bi₁ … bi       ; vykonej s₁
+```
