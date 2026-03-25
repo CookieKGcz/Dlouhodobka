@@ -99,30 +99,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/2Semestr-KYB/PV080-Crypto/3 260302 - E-sig, legislation.md",
+                    "file": "MUNI/2Semestr-KYB/PV080-Crypto/4 260309 - Protocols II.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3 260302 - E-sig, legislation"
+                  "title": "4 260309 - Protocols II"
                 }
               },
               {
-                "id": "99da82a877c5ea02",
+                "id": "66fe2524de335f31",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/2Semestr-KYB/PB111/3 260304 - Podprogramy.md",
+                    "file": "MUNI/2Semestr-KYB/PB156/cvika.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3 260304 - Podprogramy"
+                  "title": "cvika"
+                }
+              },
+              {
+                "id": "01237c2f4767d6e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUNI/2Semestr-KYB/IB002-Alg/6 260325 - Červeno černé stromy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "6 260325 - Červeno černé stromy"
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           },
           {
             "id": "e0ad203a91426fd3",
@@ -210,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -305,46 +320,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "99da82a877c5ea02",
+  "active": "01237c2f4767d6e0",
   "lastOpenFiles": [
-    "MUNI/2Semestr-KYB/PB111/2 260225 - Základní prvky jazyka C.md",
+    "Pasted image 20260325112436.png",
+    "Pasted image 20260325110916.png",
+    "Pasted image 20260325110820.png",
+    "Pasted image 20260325110724.png",
+    "Pasted image 20260325110636.png",
+    "Pasted image 20260325110542.png",
+    "Pasted image 20260325105913.png",
+    "Pasted image 20260325105847.png",
+    "Pasted image 20260325105748.png",
+    "Pasted image 20260325103801.png",
+    "Pasted image 20260325103744.png",
+    "MUNI/2Semestr-KYB/PV080-Crypto/6 260323 - Privacy.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/6 260325 - Červeno černé stromy.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/5 260318 - Datové struktury.md",
+    "MUNI/2Semestr-KYB/PB112-Java/5 260318 - Abstraktní třídy a Generické typy a metody.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/5 260316 - Identity and access mngm..md",
+    "MUNI/2Semestr-KYB/IB002-Alg/4 260311 - Řazení haldou.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/3 260304 - Řazení.md",
+    "MUNI/2Semestr-KYB/PB112-Java/4 260311 - Rozhraní a práce s datovými typy.md",
+    "MUNI/2Semestr-KYB/PB156/cvika.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/4 260309 - Protocols II.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/3 260302 - E-sig, legislation.md",
+    "School/~KB~/PICOCTF/Cryptography3.md",
     "MUNI/2Semestr-KYB/PB111/3 260304 - Podprogramy.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/1 260216 - Úvod.md",
+    "MUNI/2Semestr-KYB/PB156/1 260219 - Uvod.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/2 260225 - Složitost a korektnost rekurzivních algoritmů.md",
+    "MUNI/2Semestr-KYB/IB002-Alg/1 260218 - Složitost a korektnost iterativních alg.md",
+    "MUNI/2Semestr-KYB/PB111/2 260225 - Základní prvky jazyka C.md",
     "MUNI/2Semestr-KYB/PV004-UNIX/3 260304 - passwd shadow.md",
     "MUNI/2Semestr-KYB/PV004-UNIX/2 260225 - brandy things, uvod pokracovani.md",
     "MUNI/2Semestr-KYB/PV004-UNIX/1 260218 - Uvod,.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/3 260304 - Řazení.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/2 260225 - Složitost a korektnost rekurzivních algoritmů.md",
     "MUNI/2Semestr-KYB/PB112-Java/3 260304 - Statické atributy a metody, Konstanty, Výčtový typ, Komentáře.md",
-    "Pasted image 20260304085944.png",
     "MUNI/2Semestr-KYB/PB156/2 260226 - L1 a L2.md",
     "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV3_Asymmetric_and_hybrid_encryption.md",
-    "School/~KB~/PICOCTF/Cryptography3.md",
-    "Pasted image 20260302113951.png",
-    "Pasted image 20260302110644.png",
-    "Pasted image 20260302103614.png",
-    "Pasted image 20260302103414.png",
-    "Pasted image 20260302102627.png",
-    "Pasted image 20260302101500.png",
     "MUNI/2Semestr-KYB/PV080-Crypto/2 260223 - Crypto building block II.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/3 260302 - E-sig, legislation.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV2_Block_ciphers.md",
-    "Pasted image 20260226160216.png",
-    "Pasted image 20260226152500.png",
-    "Pasted image 20260226150906.png",
-    "MUNI/2Semestr-KYB/PB111/1 260218 - Uvod.md",
-    "MUNI/2Semestr-KYB/PB112-Java/2 260225 - Řídící struktury, Pole, Řetězce, Třídy a vztahy mezi nimi.md",
-    "MUNI/2Semestr-KYB/PB112-Java/1 260218 - Úvod.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV1_encoding_and_stream-ciphers.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/HW info.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/1 260216 - Úvod.md",
     "Untitled 5.base",
-    "MUNI/2Semestr-KYB/PB152-OS/1 260220 - Uvod.md",
     "MUNI/2Semestr-KYB/PB152-OS",
-    "MUNI/List_of_classes-trees.md",
-    "MUNI/2Semestr-KYB/PB156/1 260219 - Uvod.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/1 260218 - Složitost a korektnost iterativních alg.md",
-    "MUNI/1Semestr-KYB/A_Tree.md",
-    "MUNI/1Semestr-KYB/PB168-DB/Cvičení5 - B+ stromy.md",
     "MUNI/2Semestr-KYB/Untitled 1",
     "MUNI/2Semestr-KYB/PB156",
     "MUNI/2Semestr-KYB/PV004-UNIX",
