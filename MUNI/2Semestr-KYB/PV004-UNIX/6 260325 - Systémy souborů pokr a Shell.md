@@ -140,3 +140,34 @@
 ## Spojování příkazů do kolon
 - příkaz | příkaz2 \[ | příkaz3 ... ]
 	- roura
+- Zápisem "! příkaz | příkaz2 \[ | příkaz3 ... ]"
+	- se ukončí kód kolony neguje
+- Zápisem "příkaz1 2 > &1 | příkaz2"
+	- se na standardní vstup příkazu 2 předá jak standardní výstup, tak i stand. výstup příkazu1
+- Asynchronně přes &
+## Job control
+- Jak dostat úlohu pod správu Job Control?
+	- Spustíme li úlohu na pozadí (&), vypíše se identifikace:
+		- ping aisa > /dev/null &
+		- \[1] 1234
+		- Číslo úlohy je 1 a má top-level proces 1234
+	- Běží li úloha normálně spuštěná na popředí a cheme s ní nějak naložit, -> znak "susp".
+		- ping aisa > /dev/null
+		- \^Z
+		- \[2]+ Stopped  ping aisa > /dev/null
+### Job control - příkazy
+- jobs - vypíše seznam řízených úloh
+- fg \[job] - úloha se spustí na popředí
+- bg \[job] - na pozadí
+- kill \[signál job ...] - pošle signál úloze
+- wait \[job] - Zahájí čekání na dokončení úlohy a převezme její ukončovací kód.
+## Seznamy
+- rozumíme posloupnost žádného nebo více příkazů oddělených novým řádkem, středníkem nebo ampersandem &
+- Shell příkazy provádí v pořadí, v jakém jsou zapsány
+- Pokud zápis končí ampersandem, ihned se zahájí provádění následujícího
+- Návratový kód seznamu je návratový kód posledního prováděného procesu
+- Příkazy lze oddělovat operátory && a ||.
+	- && = druhý příkaz provede pouze tehdy, pokud ukončovací kód předchozího byl 0
+	- || = ... nenulový
+## Substituce příkazů
+- 
