@@ -18,7 +18,7 @@
 - *processor* = an entity that carries out processing of personal data at the initiative of another
 - X *employee* = follows instructions of controller/processor
 ## Basic principles
-- Article 5 GDPR - processing prinicples
+- Article 5 GDPR - processing principles
 - *Accountability* - the controller is responsible for compliance with this policy and must be able to demonstrate such compliance
 ## Lawfulness = purpose + scope + legal basis
 - Article 6 GDPR - lawfulness of processing
