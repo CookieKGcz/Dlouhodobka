@@ -1,0 +1,115 @@
+---
+tags: [trip, packing, hiking, trekking]
+created: 2026-05-12
+---
+# Packing List
+## Oblečení 👕 
+- [ ] Pyžamo
+- [ ] Ponožky
+- [ ] Nepromokavá bunda
+- [ ] Péřovka
+- [ ] Nepromokavé kalhoty
+- [ ] Trička a svetr
+- [ ] Podprsenka
+- [ ] Šátek
+- [ ] Rukavice
+- [ ] Kalhoty
+- [ ] Spoďáry
+- [ ] Návleky
+- [ ] Boty
+- [ ] Kšiltovka
+## Spaní 🏕️
+- [ ] Karimatka
+- [ ] Vložka do spacáku
+- [ ] Stan + obal
+- [ ] Polštářek
+- [ ] Kolíky
+- [ ] Hadřík na stan
+- [ ] Tyvek
+- [ ] Spacák + obal
+- [ ] ~~Alumatka~~ *(nakonec jsem neměla)*
+## Batoh a další výbava 🎒
+- [ ] Batoh
+- [ ] Poncho pláštěnka
+- [ ] Moskytiera
+- [ ] Lanko a páska
+- [ ] Nepromokavé vaky
+- [ ] Filtr
+- [ ] Brýle
+- [ ] Batůžek
+- [ ] Lahev
+- [ ] Hůlky
+## Elektronika 🔌
+- [ ] Kabely
+- [ ] Adaptér
+- [ ] Powerbanka
+- [ ] Instax a náhradní foto
+- [ ] Samospoušť
+- [ ] Mikrofon
+- [ ] Selfie tyč
+- [ ] Teploměr & vlhkoměr
+- [ ] Sluchátka
+- [ ] Čelovka
+## Hygiena 🧼
+- [ ] Gel na mytí
+- [ ] Repelent
+- [ ] Antibakteriák
+- [ ] Krém na ruce
+- [ ] Opalovák
+- [ ] Uchošťoury
+- [ ] Hřeben
+- [ ] Lůj
+- [ ] Kartáček
+- [ ] Mezizubáky
+- [ ] Pasta
+- [ ] Lopatka na hovínka
+- [ ] Ručník
+- [ ] Šampon
+- [ ] Vlhčený toaleťák
+- [ ] Toaleťák
+- [ ] Ubrousky na obličej
+- [ ] Kapesníčky
+## Lékárnička ⛑️
+- [ ] Lékárnička (pouzdro)
+- [ ] Alergie
+- [ ] Tejpy
+- [ ] Mg (hořčík)
+- [ ] Multivitamin
+- [ ] Omega
+- [ ] Probiotika
+- [ ] Ibáč (ibuprofen)
+- [ ] Průjem
+- [ ] Filtr
+- [ ] Bandáže
+- [ ] Náplasti
+- [ ] Izofolie
+- [ ] Tampony
+- [ ] Špunty do uší
+- [ ] Opravný kit
+- [ ] Na štípance
+- [ ] Kleště na klíště
+- [ ] Pinzeta
+- [ ] Jehla
+- [ ] Nůžky
+- [ ] Hemagel
+- [ ] Desinfekce
+## Vaření 🔥
+- [ ] Závětří
+- [ ] Lžíce
+- [ ] Nožík
+- [ ] Miska
+- [ ] Supersirky
+- [ ] Sirky
+- [ ] Vařič
+- [ ] Houbička
+- [ ] Ešus
+## Jídlo 🍫
+- [ ] Sušené jídlo
+- [ ] Čokoláda
+- [ ] Proteinové tyčky a sušenky
+- [ ] Cukřík
+- [ ] Ovesné kaše
+- [ ] Gumídci
+- [ ] Ionťák
+- [ ] Čajíky
+- [ ] Sušené maso

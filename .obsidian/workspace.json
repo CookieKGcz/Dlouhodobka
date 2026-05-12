@@ -141,16 +141,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/2Semestr-KYB/PV004-UNIX/12 260506 - Editory a regulární výrazy pokr.md",
+                    "file": "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "12 260506 - Editory a regulární výrazy pokr"
+                  "title": "5 Privilege Escalation"
+                }
+              },
+              {
+                "id": "618f61af76443fb9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A_general_notes/seznam na tůry.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "seznam na tůry"
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 10
           },
           {
             "id": "e0ad203a91426fd3",
@@ -212,7 +226,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistical",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -333,9 +347,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54dbebbf00f82d37",
+  "active": "618f61af76443fb9",
   "lastOpenFiles": [
+    "A_general_notes/seznam na tůry.md",
+    "A_general_notes",
+    "School/HackTheBox/Modules/Getting_started/5 Privilege Escalation.md",
+    "MUNI/2Semestr-KYB/PB111/7 260401 - Živost, zdroje.md",
     "MUNI/2Semestr-KYB/IB002-Alg/12 260506 - Hash tabulka.md",
+    "School/Dictionary/C/Control Bits (Flags).md",
+    "School/SW/poznámky pro test - Linux.md",
+    "School/Dictionary/F/Firewall.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV3_Asymmetric_and_hybrid_encryption.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/Seminars_notes/CV1_encoding_and_stream-ciphers.md",
+    "School/~KB~/PICOCTF/Cryptography3.md",
+    "School/Dictionary/C/CCMP.md",
+    "School/Dictionary/A/Advanced Encryption Standard.md",
+    "MUNI/2Semestr-KYB/PV080-Crypto/13 260511 - Security standards, case studies, etc..md",
+    "Pasted image 20260511103358.png",
     "MUNI/2Semestr-KYB/PV004-UNIX/12 260506 - Editory a regulární výrazy pokr.md",
     "Pasted image 20260506110117.png",
     "Pasted image 20260506110050.png",
@@ -356,21 +384,8 @@
     "Pasted image 20260420105923.png",
     "Pasted image 20260420103009.png",
     "Pasted image 20260420101747.png",
-    "Pasted image 20260420101720.png",
     "MUNI/2Semestr-KYB/PV004-UNIX/9 260415 - Shell - Závorkování, Složené příkazy.md",
     "MUNI/2Semestr-KYB/PV004-UNIX/6 260325 - Systémy souborů pokr a Shell.md",
-    "MUNI/2Semestr-KYB/PV004-UNIX/7 260401 - Shell.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/8 260408 - Grafové algoritmy.md",
-    "MUNI/2Semestr-KYB/PB112-Java/8 260408 - Java Collections Framework II a Vnořené třídy.md",
-    "MUNI/2Semestr-KYB/PB111/7 260401 - Živost, zdroje.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/7 260401 - B-stromy.md",
-    "MUNI/2Semestr-KYB/PB112-Java/7 260401 - Java Collections framework I.md",
-    "MUNI/2Semestr-KYB/PB111/6 260325 - Struktury.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/6 260325 - Červeno černé stromy.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/5 260318 - Datové struktury.md",
-    "MUNI/2Semestr-KYB/PB112-Java/5 260318 - Abstraktní třídy a Generické typy a metody.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/4 260311 - Řazení haldou.md",
-    "MUNI/2Semestr-KYB/IB002-Alg/3 260304 - Řazení.md",
     "Untitled 5.base",
     "MUNI/2Semestr-KYB/PB152-OS",
     "MUNI/2Semestr-KYB/Untitled 1",
@@ -380,7 +395,6 @@
     "MUNI/2Semestr-KYB/PB112-Java/Cvika",
     "MUNI/2Semestr-KYB/PB112-Java",
     "MUNI/2Semestr-KYB/PB111/Cvika",
-    "MUNI/2Semestr-KYB/PB111",
     "Roann/Map/Map-Factions.canvas",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "DND/Canv.canvas",
