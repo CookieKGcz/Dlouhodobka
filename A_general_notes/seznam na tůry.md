@@ -10,7 +10,6 @@ created: 2026-05-12
 - [ ] Péřovka
 - [ ] Nepromokavé kalhoty
 - [ ] Trička a svetr
-- [ ] Podprsenka
 - [ ] Šátek
 - [ ] Rukavice
 - [ ] Kalhoty
@@ -20,14 +19,11 @@ created: 2026-05-12
 - [ ] Kšiltovka
 ## Spaní 🏕️
 - [ ] Karimatka
-- [ ] Vložka do spacáku
 - [ ] Stan + obal
-- [ ] Polštářek
 - [ ] Kolíky
 - [ ] Hadřík na stan
 - [ ] Tyvek
 - [ ] Spacák + obal
-- [ ] ~~Alumatka~~ *(nakonec jsem neměla)*
 ## Batoh a další výbava 🎒
 - [ ] Batoh
 - [ ] Poncho pláštěnka
@@ -36,38 +32,25 @@ created: 2026-05-12
 - [ ] Nepromokavé vaky
 - [ ] Filtr
 - [ ] Brýle
-- [ ] Batůžek
 - [ ] Lahev
 - [ ] Hůlky
 ## Elektronika 🔌
 - [ ] Kabely
-- [ ] Adaptér
 - [ ] Powerbanka
-- [ ] Instax a náhradní foto
-- [ ] Samospoušť
-- [ ] Mikrofon
-- [ ] Selfie tyč
-- [ ] Teploměr & vlhkoměr
 - [ ] Sluchátka
 - [ ] Čelovka
 ## Hygiena 🧼
 - [ ] Gel na mytí
 - [ ] Repelent
 - [ ] Antibakteriák
-- [ ] Krém na ruce
 - [ ] Opalovák
-- [ ] Uchošťoury
 - [ ] Hřeben
 - [ ] Lůj
 - [ ] Kartáček
-- [ ] Mezizubáky
 - [ ] Pasta
-- [ ] Lopatka na hovínka
 - [ ] Ručník
 - [ ] Šampon
-- [ ] Vlhčený toaleťák
 - [ ] Toaleťák
-- [ ] Ubrousky na obličej
 - [ ] Kapesníčky
 ## Lékárnička ⛑️
 - [ ] Lékárnička (pouzdro)
@@ -79,29 +62,21 @@ created: 2026-05-12
 - [ ] Probiotika
 - [ ] Ibáč (ibuprofen)
 - [ ] Průjem
-- [ ] Filtr
 - [ ] Bandáže
 - [ ] Náplasti
-- [ ] Izofolie
-- [ ] Tampony
-- [ ] Špunty do uší
-- [ ] Opravný kit
 - [ ] Na štípance
 - [ ] Kleště na klíště
 - [ ] Pinzeta
 - [ ] Jehla
 - [ ] Nůžky
-- [ ] Hemagel
 - [ ] Desinfekce
 ## Vaření 🔥
-- [ ] Závětří
 - [ ] Lžíce
 - [ ] Nožík
 - [ ] Miska
 - [ ] Supersirky
 - [ ] Sirky
 - [ ] Vařič
-- [ ] Houbička
 - [ ] Ešus
 ## Jídlo 🍫
 - [ ] Sušené jídlo
@@ -110,6 +85,4 @@ created: 2026-05-12
 - [ ] Cukřík
 - [ ] Ovesné kaše
 - [ ] Gumídci
-- [ ] Ionťák
-- [ ] Čajíky
 - [ ] Sušené maso
