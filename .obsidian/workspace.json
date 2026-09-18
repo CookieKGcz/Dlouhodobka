@@ -155,12 +155,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/3Semestr-KYB/PB177-KU CA/1 260917 - Intro to CA.md",
+                    "file": "MUNI/3Semestr-KYB/PB007-SWENG/1 260918 - Intro to SWENG.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1 260917 - Intro to CA"
+                  "title": "1 260918 - Intro to SWENG"
                 }
               }
             ],
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -351,8 +352,10 @@
   },
   "active": "618f61af76443fb9",
   "lastOpenFiles": [
-    "MUNI/3Semestr-KYB/PV210-KybTeam/1 260916 - Intro to KybTeams.md",
     "MUNI/3Semestr-KYB/PB177-KU CA/1 260917 - Intro to CA.md",
+    "MUNI/3Semestr-KYB/PB007-SWENG/1 260918 - Intro to SWENG.md",
+    "MUNI/3Semestr-KYB/PB007-SWENG",
+    "MUNI/3Semestr-KYB/PV210-KybTeam/1 260916 - Intro to KybTeams.md",
     "MUNI/3Semestr-KYB/PB177-KU CA",
     "MUNI/3Semestr-KYB/PV065-UNIX/1 260915 - Úvod.md",
     "MUNI/3Semestr-KYB/PV210-KybTeam",
@@ -389,14 +392,12 @@
     "MUNI/2Semestr-KYB/PV080-Crypto/5 260316 - Identity and access mngm..md",
     "MUNI/2Semestr-KYB/PV080-Crypto/1 260216 - Úvod.md",
     "MUNI/2Semestr-KYB/PV080-Crypto/9 260413 - Security policy, risk assessment, business security operations.md",
-    "MUNI/2Semestr-KYB/PV080-Crypto/6 260323 - Privacy.md",
     "Pasted image 20260420105923.png",
     "Pasted image 20260420103009.png",
     "Pasted image 20260420101747.png",
     "Untitled 5.base",
     "MUNI/2Semestr-KYB/PB152-OS",
     "MUNI/2Semestr-KYB/Untitled 1",
-    "MUNI/2Semestr-KYB/PB156",
     "Roann/Map/Map-Factions.canvas",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "DND/Canv.canvas",
