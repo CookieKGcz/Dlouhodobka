@@ -1,0 +1,83 @@
+@startuml 
+
+!pragma ratio 0.8
+
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity Producer {
+    Id : char(36)
+    ---
+    Name : varchar(255)
+    PhoneNumber : varchar(32)
+    Processings : varchar(255)
+    Email : varchar(255)
+    AddressId : char(36) <<FK>>
+}
+
+entity Address {
+    Id : char(36)
+    ---
+    Street : varchar(255)
+    City : varchar(255)
+    ZipCode : varchar(255)
+    Country : varchar(255)
+}
+
+
+entity Coffee {
+    Id : char(36)
+    ---
+    Name : varchar(255)
+    Variety : varchar(255)
+    Altitude : integer(10)
+    Processing : varchar(255)
+    Amount : integer(10)
+    Price : decimal(10, 2)
+    ProducerId : char(36) <<FK>>
+}
+
+
+entity Roast {
+    Id : char(36)
+    ---
+    Amount : integer(10)
+    Date : timestamp
+    RoasterId : char(36) <<FK>>
+    CoffeeId : char(36) <<FK>>
+}
+
+entity Roaster {
+    Id : char(36)
+    ---
+    Name : varchar(255)
+    PhoneNumber : varchar(32)
+    Email : varchar(255)
+}
+
+entity Cupping {
+    Id : char(36)
+    ---
+    Date : timestamp
+    RaosterId : char(36) <<FK>>
+}
+
+entity CoffeeCupping {
+    CoffeeId : char(36) <<FK>>
+    CuppingId : char(36) <<FK>>
+    ---
+    Score : varchar(255)
+}
+
+Producer ||..|| Address
+Producer ||..o{ Coffee
+Coffee ||..o{ Roast
+Roast }o..|| Roaster
+Roaster ||..o{ Cupping
+Cupping ||..|{ CoffeeCupping
+CoffeeCupping }o..|| Coffee
+
+@enduml

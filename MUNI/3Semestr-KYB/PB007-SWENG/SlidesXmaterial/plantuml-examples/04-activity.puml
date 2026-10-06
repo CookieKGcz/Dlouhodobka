@@ -1,0 +1,56 @@
+' PlantUML Demo - Activity Diagram by Adela Bierska
+
+@startuml Order Food
+
+' Not perfect solution of the waiting for restaurant
+' split
+'     -[hidden]->
+'     start
+' split again
+'     -[hidden]->
+'     (A)
+' end split
+
+' :Choose restaurant;
+' if (is busy) is ([yes]) then
+'     if (wait) is ([no]) then
+'         (A)
+'     else ([yes])
+'         :Wait for 10 minutes;
+'     endif
+' else ([no])
+' endif
+
+start
+
+repeat
+    :Choose restaurant;
+repeat while (is busy) is ([yes]) not ([no])
+
+repeat
+    :Choose food;
+repeat while (add more) is ([yes]) not ([no])
+
+:Confirm order;
+:Choose delivery;
+
+if () is ([courier]) then
+    fork
+        :Fill street and number;
+    fork again
+        :Fill city;
+    fork again
+        :Fill postal code;
+    fork again
+        :Add comment;
+    end fork
+else ([pickup])
+endif
+
+:Fill card info;
+:Send request for the payment to the paygate>
+:Payment verification<
+
+stop
+
+@enduml

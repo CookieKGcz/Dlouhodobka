@@ -1,0 +1,79 @@
+' PlantUML Demo - Analysis Class Diagram by Adela Bierska
+
+@startuml Food Delivery System
+
+!pragma ratio 0.50
+
+skinparam linetype ortho
+hide circle
+
+'Class definition
+class Restaurant {
+    'Attributes:
+    - name
+    - address
+    - phoneNumber
+    - description
+    - openingHours
+    - image
+
+    'Operations:
+    + OrderFood()
+    + TemporarilyClose()
+}
+
+class RestaurantOwner {
+    - name
+    - email
+    - phoneNumber
+}
+
+class Order {
+    - status
+    - comment
+
+    + GiveReview()
+    + ChangeStatus()
+}
+
+class Food {
+    - name
+    - description
+    - image
+    - price
+    - allergens
+}
+
+class Customer {
+    - name
+    - email
+    - phoneNumber
+    - address
+
+    + Call()
+}
+
+class Courier {
+    - name
+    - phoneNumber
+    - typeOfTransport
+
+    + Call()
+}
+
+' Relationships:
+RestaurantOwner "1" -- "0..*" Restaurant : owns >
+
+Order "0..*" -l- "1" Restaurant : recieves <
+Order "0..*" -l- "1..*" Food : contains >
+Order "0..*" -- "1" Courier : delivers <
+Order "0..*" -- "1" Customer : isCreatedBy >
+
+Customer ..> Courier : <<use>>
+Customer <.. Courier : <<use>>
+Customer ..> Food : <<use>>
+Customer ..> Restaurant : <<use>>
+
+Restaurant "1" -u- "0..*" Food : prepares >
+
+@enduml

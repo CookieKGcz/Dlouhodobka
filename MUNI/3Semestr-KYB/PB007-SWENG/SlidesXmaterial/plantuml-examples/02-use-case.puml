@@ -1,0 +1,66 @@
+' PlantUML Demo - Use Case Diagram by Adela Bierska
+
+' All code is wrapped in @startuml <SystemName> ... @enduml
+@startuml Food Delivery System 
+
+!pragma ratio 0.80
+
+' skinparam linetype polyline
+' skinparam linetype ortho
+
+left to right direction
+
+' Actors:
+actor "Unregistered User" as unregisteredUser
+actor "Registered User" as registeredUser
+actor "Courier" as courier
+actor "Restaurant Owner" as restaurantOwner
+actor "Restaurant Staff" as restaurantStaff
+actor "Admin" as admin
+
+' System boundary:
+rectangle "Food Delivery System" as foodDeliverySystem {
+    usecase "Create account" as createAccount
+    usecase "Manage restaurant menu" as manageMenu
+    usecase "Search restaurants" as searchRestaurants
+    usecase "Set delivery hours" as setDeliveryHours
+    usecase "Give review" as giveReview
+    usecase "Order food" as orderFood
+    usecase "Get customer's phone number" as getCustomerPhoneNumber
+    usecase "Temporarily close restaurant" as temporarilyClose
+    usecase "Manage users" as manageUsers
+    usecase "Manage restaurants" as manageRestaurants
+}
+
+' Associations between actors and use cases:
+unregisteredUser -- createAccount
+unregisteredUser -- searchRestaurants
+
+registeredUser -- searchRestaurants
+registeredUser -- giveReview
+registeredUser -- orderFood
+
+' You can add "norank" to lower line's impact to the layout
+orderFood -[norank]-> restaurantStaff
+temporarilyClose --> restaurantStaff
+
+courier -- getCustomerPhoneNumber
+courier <-- orderFood
+
+manageMenu -[norank]- restaurantOwner
+setDeliveryHours -- restaurantOwner
+temporarilyClose -- restaurantOwner
+giveReview --> restaurantOwner
+
+manageUsers -- admin
+manageRestaurants -- admin
+
+' For layout purposes only
+createAccount -[hidden]- manageMenu
+createAccount -[hidden]- setDeliveryHours
+giveReview -[hidden]- temporarilyClose
+orderFood -[hidden]- temporarilyClose
+orderFood -[hidden]- manageRestaurants
+getCustomerPhoneNumber -[hidden]- manageUsers
+
+@enduml

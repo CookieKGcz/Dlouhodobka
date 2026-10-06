@@ -1,0 +1,53 @@
+
+Use Case ID: UC1 
+
+Brief Description: This UC shows how the Customer can order food delivery and pay for the order 
+
+Primary Actors: Customer,
+
+Secondary Actors: Restaurant, Courier, Payment 
+
+Preconditions:
+
+1. Customer is registered and logged in 
+2. There are restuarants in the system 
+3. Connection to payment system is online 
+
+Main Flow of Events:
+
+1. UC starts when Customer selects an option to order food delivery. 
+2.  System searches the databse for the restaurants available in the Customer's location 
+EXTENSION POINT(NoRestaurantAvailable) 
+3. FOR EACH found restaurant 
+3.1. The System displays the name of the restaurant, the restaurant's rating, estimate of delivery time, price range,... 
+4. The Customer selects a restaurant. 
+5. The System displays the menu of the restaurant 
+6. The Customer selects items from the menu 
+7. The Customer confirms the menu selection 
+8. The System checks if the are any addresses saved in the system for the Customer. 
+9 IF (there are stored addresses) 
+9.1. System offers the selection of the address to the Customer 
+10. Customer selects the delivery address 
+11. The system displays the option to add a discount code 
+12. The Customer inputs the discount code 
+13. The System calculates the price 
+14.  INCLUDE (Pay for the ORder)
+15. System notifies the Restaurant 
+16. System notifies the Courier 
+17. System confirm the order to the customer 
+
+Alternative Flows:
+
+Unavailable restaurants 
+3. IF no restaurants are found 
+3.1. Systems displays information about no restaurants being available 
+3.2. Systems offers the customer to widen the area of search 
+
+Cancel of the order:
+before #15, the Customer can cancel the Order 
+
+Post-conditions:
+1. Payment has been confirmed 
+2. Order was saved in the system
+ 
+ 

@@ -1,0 +1,103 @@
+' PlantUML Demo - Object Diagram by Adela Bierska
+
+@startuml Food Delivery System - Object Diagram
+
+skinparam Linetype ortho
+
+object "customer : Customer" as customer {
+    name = "Maria Alicia Hernández"
+    email = "mahernandez@email.es"
+    phoneNumber = "+34 935 84 75 61"
+}
+
+object ": Restaurant" as restaurant {
+    name = "Garage Beer Co"
+    phoneNumber = "+34 935 28 59 89"
+
+}
+
+object ": OpeningHours" as open1 {
+    from = Time(16, 00)
+    to = Time(22, 00)
+    dayOfWeek = THURSDAY
+}
+
+object ": OpeningHours" as open2 {
+    from = Time(14, 00)
+    to = Time(24, 00)
+    dayOfWeek = FRIDAY
+}
+
+object ": OpeningHours" as open3 {
+    from = Time(16, 00)
+    to = Time(24, 00)
+    dayOfWeek = SATURDAY
+}
+
+object ": Address" as restaurantAddress {
+    name = "Garage Beer Co"
+    street = "C. del Consell de Cent 261"
+    city = "Barcelona"
+    zip = "08011"
+    country = "España"
+}
+
+object "selectedAddress : Address" as customerAddress {
+    name = "Garage Beer Co"
+    street = "C. del Consell de Cent 261"
+    city = "Barcelona"
+    zip = "08011"
+    country = "España"
+}
+
+object ": RestaurantOwner" as restaurantOwner {
+    name = "Domingo Caro"
+    email = "domingo.caro@correo.es"
+    phoneNumber = "+34 936 78 43 55"
+}
+
+object "order : Order" as order {
+    status = WAITING_FOR_RESTAURANT
+    comment = ""
+}
+
+object ": Food" as food1 {
+    name = "Nachos"
+    description = "Cheddar, jalapeños, pico de gallo and sour cream"
+    price = 6.0
+}
+
+object ": Food" as food2 {
+    name = "Patates"
+    description = "Homemade potatoes with alioli"
+    price = 5.5
+}
+
+object ": OrderFood" as orderfood1 {
+    comment = "sin cebolla por favor"
+}
+
+object ": OrderFood" as orderfood2 {
+    comment = ""
+}
+
+restaurant -- open1
+restaurant -- open2
+restaurant -- open3
+restaurant -- restaurantOwner
+restaurant -- restaurantAddress
+restaurant -- order
+
+customer -- order
+customer -- customerAddress
+
+order -- orderfood1
+order -- orderfood2
+
+orderfood1 -- food1
+orderfood2 -- food2
+
+food1 -- restaurant
+food2 -- restaurant
+
+@enduml
