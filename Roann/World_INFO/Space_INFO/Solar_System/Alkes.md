@@ -4,18 +4,19 @@ https://en.wikipedia.org/wiki/Mu_Arae
 ![[Pasted image 20240602223836.png]]
 
 ## Star:
+Alkes is an old star, about 9.5 billion years old and near the end of its stable life. It has swollen to ~1.45× the Sun's size and shines ~2.1× as bright, which is why Roann can orbit so far out and still be warm.
 
 |                  |               |      |
 | ---------------- | ------------- | ---- |
-| Class            | F5.9V         |      |
-| Mass             | 1.208         | Msol |
-| Current Age      | 4.300         | Gyr  |
-| Maximum Age      | 5.673         | Gyr  |
-| Radius           | 1.114         | Rsol |
+| Class            | G1 IV (aging) |      |
+| Mass             | 1.000         | Msol |
+| Current Age      | 9.500         | Gyr  |
+| Maximum Age      | ~10.5 (end of main sequence) | Gyr  |
+| Radius           | 1.445         | Rsol |
 | Luminosity       | 2.129         | Lsol |
-| Density          | 0.874         | Dsol |
-| Temperature      | 6612          | K    |
-| Star Color       | 6612 - White  |      |
+| Density          | 0.331         | Dsol |
+| Temperature      | 5800          | K    |
+| Star Color       | 5800 - Yellow-white |      |
 | Habitable zone   | 1.391 - 2.004 | AU   |
 | Earth-like Life? | Yes           |      |
 
@@ -26,23 +27,25 @@ https://en.wikipedia.org/wiki/Mu_Arae
 | **[d (Rocinante)](https://en.wikipedia.org/wiki/Mu_Arae_d "Mu Arae d")** | ≥0.448±0.011 [MJ](https://en.wikipedia.org/wiki/Jupiter_mass "Jupiter mass") |                                                                                          0.9347±0.0015                                                                                           |                                                              308.36±0.29                                                               |                                        0.055±0.014                                        |                                           —                                            |                            —                            |
 |  **[b (Quijote)](https://en.wikipedia.org/wiki/Mu_Arae_b "Mu Arae b")**  | ≥1.65±0.009 [MJ](https://en.wikipedia.org/wiki/Jupiter_mass "Jupiter mass")  |                                                                                           1.522±0.001                                                                                            |                                                              644.92±0.29                                                               |                                        0.041±0.009                                        |                                           —                                            |                            —                            |
 |  **[e (Sancho)](https://en.wikipedia.org/wiki/Mu_Arae_e "Mu Arae e")**   | ≥1.932±0.022 [MJ](https://en.wikipedia.org/wiki/Jupiter_mass "Jupiter mass") |                                                                                           5.204±0.021                                                                                            |                                                                4,019±24                                                                |                                        0.049±0.011                                        |                                           —                                            |                            —                            |
-for orbit of 986 days the AU should be 1.938
+Note: if these were Roann's real neighbours, Quijote (1.65 Jupiter masses at 1.52 AU) would be too close to Roann at 1.94 AU to be stable. It would have to sit further out, past ~3 AU.
+
+for orbit of 986 days the AU should be 1.938 (correct now that Alkes is 1.0 solar mass)
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |CLASSICAL PLANETARY SYSTEM||||||
 |||||||
-|Star Mass|1.208|Msol|ℹ|2.40271E+30|kg|
+|Star Mass|1.000|Msol|ℹ|1.98847E+30|kg|
 |Star Luminosity|2.129|Lsol|ℹ|8.15154E+26|W|
-|Star Radius|1.114|Rsol|ℹ|775,532|km|
-|Star Density|0.874|Dsol|ℹ|1.231218497|g/cm³|
+|Star Radius|1.445|Rsol|ℹ|1,005,287|km|
+|Star Density|0.331|Dsol|ℹ|0.466|g/cm³|
 |Habitable Zone (Inner)|1.391|AU|ℹ|208.15|million km|
 |Habitable Zone (Outer)|2.004|AU|ℹ|299.87|million km|
 |||||||
 |Frost Line|7.077|AU|ℹ|1058.783588|million km|
 |Spacing Factor|0.5||ℹ|||
 |||||||
-|System Inner Limit|0.0078|AU|ℹ|1.16|million km|
+|System Inner Limit|0.0101|AU|ℹ|1.51|million km|
 |Orbit 1|0.9347|AU|ℹ|139.83|million km|
 |Orbit 2|1.43|AU|ℹ|214.63|million km|
 |Orbit 3|1.93|AU||289.43|million km|

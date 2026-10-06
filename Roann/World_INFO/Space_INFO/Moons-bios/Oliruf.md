@@ -1,1 +1,1 @@
-First spotted in 279 (asmga). Size is between xx (200 - 500 km r). Color cannot be determined. Takes 26.67 years to orbit.
+First spotted in 279 [[Golden Age|a.g.a.]]. Size is between xx (200 - 500 km r). Color cannot be determined. Takes about 190 days to orbit, the farthest a moon can be and still be held by Roann.

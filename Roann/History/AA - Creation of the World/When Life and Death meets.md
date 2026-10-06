@@ -14,4 +14,4 @@ This is a tale that speaks of the creation of [[The Korion]] (the universe) and 
 
 \- unknown
 
-Bruh
+%%Bruh%%

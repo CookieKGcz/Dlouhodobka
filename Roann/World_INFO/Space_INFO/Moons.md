@@ -10,12 +10,12 @@ The closest to the Roann, but also the smallest from the regulars. Size is about
 ### [[Ala]]
 Double the size of Kiruf and little yellowish color. Size is about 1428 km r. Takes 27 days to orbit.
 ### [[Anael]]
-First not round moon with a complex orbital path. Size is between xx (40 - 60 km r). Takes 738 days to orbit.
+First not round moon with a complex orbital path. Size is between xx (40 - 60 km r). Takes 48 days to orbit.
 ### [[Dardiel]] + [[Seliel]] + [[Liviel]]
-Around Dardiel orbits other two moons (sub-moons) Seliel and Liviel. More info in their bio.
+Takes 71 days to orbit. Around Dardiel orbits other two moons (sub-moons) Seliel and Liviel: Seliel circles Dardiel every 3 days, Liviel every 8 days. More info in their bio.
 ### [[Xoniel]] and [[Zupiel]]
-First twin moons (take similar path). Blueish/Violet color. Similar sizes (900 - 1000 km r). Takes them 0.87 years to orbit.
+First twin moons (take similar path). Blueish/Violet color. Similar sizes (900 - 1000 km r). Takes them 110 days to orbit.
 ### [[Alerog]] and [[Anopo]]
-Second twin moons. Orangish color. Similar sizes (2300 - 2600 km r). Takes 1.22 years to orbit.
+Second twin moons. Orangish color. Similar sizes (1600 - 1800 km r). Takes 160 days to orbit.
 ### [[Oliruf]]
-First spotted in 279 (asmga). Size is between xx (200 - 500 km r). Color cannot be determined. Takes 26.67 years to orbit.
+First spotted in 279 [[Golden Age|a.g.a.]]. Size is between xx (200 - 500 km r). Color cannot be determined. Takes about 190 days to orbit, the farthest a moon can be and still be held by Roann.

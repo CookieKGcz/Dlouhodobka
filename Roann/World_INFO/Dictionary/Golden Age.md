@@ -1,1 +1,1 @@
-The beginning of the [[Miric Calendar]]. Also known as [[a.g.a]] (after the golden age), or [[b.g.a]].
+The beginning of the [[Miric Calendar]] (year 0). Years after it are written a.g.a. (after the start of the Golden Age), years before it b.g.a. (before the start of the Golden Age).

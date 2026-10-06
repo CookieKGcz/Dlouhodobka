@@ -1,4 +1,4 @@
-An exclave of the [[Collio Republic]] within the [[Iremorth Kingdom]]
+An exclave of the [[Collio Republic]] within the [[Iremorth Kingdom]]. It began as a Collian trading post and grew into a fortified trade city.
 
 ## Ideas
 - Trade City

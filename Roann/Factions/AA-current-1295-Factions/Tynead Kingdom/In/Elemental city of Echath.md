@@ -4,7 +4,7 @@ Aside from beautiful scenery, this city can be proud of another thing, which arg
 ![[wallhaven-8orj2o.jpg | 500]] not the same at all !
 ![[wallhaven-72qqoo.jpg | 500]] not the same at all !
 
-True to the scale of major schools, it is one of the largest schools ever. It is supported by [[Bethadh]] "the tree of life" and the main structure is maid in  /*TO DO*/
+True to the scale of major schools, it is one of the largest schools ever. It is supported by [[Bethadh]] "the tree of life" and the main structure is made in  /*TO DO*/
 
 
 

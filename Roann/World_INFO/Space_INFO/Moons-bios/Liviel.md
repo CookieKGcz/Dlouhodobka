@@ -1,1 +1,1 @@
-Orbits around [[Dardiel]].
+Orbits around [[Dardiel]] every 8 days.

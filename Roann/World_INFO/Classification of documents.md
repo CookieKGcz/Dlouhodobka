@@ -20,15 +20,15 @@ Just for some documents. Class A-C wont be prob. written.
 - ### #Class_E
 	- knowledge only open to a specific characters/heads of organization. Extremely costly as there is a risk even exposing the information, hardly accessible with spies. Most of the lawful people will likely kill them selves, instead of revealing the information.
 	- #### Examples
-		- 7th - 8th tier of Magic, personal info on famous people, influential information which could pose a thread to organization/country or to a group, ...
+		- 7th - 8th tier of Magic, personal info on famous people, influential information which could pose a threat to organization/country or to a group, ...
 - ### #Class_F
 	- Info available to World leaders and few of their man or to very specific groups. Information that's worth to kill for fr. 
 	- #### Examples
-		- Information past after the generation, influential information which could very likely pose a thread to organization/country or to a group, ...
+		- Information past after the generation, influential information which could very likely pose a threat to organization/country or to a group, ...
 - ### #Class_G
-	- Info known by few. 99% not noted, only passed by word of mouth. Can influence Raonn.
+	- Info known by few. 99% not noted, only passed by word of mouth. Can influence Roann.
 - ### #Class_Z
-	- Known to Legendry/Ancient creatures. 
+	- Known to Legendary/Ancient creatures. 
 - ### #Class_β
 	- Info that could be known by characters, but only in specific moment. Think before informing players as it very well could reveal the plot of something.
 - ### #Class_α

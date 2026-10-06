@@ -1,3 +1,5 @@
+The kingdom was once called Thelion. The city of [[Thelion]] still carries the old name.
+
 Consist of:
 - [[Delmors Rainforest]]
 - [[Lost city]]

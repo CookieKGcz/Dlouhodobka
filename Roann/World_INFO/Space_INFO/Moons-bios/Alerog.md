@@ -1,1 +1,1 @@
-Second twin moons. Orangish color. Similar sizes (2300 - 2600 km r). Takes 1.22 years to orbit.
+Second twin moons. Orangish color. Similar sizes (1600 - 1800 km r). Takes 160 days to orbit.

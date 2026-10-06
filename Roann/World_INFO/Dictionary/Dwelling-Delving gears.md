@@ -18,8 +18,8 @@ The rank of the gear depends on what layer it is going to used on
 	- More "charms" for heat like [[Ring of Fire Resistance]].
 	- And the whole gear is supported with more armor.
 	- Cost is around 10'000 gold, but if artifacts are rented then around 3000 + rent.
-- ### Rank 4 (6st l.)
-	- All things that are on rank 1-2
+- ### Rank 4 (6th l.)
+	- All things that are on rank 1-3
 	- More of a tools upgrade. Mainly for protection.
 	- #todo
 - ### Rank 5 (7th -  l.)

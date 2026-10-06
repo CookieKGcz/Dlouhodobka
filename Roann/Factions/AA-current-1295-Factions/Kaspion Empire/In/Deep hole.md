@@ -1,10 +1,10 @@
 ## Quick Info
-- Located in the Hearth of [[Kaspion Empire]]. 
+- Located in the Heart of [[Kaspion Empire]]. 
 - Surrounded by the biggest mountain range in Roann, it is not easy to get there. 
 - Majority of the population are Dwarfs.
 - On top diameter is around 90 km (15px).
 - Depth is unknown, because of the 13th layer.
-- [[Dwelling-Delving gears]] (used for descend, climb and other things) are necessary if you will climb below 2st layer, without a permit.
+- [[Dwelling-Delving gears]] (used for descend, climb and other things) are necessary if you will climb below 2nd layer, without a permit.
 ## The Hole
 For probably 3000 years it has been called for the local folk just the hole. XXX
 ### Safehouses - [[Safehouses of the Kaspions Hole]]
@@ -21,7 +21,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 - ### 2nd layer
 	- 2nd layer has 2 parts. The first is the whole abyss narrowing to just about 29 km of width and then the second where it goes down almost 90 degrees.
 	- The start is about the same as the 1st layer but less light, more creatures, more slippery, less known tracks and overall just more difficult.
-	- The [[Sun Lupines]] are present, which its lianas are more thicker and more in quantity deeper you go.
+	- The [[Sun Lupines]] are present, which its lianas are thicker and more in quantity deeper you go.
 	- The later stages are covered with [[Mutated Lily pads]] and the humidity is reaching almost unbreathable highs.
 	- ![[2fe30de9e79265a7b26cbe00f8ec9372.jpg | 200]]
 	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary to enter 3rd layer.
@@ -55,7 +55,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- Safehouses - 28 + 1 town
 - ### 6th layer
 	- Now halfway through the twist the atmosphere changes. From Jungle you are going to crystalline cave.
-	- Crazy sharp crystalline cave to be exact. So be worry of the environment itself, because if you fall just a few meters there is almost guaranteed chance that you are going to be impaled, sliced open or minimally in the need of a healer.
+	- Crazy sharp crystalline cave to be exact. So beware of the environment itself, because if you fall just a few meters there is almost guaranteed chance that you are going to be impaled, sliced open or minimally in the need of a healer.
 	- Heat++, Oxygen--, thicker atmosphere.
 	- Cr(8-11) - #todo 
 	- Rare materials found: #todo 
@@ -71,7 +71,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- Rare materials found: #todo 
 	- Safehouses: 5
 - ### 8th layer
-	- A tricky/easy, but long. (slow, because of not making a sound. Silance spell is a must)
+	- A tricky/easy, but long. (slow, because of not making a sound. Silence spell is a must)
 	- X
 	- X
 	- Cr(11-14) - #todo 
@@ -100,7 +100,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- Rare materials found: #todo 
 	- Safehouses: #todo 
 - ### 13th layer
-	- Those who returned to tell the tail are less then 100. There are only 87 documented returnee for the last 2000 years.
+	- Those who returned to tell the tale are less then 100. There are only 87 documented returnee for the last 2000 years.
 	- Those who then documented their findings said that there is only void or bottomless abyss out there. Most probably filled with horrors too.
 	- Cr(unconfirmed)
 	- Rare materials found: #todo 

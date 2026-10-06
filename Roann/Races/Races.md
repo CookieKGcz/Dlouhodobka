@@ -2,7 +2,7 @@ In Roann you will find countless races with their own unique nature and abilitie
 
 Common - Probably a solid 85% - 90% of population in Roann are common race. They are the most adaptable, efficient species with common humanoid characteristics. 
 Exotic - 6%-10% in population. They vary in almost every aspect from common races. Also in-categorized the subspecies from the common races. 
-Monstrous - 4%-5% -||-. They are more similar to animals and monsters, then the common spices.
+Monstrous - 4%-5% -||-. They are more similar to animals and monsters, than the common species.
 
 
 - ### Common

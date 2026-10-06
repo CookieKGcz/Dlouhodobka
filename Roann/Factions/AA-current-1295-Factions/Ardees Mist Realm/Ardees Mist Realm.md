@@ -10,7 +10,6 @@ Consist of:
 - [[Selia Institute]]
 - [[Aneyn]]
 - [[Ardess]]
-- [[Arrys]]
 - [[Aryss origin]]
 - [[Aryss town]]
 - [[Bechmor]]
@@ -30,4 +29,5 @@ Consist of:
 - [[Priory point]]
 - [[Rhesa vill]]
 - [[Terst]]
+- [[Thelion]]
 - 
