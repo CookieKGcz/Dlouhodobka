@@ -155,12 +155,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUNI/3Semestr-KYB/PV017-IT SEC/1 260915 - Úvod do informační bezpečnosti.md",
+                    "file": "MUNI/3Semestr-KYB/PV210-KybTeam/4 261007 - Vulnerability management.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1 260915 - Úvod do informační bezpečnosti"
+                  "title": "4 261007 - Vulnerability management"
                 }
               }
             ],
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "d190f6aa9166603c",
@@ -351,6 +352,8 @@
   },
   "active": "618f61af76443fb9",
   "lastOpenFiles": [
+    "MUNI/3Semestr-KYB/PV017-IT SEC/1 260915 - Úvod do informační bezpečnosti.md",
+    "MUNI/3Semestr-KYB/PV210-KybTeam/4 261007 - Vulnerability management.md",
     "Roann/Pics/Maps/Roann14WithoutLabelsOfMinorTowns3.png",
     "Roann/Pics/Maps/RoannTyneadCcompFrance.png",
     "Roann/Pics/Maps/Roann20kx10k.png",
@@ -389,14 +392,12 @@
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/demo_materials/1_use_case_diagram/use-case-food-delivery.jpg",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/demo_materials/2_activity_diagram/activity-diagram-food-delivery.jpg",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/plantuml-examples/03-text-description-template.md",
-    "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/demo_materials/2_activity_diagram/activity-diagram-food-delivery.jpg",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/state-diagram-checklist.md",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/sequence-diagram-checklist.md",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/design-class-diagram-checklist.md",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/analytical-class-diagram-checklist.md",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/activity-diagram-checklist.md",
     "MUNI/3Semestr-KYB/PB007-SWENG/SlidesXmaterial/plantuml-examples/checklists/Checklist_-_Use_Case_Diagram.md",
-    "MUNI/3Semestr-KYB/PV017-IT SEC/0 PV017 - Přehled předmětu.md",
     "Roann/Map/Map-Factions.canvas",
     "MUNI/1Semestr-KYB/PB168-DB/Cvičení1.canvas",
     "DND/Canv.canvas",
