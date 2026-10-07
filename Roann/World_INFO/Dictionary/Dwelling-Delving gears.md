@@ -14,7 +14,7 @@ The rank of the gear depends on what layer it is going to used on
 	- This gear is most of the time bought (1000 - 1200 gold).
 - ### Rank 3 (4th - 5th l.)
 	- All things that are on rank 1-2
-	- Oxygen is running low even with mana being present, so [[Necklase of Adaptaion]] is required from here on out.
+	- Oxygen is running low even with mana being present, so [[Necklace of Adaptation]] is required from here on out.
 	- More "charms" for heat like [[Ring of Fire Resistance]].
 	- And the whole gear is supported with more armor.
 	- Cost is around 10'000 gold, but if artifacts are rented then around 3000 + rent.

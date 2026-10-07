@@ -6,7 +6,7 @@ Consist of:
 - [[Forest of Fymor]]
 - [[Fymor the city of Iron tower]]
 - [[Fymor Academy]]
-- [[Keilnorn]]
+- [[Kelinorn]]
 - [[Peninsula of Wondre the Great]]
 - [[The citadel of the Quirm Lady]]
 - [[Tyne Garden]]

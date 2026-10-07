@@ -1,4 +1,4 @@
-Galaxy where [[Roann]] is situated in.
+Galaxy where [[AA-Roann|Roann]] is situated in.
 
 The type is somewhere between SBb and SBc type of galaxy
 ![[Pasted image 20240602212225.png]]- NGC 1365

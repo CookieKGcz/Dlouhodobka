@@ -1,4 +1,4 @@
-"On the future of the Skigness peninsula" is a work of political literature by \*Insert name\*. It advocates for a republic made from the different city states on the Skigness peninsula. The book rose to prominence after \*The guy\* died and eventually led to the founding of the [[Collio Republic|Collian Republic]].
+"On the future of the Skigness peninsula" is a work of political literature by \*Insert name\*, written around 840. The author died around 860, and the Republic was founded around 870. It advocates for a republic made from the different city states on the Skigness peninsula. The book rose to prominence after \*The guy\* died and eventually led to the founding of the [[Collio Republic|Collian Republic]].
 
 Before the union, the cities of the Skigness peninsula were free city-states. Nobody invaded them, because the trade on [[The Great Lake]] was too useful to everyone around it.
 

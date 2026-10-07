@@ -1,4 +1,4 @@
-Star of the solar system [[Roann]] is part of.
+Star of the solar system [[AA-Roann|Roann]] is part of.
 could but not https://en.wikipedia.org/wiki/Kepler-90
 https://en.wikipedia.org/wiki/Mu_Arae
 ![[Pasted image 20240602223836.png]]

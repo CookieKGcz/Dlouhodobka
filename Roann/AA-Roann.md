@@ -19,16 +19,17 @@ great union age (200 [[Golden Age|b.g.a.]][^1]), where first kinds of trades bet
 
 
 The next 200 years were more of a settling down for the main and ruling kingdoms. Until Magic was slowly spreading even to small villages. Before, it was taught only to picked / noble people and for commoners was practically a taboo. Magic for healing, hunting and for chores / "small magic" was especially popular. The golden years were around the time where also the new [[Miric Calendar]] was getting popular and so, after the year -+ 20 [[Golden Age|a.g.a.]][^2] the education also saw a big improvement.
+In year 0 a falling star struck the far west, opening [[THE Rift]]. People say it brought magic, and that year marks the start of the Magic Golden Age.
 With [[Factions]] like [[Iremorth Kingdom]], [[Tynead Kingdom]] and [[Kaspion Empire]] allowing the marketing with books with commoners and opening more and more schools to the lesser people, while also building more.
 But of course, nothing comes free. As Magic was the highest priority all other things were more and more overshadowed. The beliefs and their Gods were slowly replaced with heroes of wars or just forgotten all together, because of the newer generations.
 x    -    more like The gods ideals weren't the same as the people of Roann anymore. (could implement this that the gods haven't had some fun in a while) #todo
 
 Around the year of 400 - 500 for some reason, strange things were starting to happen, such as increase of monsters found in the wild, people disappearing and new unknown phenomena appearing around the whole globe.
-In an year 663 researcher [[Anton Viln]] from Batun ([[Batun Towers]]), has finished his investigation about this topic and found that it has to do with the mana in some sections in the world going wild. This theory was 'solution' for the less important cases of weird phenomena. For example the disappearance of seven families in the [[Lost city]] which left a uncontrollable and non-absorbable mana left around their home, or the increase of monsters who have been reported to be more consistently settling down around a natural concentrated mana.
+In an year 663 researcher [[Anton Viln]] from Batun ([[Batun Tower]]), has finished his investigation about this topic and found that it has to do with the mana in some sections in the world going wild. This theory was 'solution' for the less important cases of weird phenomena. For example the disappearance of seven families in the [[Lost city]] which left a uncontrollable and non-absorbable mana left around their home, or the increase of monsters who have been reported to be more consistently settling down around a natural concentrated mana.
 But some things were still unexplainable, such as whole cities just ceasing to exist over night, unnatural landscape transformation, reports of ghosts appearing, the chances of babies being born dead being higher, but also a bizarre things like face features disappearing, strange sounds popping out of nowhere and people killing themselves with drowning or jumping from high places. This let a lot of researchers going crazy and in the end just blaming it on the reporting crew or the families. But after some time these things were less and less frequent and everyone adapted.
 And with this we are approaching the year 1000. Some minor some important wars started and ended, but one of the notable things happening was the [[Gunlags Dominion]] establishment, but it was just one brute family overpowering the other. The other thing which started to happen again are the unexplainable things and phenomena, but not so dramatically as before.
 x
-The asteroid/[[THE Rift]] #todo
+The asteroid/[[THE Rift]]: moved to year 0 (see above). Anything else between 1000 and 1295? See [[Timeline]]. #todo
 x
 And this takes us to current year 1295.
 
@@ -40,6 +41,7 @@ And this takes us to current year 1295.
 - [[When Life and Death meets]]
 - [[The Birth of Concepts]]
 - [[Races]]
+- [[Timeline]]
 - #todo
 
 ## Additional info

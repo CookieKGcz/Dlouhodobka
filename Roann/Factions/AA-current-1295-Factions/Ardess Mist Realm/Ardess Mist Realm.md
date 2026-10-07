@@ -1,5 +1,5 @@
 Consist of:
-- [[Arrys]]
+- [[Aryss]]
 - [[Crypt of the Old One]]
 - [[Desert of Giants]]
 - [[Labyrinth of the gate to the Mist]]
@@ -25,7 +25,7 @@ Consist of:
 - [[Lyxren]]
 - [[Natthen]]
 - [[Ntia]]
-- [[Porst]]
+- [[Porstt]]
 - [[Priory point]]
 - [[Rhesa vill]]
 - [[Terst]]

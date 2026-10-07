@@ -1,1 +1,1 @@
-A vast body of water bordering the [[Iremorth Kingdom]], the [[Collio Republic]], the [[Kaspion Empire]], [[Gunlags Dominion]], and the [[Ardees Mist Realm]]
+A vast body of water bordering the [[Iremorth Kingdom]], the [[Collio Republic]], the [[Kaspion Empire]], [[Gunlags Dominion]], and the [[Ardess Mist Realm]]

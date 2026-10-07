@@ -4,7 +4,7 @@ Created by [[Miric Abdul]] in the later stages of year 0 [[Golden Age|a.g.a.]]
 
 Months (17): [[Rielum]], [[Peniyum]], [[Azraum]], [[Jophum]], [[Maelum]], [[Dielum]], [[Shudum]], [[Hikum]], [[Sulfum]], [[Devirum]], [[Buqum]], [[Cerium]], [[Gendum]], [[Vaeum]], [[Fonum]], [[Gabrum]], [[Maceum]]
 
-Days: [[Sacha]], [[Saviel]], [[Baltha]], [[Unam]], [[Panael]], [[Archiel]], [[Riel]], [[Pyrid]]
+Days: [[Sacha]], [[Saviel]], [[Baltha]], [[Umam]], [[Penael]], [[Archiel]], [[Riel]], [[Pyrid]]
 
 
 Start of the Magic Golden Age  =  year 0 in the new calendar

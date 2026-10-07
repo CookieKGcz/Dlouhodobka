@@ -3,25 +3,25 @@ A backup of all notes from before the cleanup is in `_backup-before-cleanup-2026
 Blank notes were left untouched on purpose.
 
 # Renames to do in Obsidian
-(Do these with Obsidian's rename so links update automatically.)
-- [ ] Folder `Factions/AA-current-1295-Factions/Ardees Mist Realm` → `Ardess Mist Realm`
-- [ ] Note `Ardees Mist Realm.md` → `Ardess Mist Realm.md` (links to it update automatically if 'Automatically update internal links' is on in Settings → Files & links)
-- [ ] Note `Kaspion Empire/In/Lavrass.md` → `Lavras.md`
-- [ ] Note `Kaspion Empire/In/The Great Vofonia School.md` → `The Great Vafonia School.md`
-- [ ] Note `Tynead Kingdom/In/Keilnorn.md` → `Kelinorn.md`
-- [ ] Note `Ardees Mist Realm/In/Porst.md` → `Porstt.md`
-- [ ] Note `Ardees Mist Realm/In/Arrys.md` → `Aryss.md` (it's the lake)
-- [ ] Note `World_INFO/Calendar/Days/Unam.md` → `Umam.md`
-- [ ] Note `World_INFO/Calendar/Days/Panael.md` → `Penael.md`
-- [ ] Note `Gunlags Dominion/In/The forest of Silent.md` → `The Silent Forest.md`
-- [ ] Note `Gunlags Dominion/In/The past of Omens.md` → `The Path of Omens.md`
-- [ ] Note `Haford Empire/In/Batun Towers.md` → `Batun Tower.md`
-- [ ] Note `Haford Empire/In/Round black-forest.md` → `Round Blackforest.md`
-- [ ] Note `Kaspion Empire/In/Seville.md` → `Skovell.md` (real-world name replaced)
-- [ ] Note `Kaspion Empire/In/Tranmere.md` → `Tranmor.md` (real-world name replaced)
-- [ ] Note `Equipment/Necklase of Adaptaion.md` → `Necklace of Adaptation.md`
-- [ ] Note `Important_Places/Buraeu of Central Kaspion.md` → `Bureau of Central Kaspion.md`
-- [ ] Note `World_INFO/Space_INFO/Galaxy/Andromeda.md` → `Aurael.md` (real galaxy name replaced)
+(Done by Claude on 2026-10-08: files renamed and all 34 links inside the Roann folder updated.)
+- [x] Folder `Factions/AA-current-1295-Factions/Ardees Mist Realm` → `Ardess Mist Realm`
+- [x] Note `Ardees Mist Realm.md` → `Ardess Mist Realm.md` (links to it update automatically if 'Automatically update internal links' is on in Settings → Files & links)
+- [x] Note `Kaspion Empire/In/Lavrass.md` → `Lavras.md`
+- [x] Note `Kaspion Empire/In/The Great Vofonia School.md` → `The Great Vafonia School.md`
+- [x] Note `Tynead Kingdom/In/Keilnorn.md` → `Kelinorn.md`
+- [x] Note `Ardees Mist Realm/In/Porst.md` → `Porstt.md`
+- [x] Note `Ardees Mist Realm/In/Arrys.md` → `Aryss.md` (it's the lake)
+- [x] Note `World_INFO/Calendar/Days/Unam.md` → `Umam.md`
+- [x] Note `World_INFO/Calendar/Days/Panael.md` → `Penael.md`
+- [x] Note `Gunlags Dominion/In/The forest of Silent.md` → `The Silent Forest.md`
+- [x] Note `Gunlags Dominion/In/The past of Omens.md` → `The Path of Omens.md`
+- [x] Note `Haford Empire/In/Batun Towers.md` → `Batun Tower.md`
+- [x] Note `Haford Empire/In/Round black-forest.md` → `Round Blackforest.md`
+- [x] Note `Kaspion Empire/In/Seville.md` → `Skovell.md` (real-world name replaced)
+- [x] Note `Kaspion Empire/In/Tranmere.md` → `Tranmor.md` (real-world name replaced)
+- [x] Note `Equipment/Necklase of Adaptaion.md` → `Necklace of Adaptation.md`
+- [x] Note `Important_Places/Buraeu of Central Kaspion.md` → `Bureau of Central Kaspion.md`
+- [x] Note `World_INFO/Space_INFO/Galaxy/Andromeda.md` → `Aurael.md` (real galaxy name replaced)
 
 # Map label fixes
 (These are on the map images, so they need fixing in the map tool.)
@@ -183,3 +183,26 @@ Blank notes were left untouched on purpose.
 - `AA-Roann.md` (1x): `~200 hexagons on map` → `~143 hexagons across the map at the equator (28 px each)`
 - `Map/Distance-Height WIP.md` (1x): `~200 hexagons on map` → `~143 hexagons across the map at the equator (28 px each)`
 - `Map/Map-Factions.canvas` (1x): `[[Crypt of the Old One ]]` → `[[Crypt of the Old One]]`
+
+## Renames (2026-10-08)
+- All 18 notes and the Ardees → Ardess Mist Realm folder renamed. 34 links in 17 notes/canvases updated to the new names (including one [[Batun Tower]] link in Roann.md, so it doesn't break).
+
+## Core mystery (2026-10-08)
+- New DM-only note `AA-Truth.md` with the decided truth about the gods, Corruption, the seal and year 0.
+
+## Timeline (2026-10-08)
+
+- `AA-Roann.md` (1x): "With [[Factions]] like" → "In year 0 a falling star struck the far west, opening [[THE Rift]]. People say it brought magic, and that year marks the start of the Magic Golden Age. ⏎ Wit..."
+- `AA-Roann.md` (1x): "The asteroid/[[THE Rift]] #todo" → "The asteroid/[[THE Rift]]: moved to year 0 (see above). Anything else between 1000 and 1295? See [[Timeline]]. #todo"
+- `AA-Roann.md` (1x): "- [[Races]] ⏎ - #todo" → "- [[Races]] ⏎ - [[Timeline]] ⏎ - #todo"
+- `AA-Truth.md` (1x): "The real story behind [[AA-Roann]]." → "The real story behind [[AA-Roann]] and the public [[Timeline]]."
+- `AA-Truth.md` (1x): "- #todo How did Miric Abdul know the gods' names?" → "- #todo How did Miric Abdul know the gods' names? ⏎ - #todo The Shiva Islands went dark ~1050, right after Corruption started seeping again. Connected? *(sug..."
+- `Characters/Alive/Tynead/Ricia Tyne.md` (1x): "# Background" → "# Background ⏎ Born 1273. The fire was in 1279, when she was 6; the [[Tyne]] family found and adopted her. She's 22 in 1295."
+- `Factions/AA-current-1295-Factions/Collio Republic/The history of the Skigness peninsula.md` (1x): "is a work of political literature by \*Insert name\*." → "is a work of political literature by \*Insert name\*, written around 840. The author died around 860, and the Republic was founded around 870."
+- New public note `History/Timeline.md`.
+
+## Roann.md removed (2026-10-08)
+
+- `World_INFO/Space_INFO/Galaxy/Aurael.md` (1x): "[[Roann]]" → "[[AA-Roann|Roann]]" — pointed at AA-Roann before deleting Roann.md
+- `World_INFO/Space_INFO/Solar_System/Alkes.md` (1x): "[[Roann]]" → "[[AA-Roann|Roann]]" — pointed at AA-Roann before deleting Roann.md
+- Deleted `Roann.md` at your request. Everything in it was already in AA-Roann (older wording, typos and superseded numbers only). The original is still in the backup zip.

@@ -1,6 +1,6 @@
 Consist of: 
 - [[Arneg woods]]
-- [[Batun Towers]]
+- [[Batun Tower]]
 - [[Batun School]]
 - [[Dor]]
 - [[Vor]]
@@ -8,7 +8,7 @@ Consist of:
 - [[Forest of the forgotten]]
 - [[Frostwood plains]]
 - [[Gates of Dor and Vor]]
-- [[Round black-forest]]
+- [[Round Blackforest]]
 - [[Saru Keep]]
 - [[The Ebalin Fortress]]
 - [[Whispering forest]]

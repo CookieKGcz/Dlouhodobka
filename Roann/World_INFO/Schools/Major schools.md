@@ -6,7 +6,7 @@ There are 12 major schools in [[AA-Roann]].
 - [[Naefore Academy]]
 - [[Trirror Academy]]
 - [[Iremorth Academy for Healing]]
-- [[The Great Vofonia School]]
+- [[The Great Vafonia School]]
 - [[Masahabi Institute]]
 - [[Selia Institute]]
 - [[Cliyne College]]

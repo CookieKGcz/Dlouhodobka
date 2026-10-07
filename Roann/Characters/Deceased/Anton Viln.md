@@ -1,5 +1,5 @@
 ## Connections:
-- [[Batun Towers]], [[Batun School]]
+- [[Batun Tower]], [[Batun School]]
 
 
 ## pics:

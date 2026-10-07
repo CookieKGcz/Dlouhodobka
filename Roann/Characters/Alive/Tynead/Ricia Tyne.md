@@ -17,6 +17,7 @@ In the case of outfits, she really likes the [[Tyne]]'s family's hunter coat and
 - /
 - 
 # Background
+Born 1273. The fire was in 1279, when she was 6; the [[Tyne]] family found and adopted her. She's 22 in 1295.
 /: Tragedy, finding her (prob. in the woods if they are named after her), life in the family -> learning the family technique/swordsmanship/manners. Being recruited (of her own decision) into royal guards -> adventuring for xx years as the final test %%(prob could take a diff test, but choose *exploration and adventuring* because cringy ass shit mind) :/%%
 
 ## pics

@@ -24,7 +24,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- The [[Sun Lupines]] are present, which its lianas are thicker and more in quantity deeper you go.
 	- The later stages are covered with [[Mutated Lily pads]] and the humidity is reaching almost unbreathable highs.
 	- ![[2fe30de9e79265a7b26cbe00f8ec9372.jpg | 200]]
-	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary to enter 3rd layer.
+	- A document of approval from the [[Bureau of Central Kaspion]] is necessary to enter 3rd layer.
 	- + ~14+108 km of depth (total to the 2nd 252km)
 	- Cr(3-7) - #todo 
 	- Rare materials found: #todo 
@@ -61,7 +61,7 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- Rare materials found: #todo 
 	- Safehouses - 7 + 5 before the entrance to the 7th layer
 - ### 7th layer
-	- Entering with [[Dwelling-Delving gears]] below rank 5 is prohibited by [[Buraeu of Central Kaspion]] without a rank 5 certification.
+	- Entering with [[Dwelling-Delving gears]] below rank 5 is prohibited by [[Bureau of Central Kaspion]] without a rank 5 certification.
 	- This cave has obsidian, kilometers long tubes in a complex web inside of it. 
 	- The gear for this layer is one of the special ones, so read before going in.
 	- #Night-gear

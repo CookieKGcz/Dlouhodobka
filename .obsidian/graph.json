@@ -25,7 +25,7 @@
       "query": "path:MUNI  ",
       "color": {
         "a": 1,
-        "rgb": 16771584
+        "rgb": 16711680
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.033275065085652485,
+  "scale": 0.08317427835927546,
   "close": false
 }
